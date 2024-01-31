@@ -5,6 +5,8 @@ from wanakana import to_hiragana, is_japanese, is_katakana, is_hiragana, is_kanj
 from deep_translator import (ChatGptTranslator, GoogleTranslator)
 import string
 
+chat_gpt_apikey = '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'
+
 tokenizer_obj = dictionary.Dictionary(dict_type="small").create()
 
 KANJI_READING_MAPPING = {
@@ -83,22 +85,27 @@ def add_furigana(text):
             parsed += token.surface()
     return parsed
 
-def translate(word):
-    return GoogleTranslator(source='japanese', target='english').translate(text=word)
-
-vocabulary = pd.read_csv('new_vocab.csv')
-
 data = []
-columns = ['index', 'word', 'word_with_reading', 'definition', 'example_sentence', 'sentence_with_reading', 'sentence_translation', 'Kanji', 'v1', 'word_audio', 'setence_audio']
+columns = ['index', 'word', 'word_with_reading', 'defintion', 'example_sentence', 'sentence_with_reading', 'setence_translation', 'Kanji', 'v1', 'word_audio', 'setence_audio']
+
+while input("you got a word for me?\n").lower() == 'yes':
+
+    word = input("enter some shit if u want idc\n")
+
+    definition = GoogleTranslator(source='japanese', target='english').translate(text=word)
+
+    sentence = input("u got a sentence to go wit that bitch?\n")
+
+    if sentence.lower() == 'no':
+        sentence = None
+        sentence_def = None
+    else:
+        sentence_def = GoogleTranslator(source='japanese', target='english').translate(text=sentence)
+
+    info = [word, word, add_furigana(word), definition, sentence, add_furigana(sentence) if sentence is not None else None, sentence_def, True, None, None, None]
+
+    data.append(info)
+
 df = pd.DataFrame(data, columns=columns)
 
-df['index'] = vocabulary['Vocab']
-df['word'] = vocabulary['Vocab']
-df['word_with_reading'] = vocabulary['Vocab'].apply(add_furigana)
-df['definition'] = vocabulary['Vocab'].apply(translate)
-df['example_sentence'] = vocabulary['Sentence']
-df['sentence_with_reading'] = vocabulary['Sentence'].apply(add_furigana)
-df['sentence_translation'] = vocabulary['Sentence'].apply(translate)
-df['Kanji'] = True
-
-df.to_csv('vocab.csv', encoding="utf-8", index=False, header=False)
+df.to_csv('../../datavocab.csv', encoding="utf-8", index=False, header=False)
