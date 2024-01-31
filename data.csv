@@ -1,0 +1,1055 @@
+1001,一,一[いち],One,このレモン、一キログラム！？大きいですね！,このレモン、 一[いち]キログラム！？ 大[おお]きいですね！,This lemon weighs a kilogram!? That's big!,True,,,,1
+1002,一つ,一[ひと]つ,One Thing,レモン、一つ下さい。,レモン、 一[ひと]つ 下[くだ]さい。,"A lemon, please.",True,,,,1
+1003,七,七[なな],Seven,コウイチのラッキーナンバーは七です。,コウイチのラッキーナンバーは 七[なな]です。,Koichi's lucky number is seven.,True,,,,1
+1004,七つ,七[なな]つ,Seven Things,そのクッキー、七つ下さい。,そのクッキー、 七[なな]つ 下[くだ]さい。,"Seven of those cookies, please.",True,,,,1
+1005,九,九[きゅう],Nine,ガソリンスタンドまで九マイルです。,ガソリンスタンドまで 九[きゅう]マイルです。,It is nine miles to the gas station.,True,,,,1
+1006,九つ,九[ここの]つ,Nine Things,このエリアに九つの山がある。,このエリアに 九[ここの]つの 山[やま]がある。,There are nine mountains in this area.,True,,,,1
+1007,二,二[に],Two,エントリーナンバーは二です。,エントリーナンバーは 二[に]です。,The entry number is two.,True,,,,1
+1008,二つ,二[ふた]つ,Two Things,ビルが二つあります。,ビルが 二[ふた]つあります。,There are two buildings.,True,,,,1
+1009,人,人[ひと],Person,この人がコウイチです。,この 人[ひと]がコウイチです。,This person is Koichi.,True,,,,1
+1010,二人,二人[ふたり],Two People,このアパートは二人には大きい。,このアパートは 二人[ふたり]には 大[おお]きい。,This apartment is too big for two people.,True,,,,1
+1011,一人,一人[ひとり],Alone,一人でカラオケにいきました。,一人[ひとり]でカラオケにいきました。,I went to karaoke alone.,True,,,,1
+1012,アメリカ人,アメリカ 人[にん],American Person,アメリカ人ですか？,アメリカ 人[にん]ですか？,Are you American?,True,,,,3
+1013,フランス人,フランス 人[にん],French Person,二人のフランス人がいる。,二人[ふたり]のフランス 人[にん]がいる。,There are two French people.,True,,,,3
+1014,入る,入[はい]る,To Enter,ジェニーはもうすぐインターナショナルスクールに入る。,ジェニーはもうすぐインターナショナルスクールに 入[はい]る。,Jenny will go to an international school soon.,True,,,,1
+1015,入れる,入[い]れる,To Insert,毎日ボトルに水を入れる。,毎日[まいにち]ボトルに 水[みず]を 入[い]れる。,I put water in a bottle every day.,True,,,,5
+1016,八,八[はち],Eight,これは八ページのエッセイです。,これは 八[はち]ページのエッセイです。,This is an eight-page essay.,True,,,,1
+1017,八つ,八[よう]つ,Eight Things,このカレーにはじゃがいもが八つ入っています。,このカレーにはじゃがいもが 八[よう]つ 入[はい]っています。,This curry has eight potatoes in it.,True,,,,1
+1018,力,力[ちから],Power,力の大きさが、ちがう。,力[ちから]の 大[おお]きさが、ちがう。,The size of the forces is different.,True,,,,1
+1019,十,十[じゅう],Ten,バターを十グラム下さい。,バターを 十[じゅう]グラム 下[くだ]さい。,"Ten grams of butter, please.",True,,,,1
+1020,三,三[さん],Three,三ドルです。,三[さん]ドルです。,It's three dollars.,True,,,,1
+1021,三つ,三[みっ]つ,Three Things,このスーツケースにはメロンが三つ入る。,このスーツケースにはメロンが 三[みっ]つ 入[はい]る。,This suitcase can fit three melons.,True,,,,1
+1022,三人,三[さん] 人[にん],Three People,三人のルームメイトがいます。,三[さん] 人[にん]のルームメイトがいます。,I have three roommates.,True,,,,1
+1023,上,上[うえ],Above,山の上でヨガをしたいね。,山[やま]の 上[うえ]でヨガをしたいね。,I want to do yoga on top of a mountain.,True,,,,1
+1024,上げる,上[あ]げる,To Lift Something,大きいブランケットをロフトに上げる。,大[おお]きいブランケットをロフトに 上[あ]げる。,I lift a large blanket up to the loft.,True,,,,1
+1025,上がる,上[あ]がる,To Go Up,八月に花火が上がる。,八[はち] 月[がつ]に 花火[はなび]が 上[あ]がる。,Fireworks get set off in August.,True,,,,5
+1026,上る,上[のぼ]る,To Climb,ルームメイトはロフトに上る。,ルームメイトはロフトに 上[のぼ]る。,My roommate goes up to the loft.,True,,,,2
+1027,下,下[した],Below,あ、テーブルの下にハムスターがいる！,あ、テーブルの 下[した]にハムスターがいる！,"Oh, there's a hamster under the table!",True,,,,1
+1028,下がる,下[さ]がる,To Get Lower,雨の日は気分が下がる。,雨[あめ]の 日[ひ]は 気分[きぶん]が 下[さ]がる。,My mood is lower on rainy days.,True,,,,5
+1029,下げる,下[さ]げる,To Lower Something,力いっぱいレバーを下げて！,力[ちから]いっぱいレバーを 下[さ]げて！,Lower the lever as hard as you can!,True,,,,1
+1030,下さい,下[くだ]さい,Please Give Me,みそラーメン下さい。,みそラーメン 下[くだ]さい。,"A miso ramen, please.",True,,,,1
+1031,口,口[くち],Mouth,口にソースがついていますよ。,口[くち]にソースがついていますよ。,There is some sauce on your mouth.,True,,,,1
+1032,入り口,入[い]り 口[ぐち],Entrance,入り口は、どこ？,入[い]り 口[ぐち]は、どこ？,Where is the entrance?,True,,,,1
+1033,大きい,大[おお]きい,Big,大きいメロンを下さい。,大[おお]きいメロンを 下[くだ]さい。,"A large melon, please.",True,,,,1
+1034,大きさ,大[おお]きさ,Size,このサンダルの大きさは、28センチです。,このサンダルの 大[おお]きさは、28センチです。,These sandals are size 28 cm.,True,,,,1
+1035,大した,大[たい]した,Great,大したことじゃないよ。,大[たい]したことじゃないよ。,It's no big deal.,True,,,,1
+1036,大人,大人[おとな],Adult,大人のチケット下さい。,大人[おとな]のチケット 下[くだ]さい。,"A ticket for an adult, please.",True,,,,1
+1037,女,女[おんな],Woman,バーに三人の女がいる。,バーに 三[さん] 人[にん]の 女[おんな]がいる。,There are three women at the bar.,True,,,,1
+1038,山,山[やま],Mountain,これは人工の山だ。,これは 人工[じんこう]の 山[やま]だ。,This is an artificial mountain.,True,,,,1
+1039,ふじ山,ふじ 山[やま],Mt Fuji,あっ、ふじ山だ！,あっ、ふじ 山[やま]だ！,"Oh, it's Mt. Fuji!",True,,,,1
+1040,川,川[かわ],River,この川はアマゾン川です。,この 川[かわ]はアマゾン 川[かわ]です。,This river is the Amazon River.,True,,,,1
+1041,刀,刀[かたな],Sword,いきなりサムライが刀を上げた。,いきなりサムライが 刀[かたな]を 上[あ]げた。,The samurai raised his sword out of the blue.,True,,,,2
+1042,土,土[つち],Soil,そのトマト、土がついてるよ。,そのトマト、 土[つち]がついてるよ。,That tomato has some dirt on it.,True,,,,2
+1043,千,千[せん],Thousand,一リットルとは、千ミリリットルのことだ。,一[いち]リットルとは、 千[せん]ミリリットルのことだ。,One liter is a thousand milliliters.,True,,,,2
+1044,一千,一千[いちせん],One Thousand,一千くらいです。,一千[いちせん]くらいです。,It's about one thousand.,True,,,,2
+1045,夕べ,夕[ゆう]べ,Last Night,夕べ、月をみた。,夕[ゆう]べ、 月[つき]をみた。,I saw the moon last night.,True,,,,2
+1046,女の子,女[おんな]の 子[こ],Girl,白のドレスの女の子がレイチェルです。,白[しろ]のドレスの 女[おんな]の 子[こ]がレイチェルです。,The girl in the white dress is Rachel.,True,,,,2
+1047,子,子[こ],Kid,そのライオンの子はシンバという。,そのライオンの 子[こ]はシンバという。,That lion's child is called Simba.,True,,,,2
+1048,女子,女子[じょし],Girl,そっちは女子トイレですよ。,そっちは 女子[じょし]トイレですよ。,The ladies' room is over there.,True,,,,2
+1049,小さい,小[ちい]さい,Small,小さいトマトはおいしいですよね。,小[ちい]さいトマトはおいしいですよね。,Small tomatoes are delicious.,True,,,,2
+1050,丸,丸[まる],Circle,ここに丸でチェックして下さい。,ここに 丸[まる]でチェックして 下[くだ]さい。,"Check here with a circle, please.",True,,,,2
+1051,丸い,丸[まる]い,Circular,丸いボールがほしい。,丸[まる]いボールがほしい。,I want a round ball.,True,,,,2
+1052,〜才,〜 才[さい],Years Old,わたしは五才です。,わたしは 五[ご] 才[さい]です。,I am five years old.,True,,,,2
+1053,中,中[なか],Inside,はやく中に入ろう。,はやく 中[ちゅう]に 入[はい]ろう。,Let's go inside quickly.,True,,,,2
+1054,中々,中々[なかなか],Very,このカレー、中々おいしいですね。,このカレー、 中々[なかなか]おいしいですね。,This curry is delicious.,True,,,,2
+1055,五月,五[ご] 月[がつ],May,五月一日にニューヨークへかえりました。,五[ご] 月[がつ] 一日[ついたち]にニューヨークへかえりました。,"On May 1st, I returned to New York.",True,,,,2
+1056,五日,五[いつ] 日[か],Fifth Day,ミーティングは五日でもだいじょうぶ？,ミーティングは 五[いつ] 日[か]でもだいじょうぶ？,Is the 5th okay for the meeting?,True,,,,2
+1057,五十,五十[ごじゅう],Fifty,五十メートルしかウォーキングしなかった。,五十[ごじゅう]メートルしかウォーキングしなかった。,I only walked fifty meters.,True,,,,2
+1058,五つ,五[いつ]つ,Five Things,バレンタインデーにチョコレートを五つもらった。,バレンタインデーにチョコレートを 五[いつ]つもらった。,I got five chocolates on Valentine's Day.,True,,,,2
+1059,五,五[ご],Five,このスマホのスクリーンの大きさは五インチです。,このスマホのスクリーンの 大[おお]きさは 五[ご]インチです。,This smartphone screen size is five inches.,True,,,,2
+1060,六つ,六[むい]つ,Six Things,スプーンが六つあります。,スプーンが 六[むい]つあります。,There are six spoons.,True,,,,2
+1061,六月,六[ろく] 月[がつ],June,六月にアメリカにいきました。,六[ろく] 月[がつ]にアメリカにいきました。,I went to the United States in June.,True,,,,2
+1062,六日,六[むい] 日[か],Sixth Day,あなたは四月六日に、どこにいましたか？,あなたは 四[よん] 月[がつ] 六[むい] 日[か]に、どこにいましたか？,Where were you on April 6th?,True,,,,2
+1063,十六,十六[じゅうろく],Sixteen,ラーメンが十六ドルもしたよ。,ラーメンが 十六[じゅうろく]ドルもしたよ。,The ramen was 16 dollars.,True,,,,2
+1064,六,六[ろく],Six,わたしのソーシャルセキュリティナンバーには六がたくさんあります。,わたしのソーシャルセキュリティナンバーには 六[ろく]がたくさんあります。,There are many sixes in my social security number.,True,,,,2
+1065,〜円,〜 円[えん],Yen,このドレスは五千円でした。,このドレスは 五千[ごせん] 円[えん]でした。,"This dress was 5,000 yen.",True,,,,2
+1066,千円,千[せん] 円[えん],One Thousand Yen,このスカートは、千円です。,このスカートは、 千[せん] 円[えん]です。,This skirt is 1000 yen.,True,,,,2
+1067,円い,円[まる]い,Round,円いフリスビーを子犬にプレゼントした。,円[まる]いフリスビーを 子犬[こいぬ]にプレゼントした。,I gave a round frisbee to a puppy as a present.,True,,,,8
+1068,天,天[てん],Heaven,きっと天にいるママからのメッセージだよ。,きっと 天[てん]にいるママからのメッセージだよ。,It's probably a message from Mom in heaven.,True,,,,2
+1069,天才,天才[てんさい],Genius,あの女の子は天才だ。,あの 女[おんな]の 子[こ]は 天才[てんさい]だ。,That girl is a genius.,True,,,,2
+1070,手,手[て],Hand,王は手を上げて「おはよう！」といった。,王[おう]は 手[て]を 上[あ]げて「おはよう！」といった。,"The king raised his hand and said, ""Good morning!""",True,,,,2
+1071,下手,下手[へた],Unskillful,ギターは下手ですが、ピアノは中々上手ですよ。,ギターは 下手[へた]ですが、ピアノは 中々[なかなか] 上手[じょうず]ですよ。,"I'm not the best at playing the guitar, but I'm pretty good at the piano.",True,,,,2
+1072,上手,上手[じょうず],Good At,ジェニーさん、スキーが上手ですね。,ジェニーさん、スキーが 上手[じょうず]ですね。,"Jenny, you're good at skiing.",True,,,,2
+1073,文,文[ぶん],Writing,文をかくのが上手ですね。,文[ぶん]をかくのが 上手[じょうず]ですね。,You're great at writing.,True,,,,2
+1074,日,日[ひ],Sun,そろそろ日が出ますよ。,そろそろ 日[ひ]が 出[で]ますよ。,The sun will come out soon.,True,,,,2
+1075,月,月[つき],Moon,夕べは月がきれいでしたね。,夕[ゆう]べは 月[つき]がきれいでしたね。,The moon was beautiful last night.,True,,,,2
+1076,十月,十[じゅう] 月[がつ],October,十月に五十才になります。,十[じゅう] 月[がつ]に 五十[ごじゅう] 才[さい]になります。,I will be fifty years old in October.,True,,,,2
+1077,一月,一[いち] 月[がつ],January,ウェディングパーティーは一月でした。,ウェディングパーティーは 一[いち] 月[がつ]でした。,The wedding reception was in January.,True,,,,2
+1078,二月,二[に] 月[がつ],February,バレンタインデーは二月だよ。,バレンタインデーは 二[に] 月[がつ]だよ。,Valentine's Day is in February.,True,,,,2
+1079,木,木[き],Tree,これはサクラの木ですか？,これはサクラの 木[き]ですか？,Is this a cherry tree?,True,,,,2
+1080,水,水[みず],Water,水かジュースをもらえますか。,水[みず]かジュースをもらえますか。,Can I get water or juice?,True,,,,2
+1081,火,火[ひ],Fire,キャンドルに火をつけた。,キャンドルに 火[ひ]をつけた。,I lit the candle.,True,,,,2
+1082,火山,火山[かざん],Volcano,ふじ山は、火山です。,ふじ 山[やま]は、 火山[かざん]です。,Mt. Fuji is a volcano.,True,,,,2
+1083,犬,犬[いぬ],Dog,ぼくのペットは犬です。,ぼくのペットは 犬[いぬ]です。,My pet is a dog.,True,,,,2
+1084,子犬,子犬[こいぬ],Puppy,子犬は、かわいい。,子犬[こいぬ]は、かわいい。,The puppy is cute.,True,,,,2
+1085,王,王[おう],King,わたしが王だ。,わたしが 王[おう]だ。,I am the king.,True,,,,2
+1086,王子,王子[おうじ],Prince,王子が「おはよう！」いってくれた。,王子[おうじ]が「おはよう！」いってくれた。,"The prince said ""Good morning!"" to me.",True,,,,2
+1087,女王,女王[じょおう],Queen,それは、女王のネックレスです。,それは、 女王[じょおう]のネックレスです。,It is the queen's necklace.,True,,,,2
+1088,王女,王女[おうじょ],Princess,王女はいつでも正しい。,王女[おうじょ]はいつでも 正[ただ]しい。,The princess is always right.,True,,,,2
+1089,出す,出[だ]す,To Take Out,リサイクルのゴミを出す日です。,リサイクルのゴミを 出[だ]す 日[ひ]です。,It's the day to put out the recycling.,True,,,,5
+1090,出る,出[で]る,To Exit,あちらの出口から出てください。,あちらの 出口[でぐち]から 出[で]てください。,Please leave using that exit.,True,,,,2
+1091,出口,出口[でぐち],Exit,そこは出口ではありません。,そこは 出口[でぐち]ではありません。,That is not an exit.,True,,,,2
+1092,右,右[みぎ],Right Direction,右の木は水をあげないで下さい。,右[みぎ]の 木[き]は 水[みず]をあげないで 下[くだ]さい。,Please don't water the tree on the right.,True,,,,2
+1093,右手,右手[みぎて],Right Hand,右手に力が入らないんです。,右手[みぎて]に 力[ちから]が 入[はい]らないんです。,My right hand's feeling weak.,True,,,,4
+1094,四,四[よん],Four,トマト四こ下さい。,トマト 四[よん]こ 下[くだ]さい。,Please give me four tomatoes.,True,,,,2
+1095,四月,四[よん] 月[がつ],April,四月一日はエイプリルフールです。,四[よん] 月[がつ] 一日[ついたち]はエイプリルフールです。,April 1st is April Fool's Day.,True,,,,2
+1096,四日,四[よん] 日[にち],Fourth Day,四日のデートは中止になった。,四[よん] 日[か]のデートは 中止[ちゅうし]になった。,The date on the 4th got canceled.,True,,,,4
+1097,四つ,四[よん]つ,Four Things,ミルクシェイク、四つ下さい。,ミルクシェイク、 四[よん]つ 下[くだ]さい。,"Four milkshakes, please.",True,,,,4
+1098,四千,四千[よんせん],Four Thousand,フォロワーが四千人になりました。,フォロワーが 四千[よんせん] 人[にん]になりました。,I hit four thousand followers.,True,,,,4
+1099,四十,四十[よんじゅう],Forty,四十才になった日、ニューヨークにいました。,四十[よんじゅう] 才[さい]になった 日[ひ]、ニューヨークにいました。,I was in New York on the day I turned forty.,True,,,,4
+1100,左,左[ひだり],Left Direction,左目のコンタクトレンズがない。,左目[ひだりめ]のコンタクトレンズがない。,The left contact lens is missing.,True,,,,2
+1101,左手,左手[ひだりて],Left Hand,左手でスプーンをもった。,左手[ひだりて]でスプーンをもった。,I held a spoon with my left hand.,True,,,,4
+1102,本,本[ほん],Book,この本、下さい。,この 本[ほん]、 下[くだ]さい。,"This book, please.",True,,,,2
+1103,日本,日本[にっぽん],Japan,日本のカレーはおいしいです。,日本[にっぽん]のカレーはおいしいです。,Japanese curry is delicious.,True,,,,2
+1104,正しい,正[ただ]しい,Correct,ママはいつも正しい。,ママはいつも 正[ただ]しい。,Mom is always right.,True,,,,2
+1105,正す,正[ただ]す,To Correct,タスクはシステムエラーを正すことです。,タスクはシステムエラーを 正[ただ]すことです。,My task is to correct system errors.,True,,,,2
+1106,玉,玉[たま],Ball,なんだ、この玉？,なんだ、この 玉[たま]？,What is this ball?,True,,,,2
+1107,ビー玉,ビー 玉[だま],Marble,ビー玉は小さい丸い玉です。,ビー 玉[だま]は 小[ちい]さい 丸[まる]い 玉[たま]です。,"Marbles are small, round balls.",True,,,,3
+1108,玉ねぎ,玉[たま]ねぎ,Onion,その丸い玉ねぎ下さい。,その 丸[まる]い 玉[たま]ねぎ 下[くだ]さい。,Please give me the round onion.,True,,,,2
+1109,生まれる,生[う]まれる,To Be Born,今月、生まれるトイプードルをかうつもりです。,今月[こんげつ]、 生[う]まれるトイプードルをかうつもりです。,I'm planning to get a toy poodle that will be born this month.,True,,,,3
+1110,生む,生[う]む,To Give Birth,お金は不正を生む。,お 金[かね]は 不正[ふせい]を 生[う]む。,Money breeds fraud.,True,,,,5
+1111,生きる,生[い]きる,To Live,このジェネレーションを生きる人々にメッセージはありますか？,このジェネレーションを 生[い]きる 人々[ひとびと]にメッセージはありますか？,Do you have a message for people living in this generation?,True,,,,4
+1112,生,生[なま],Fresh,生ビール、一つ下さい。,生[なま]ビール、 一[ひと]つ 下[くだ]さい。,"One draft beer, please.",True,,,,3
+1113,田,田[た],Rice Field,田にはカエルがたくさんいますよ。,田[た]にはカエルがたくさんいますよ。,There are many frogs in the rice fields.,True,,,,2
+1114,白,白[しろ],White,わたしのウェディングドレスは白です。,わたしのウェディングドレスは 白[しろ]です。,My wedding dress is white.,True,,,,2
+1115,白人,白人[はくじん],White Person,日本で白人のパートナーとくらしてます。,日本[にっぽん]で 白人[はくじん]のパートナーとくらしてます。,I live in Japan with a Caucasian partner.,True,,,,2
+1116,目,目[め],Eye,うちのハスキーは目がブルーです。,うちのハスキーは 目[め]がブルーです。,Our Husky's eyes are blue.,True,,,,2
+1117,目玉,目玉[めだま],Eyeball,サーモンは目玉もおいしいですよ。,サーモンは 目玉[めだま]もおいしいですよ。,Salmon eye balls are tasty too.,True,,,,2
+1118,石,石[いし],Stone,これは月の石です。,これは 月[つき]の 石[いし]です。,This is a moonstone.,True,,,,4
+1119,立つ,立[た]つ,To Stand,ソファから立つのが下手なんです。,ソファから 立[た]つのが 下手[へた]なんです。,I'm not very good at getting up off the sofa.,True,,,,2
+1120,立てる,立[た]てる,To Stand Something Up,ブックスタンドは本を立てるためのものです。,ブックスタンドは 本[ほん]を 立[た]てるためのものです。,A book stand is something to stand books on.,True,,,,5
+1121,一万,一万[いちまん],Ten Thousand,ここの人口はおよそ一万人です。,ここの 人口[じんこう]はおよそ 一万[いちまん] 人[にん]です。,"The population here is about 10,000.",True,,,,3
+1122,二万,二万[にまん],Twenty Thousand,このマンゴーは二万円もしました。,このマンゴーは 二万[にまん] 円[えん]もしました。,"This mango cost me 20,000 yen.",True,,,,3
+1123,十万,十万[じゅうまん],One Hundred Thousand,このアパートは月に十万円くらいです。,このアパートは 月[つき]に 十万[じゅうまん] 円[えん]くらいです。,"This apartment costs about 100,000 yen a month.",True,,,,3
+1124,今,今[いま],Now,今、日本にいます。,今[いま]、 日本[にっぽん]にいます。,I'm in Japan right now.,True,,,,3
+1125,今日,今日[きょう],Today,今日、ひま？,今日[きょう]、ひま？,Are you free today?,True,,,,3
+1126,今月,今月[こんげつ],This Month,今月は大切なテストがあります。,今月[こんげつ]は 大切[たいせつ]なテストがあります。,There's an important test this month.,True,,,,3
+1127,元,元[もと],Origin,元のポジションは、もっと北でした。,元[もと]のポジションは、もっと 北[きた]でした。,The original position was further north.,True,,,,3
+1128,半分,半分[はんぶん],Half,この本を半分までよみました。,この 本[ほん]を 半分[はんぶん]までよみました。,I’ve read halfway through this book.,True,,,,3
+1129,分かる,分[わ]かる,To Understand,この人、だれか分かる？,この 人[ひと]、だれか 分[わ]かる？,Do you know who this person is?,True,,,,5
+1130,分ける,分[わ]ける,To Separate Something,パスタを二人で分ける。,パスタを 二人[ふたり]で 分[わ]ける。,We split the pasta between two people.,True,,,,7
+1131,分,分[ぶん],Part,それはお父さんの分のアイスクリームだよ。,それはお 父[ちち]さんの 分[ぶん]のアイスクリームだよ。,That's dad's portion of ice cream.,True,,,,3
+1132,切れる,切[き]れる,To Be Cut,この糸は、すぐに切れる。,この 糸[いと]は、すぐに 切[き]れる。,These threads break off easily.,True,,,,6
+1133,大切,大切[たいせつ],Important,友人は大切だ。,友人[ゆうじん]は 大切[たいせつ]だ。,Friends are important.,True,,,,3
+1134,切る,切[き]る,To Cut,マンゴーはナイフで切る。,マンゴーはナイフで 切[き]る。,You cut mangos with a knife.,True,,,,3
+1135,友人,友人[ゆうじん],Friend,マイケルさんは、父の友人です。,マイケルさんは、 父[ちち]の 友人[ゆうじん]です。,Michael is my father's friend.,True,,,,3
+1136,太い,太[ふと]い,Fat,太い木がたくさんあった。,太[ふと]い 木[き]がたくさんあった。,There were many thick trees.,True,,,,3
+1137,太る,太[ふと]る,To Get Fat,ジュースばっかりのむと太るよ。,ジュースばっかりのむと 太[ふと]るよ。,You'll get fat if you only drink juice.,True,,,,3
+1138,少し,少[すこ]し,A Little,カレーが少しあるよ。,カレーが 少[すこ]しあるよ。,There's a little bit of curry.,True,,,,3
+1139,少ない,少[すく]ない,Few,このエリアには白人やアジア人は少ないです。,このエリアには 白人[はくじん]やアジア 人[にん]は 少[すく]ないです。,There are few Caucasians and Asians in this area.,True,,,,3
+1140,引く,引[ひ]く,To Pull,ビビッドピンクは人の目を引くカラーです。,ビビッドピンクは 人[ひと]の 目[め]を 引[ひ]くカラーです。,Vivid pink is an eye-catching color.,True,,,,3
+1141,心,心[こころ],Heart,パパは心が大きい。,パパは 心[こころ]が 大[おお]きい。,Dad has a big heart.,True,,,,3
+1142,戸口,戸口[とぐち],Doorway,このアパート、戸口のデザインがかわいいですね。,このアパート、 戸口[とぐち]のデザインがかわいいですね。,The design of this apartment's doorway is cute.,True,,,,3
+1143,方,方[ほう],Way,北の方にショッピングモールがありますよ。,北[きた]の 方[ほう]にショッピングモールがありますよ。,There is a shopping mall in the North.,True,,,,3
+1144,止まる,止[と]まる,To Stop,この白いラインで車が止まる。,この 白[しろ]いラインで 車[くるま]が 止[と]まる。,Cars stop at this white line.,True,,,,5
+1145,止める,止[と]める,To Stop Something,火を止めるボタンはこれです。,火[ひ]を 止[と]めるボタンはこれです。,This is the button to stop the fire.,True,,,,3
+1146,中止,中止[ちゅうし],Suspension,五日のカラオケコンテストは中止ですか？,五[いつ] 日[か]のカラオケコンテストは 中止[ちゅうし]ですか？,Is the karaoke contest on the 5th canceled?,True,,,,3
+1147,毛,毛[け],Fur,この牛、毛がたくさんですね。,この 牛[うし]、 毛[け]がたくさんですね。,This cow has a lot of hair.,True,,,,3
+1148,父,父[ちち],Father,わたしの父は、ドイツ人です。,わたしの 父[ちち]は、ドイツ 人[にん]です。,My father is German.,True,,,,3
+1149,お父さん,お 父[ちち]さん,Father,お父さんにメールした。,お 父[ちち]さんにメールした。,I emailed my dad.,True,,,,3
+1150,牛,牛[うし],Cow,牛がたくさんいますね。,牛[うし]がたくさんいますね。,There are many cows.,True,,,,3
+1151,兄,兄[あに],Older Brother,兄が二人います。,兄[あに]が 二人[ふたり]います。,I have two older brothers.,True,,,,5
+1152,お兄さん,お 兄[あに]さん,Older Brother,あの男の人が、山田さんのお兄さんです。,あの 男[おとこ]の 人[ひと]が、 山田[やまだ]さんのお 兄[あに]さんです。,That man is Yamada's older brother.,True,,,,7
+1153,冬,冬[ふゆ],Winter,冬はコートとジャケットをきます。,冬[ふゆ]はコートとジャケットをきます。,I wear coats and jackets in winter.,True,,,,3
+1154,北,北[きた],North,北はこっちですよ。,北[きた]はこっちですよ。,North is this way.,True,,,,3
+1155,半,半[はん],Half,JLPTまで、あと一日半しかないよ。,JLPTまで、あと 一[いち] 日[にち] 半[はん]しかないよ。,There's only another day and a half until the JLPT exam.,True,,,,3
+1156,古い,古[ふる]い,Old,このドレスは古いです。,このドレスは 古[ふる]いです。,This dress is old.,True,,,,3
+1157,中古,中古[ちゅうこ],Secondhand,このベンツは中古です。,このベンツは 中古[ちゅうこ]です。,This Benz is secondhand.,True,,,,3
+1158,一台,一[いち] 台[だい],One Machine,うちにはテレビが一台しかない。,うちにはテレビが 一[いち] 台[だい]しかない。,We have only one TV at home.,True,,,,3
+1159,二台,二[に] 台[だい],Two Machines,母にスポーツカーをニ台プレゼントした。,母[はは]にスポーツカーをニ 台[だい]プレゼントした。,I gave my mother two sports cars as presents.,True,,,,3
+1160,五台,五[ご] 台[だい],Five Machines,ホテルにパトカーが五台きた。,ホテルにパトカーが 五[ご] 台[だい]きた。,Five police came to the hotel.,True,,,,3
+1161,十台,十[じゅう] 台[だい],Ten Machines,パソコンを十台オーダーした。,パソコンを 十[じゅう] 台[だい]オーダーした。,I ordered ten PCs.,True,,,,3
+1162,外,外[そと],Outside,外でバーベキューしよう。,外[そと]でバーベキューしよう。,Let's barbecue outside.,True,,,,3
+1163,外人,外人[がいじん],Foreigner,外人カップルとダブルデートをした。,外人[がいじん]カップルとダブルデートをした。,We had a double date with a foreign couple.,True,,,,3
+1164,市,市[し],City,マニラ市の人口はどのくらいですか？,マニラ 市[し]の 人口[じんこう]はどのくらいですか？,What is the population of Manila City?,True,,,,3
+1165,市立,市[し] 立[りつ],Municipal,市立プールは三ドルで入れるよ。,市[し] 立[りつ]プールは 三[さん]ドルで 入[い]れるよ。,You can get into the municipal pool for three dollars.,True,,,,3
+1166,シアトル市,シアトル 市[し],Seattle,今はシアトル市にすんでいます。,今[いま]はシアトル 市[し]にすんでいます。,I live in Seattle now.,True,,,,3
+1167,広い,広[ひろ]い,Wide,このキッチンカウンターすごく広いね。,このキッチンカウンターすごく 広[ひろ]いね。,This kitchen counter is very wide.,True,,,,3
+1168,母,母[はは],Mother,母は六十六才です。,母[はは]は 六十六[ろくじゅうろく] 才[さい]です。,My mother is sixty-six years old.,True,,,,3
+1169,お母さん,お 母[はは]さん,Mother,お母さんはどこ？,お 母[はは]さんはどこ？,Where’s mom?,True,,,,3
+1170,用いる,用[もち]いる,To Utilize,これはフィットネストレーニングに用いるマシンです。,これはフィットネストレーニングに 用[もち]いるマシンです。,This is a machine used for fitness training.,True,,,,3
+1171,矢,矢[や],Arrow,これはアーチェリーの矢です。,これはアーチェリーの 矢[や]です。,This is an archery arrow.,True,,,,3
+1172,休み,休[やす]み,Rest,今日はクラスが休みです。,今日[きょう]はクラスが 休[やす]みです。,There's no class today.,True,,,,4
+1173,休む,休[やす]む,To Rest,今日のクラス、休む？,今日[きょう]のクラス、 休[やす]む？,Should we skip today's class?,True,,,,4
+1174,休止,休止[きゅうし],Suspension,しばらく、このクラスは休止です。,しばらく、このクラスは 休止[きゅうし]です。,This class will be on hiatus for a while.,True,,,,4
+1175,休日,休日[きゅうじつ],Holiday,休日はワインをのみます。,休日[きゅうじつ]はワインをのみます。,I drink wine on holidays.,True,,,,4
+1176,先ず,先[ま]ず,First Of All,先ず、トマトを切ります。,先[ま]ず、トマトを 切[き]ります。,"First, cut the tomatoes.",True,,,,4
+1177,先,先[さき],Tip,ペンの先がつぶれた。,ペンの 先[さき]がつぶれた。,The tip of the pen got crushed.,True,,,,4
+1178,先々月,先々[さきざき] 月[つき],Month Before Last,先々月、キューバにいきました。,先々[さきざき] 月[つき]、キューバにいきました。,I went to Cuba the month before last.,True,,,,4
+1179,先月,先月[せんげつ],Last Month,先月は六月でした。,先月[せんげつ]は 六[ろく] 月[がつ]でした。,Last month was June.,True,,,,4
+1180,先日,先日[せんじつ],The Other Day,先日はどうもありがとうございました。,先日[せんじつ]はどうもありがとうございました。,Thank you so much for the other day.,True,,,,4
+1181,先生,先生[せんせい],Teacher,先生は「おはよう」といった。,先生[せんせい]は「おはよう」といった。,"The teacher said ""good morning.""",True,,,,4
+1182,名人,名人[めいじん],Expert,父はフリスビーの名人です。,父[ちち]はフリスビーの 名人[めいじん]です。,My father is a frisbee expert.,True,,,,4
+1183,名字,名字[みょうじ],Surname,名字は「田中」です。,名字[みょうじ]は「 田中[たなか]」です。,"My surname is ""Tanaka.""",True,,,,4
+1184,字,字[じ],Character,かわいい字ですね。,かわいい 字[じ]ですね。,That's a cute letter.,True,,,,4
+1185,太字,太字[ふとじ],Bold Letter,この字は太字にしてください。,この 字[じ]は 太字[ふとじ]にしてください。,"Make this character bold, please.",True,,,,4
+1186,文字,文字[もじ],Letter (Of The Alphabet),文字が小さすぎる。,文字[もじ]が 小[ちい]さすぎる。,The letters are too small.,True,,,,4
+1187,一文字,一[いち] 文字[もじ],Straight Line,女の子は、おこって口を一文字にむすびました。,女[おんな]の 子[こ]は、おこって 口[くち]を 一[いち] 文字[もじ]にむすびました。,The girl got angry and her mouth pursed into a straight line.,True,,,,4
+1188,大文字,大[だい] 文字[もじ],Uppercase Letters,タイトルは、全て大文字でおねがいします。,タイトルは、 全[すべ]て 大[だい] 文字[もじ]でおねがいします。,"All uppercase letters for the title, please.",True,,,,6
+1189,２０１１年,２０１１[にれいいちいち] 年[ねん],Year 2011,２０１１年に、日本にいきました。,２０１１[にれいいちいち] 年[ねん]に、 日本[にっぽん]にいきました。,I went to Japan in 2011.,True,,,,4
+1190,年内,年内[ねんない],By The End Of The Year,年内に牛の赤ちゃんが生まれます。,年内[ねんない]に 牛[うし]の 赤[あか]ちゃんが 生[う]まれます。,A calf will be born by the end of the year.,True,,,,4
+1191,年中,年中[ねんじゅう],Year Round,お父さんは年中外にいる。,お 父[ちち]さんは 年中[ねんじゅう] 外[がい]にいる。,Dad is outside all year round.,True,,,,4
+1192,一年生,一[いち] 年[ねん] 生[せい],First Year Student,一年生の子は手を上げて下さい。,一[いち] 年[ねん] 生[せい]の 子[こ]は 手[て]を 上[あ]げて 下[くだ]さい。,"First-graders, please raise your hand.",True,,,,4
+1193,少年,少年[しょうねん],Boy,これは一人の少年のストーリーです。,これは 一人[ひとり]の 少年[しょうねん]のストーリーです。,This is a story of a boy.,True,,,,4
+1194,去年,去年[きょねん],Last Year,去年、子犬が生まれた。,去年[きょねん]、 子犬[こいぬ]が 生[う]まれた。,"Last year, a puppy was born.",True,,,,4
+1195,早い,早[はや]い,Early,もうチェックインしたの？早い！,もうチェックインしたの？ 早[はや]い！,You've checked in already? That was quick!,True,,,,4
+1196,早々,早々[はやばや],As Soon As,早々にメールありがとうございます。,早々[そうそう]にメールありがとうございます。,Thank you for your prompt email response.,True,,,,4
+1197,気,気[き],Spirit,その少年は気がつよい。,その 少年[しょうねん]は 気[き]がつよい。,The boy is strong-willed.,True,,,,4
+1198,気に入る,気[き]に 入[はい]る,To Take A Liking,赤のキッチンを気に入る人もいますよ。,赤[あか]のキッチンを 気[き]に 入[はい]る 人[ひと]もいますよ。,Some people like a red kitchen.,True,,,,4
+1199,一気,一気[いっき],One Breath,父はテーブルの上のチョコレートを一気にたべた。,父[ちち]はテーブルの 上[うえ]のチョコレートを 一気[いっき]にたべた。,My father ate the chocolates that were on the table all in one sitting.,True,,,,4
+1200,気分,気分[きぶん],Feeling,今日の母は気分がいいです。,今日[きょう]の 母[はは]は 気分[きぶん]がいいです。,Mom's in a good mood today.,True,,,,4
+1201,人気,人気[にんき],Popular,今、人気の本はこれです。,今[いま]、 人気[にんき]の 本[ほん]はこれです。,This is a popular book now.,True,,,,4
+1202,元気,元気[げんき],Energy,お父さんは、元気ですか。,お 父[ちち]さんは、 元気[げんき]ですか。,How is your father?,True,,,,4
+1203,天気,天気[てんき],Weather,今日は天気がわるいです。,今日[きょう]は 天気[てんき]がわるいです。,The weather is bad today.,True,,,,4
+1204,本気,本気[ほんき],Serious,いつになったら、本気を出すんですか。,いつになったら、 本気[ほんき]を 出[だ]すんですか。,How soon before you make a serious effort?,True,,,,4
+1205,平気,平気[へいき],Calm,よく平気でいられますね。,よく 平気[へいき]でいられますね。,How come you’re always so calm?,True,,,,4
+1206,一本気,一[いち] 本気[ほんき],Single Mindedness,ニックって一本気なところがあるよね。,ニックって 一[いち] 本気[ほんき]なところがあるよね。,There's a single-minded side to Nick.,True,,,,4
+1207,百万,百万[ひゃくまん],Million,ボーナスは百万円でした。,ボーナスは 百万[ひゃくまん] 円[えん]でした。,The bonus was one million yen.,True,,,,4
+1208,四百,四百[よんひゃく],Four Hundred,四百フィートは、およそ百二十メートるです。,四百[よんひゃく]フィートは、およそ 百二十[ひゃくにじゅう]メートるです。,400 feet is about 120 meters.,True,,,,4
+1209,五百,五百[ごひゃく],Five Hundred,大人のチケットは、五百円です。,大人[おとな]のチケットは、 五百[ごひゃく] 円[えん]です。,Adult tickets are 500 yen.,True,,,,4
+1210,二百,二百[にひゃく],Two Hundred,この竹は二百センチです。,この 竹[たけ]は 二百[にひゃく]センチです。,This bamboo is 200 cm long.,True,,,,4
+1211,竹の子,竹[たけ]の 子[こ],Bamboo Shoot,あ！竹の子が土から出てる！,あ！ 竹[たけ]の 子[こ]が 土[つち]から 出[で]てる！,Oh! A bamboo shoot is sticking out of the ground!,True,,,,4
+1212,竹,竹[たけ],Bamboo,ここに竹のフェンスがほしい。,ここに 竹[たけ]のフェンスがほしい。,I want a bamboo fence here.,True,,,,4
+1213,糸,糸[いと],Thread,糸は、たくさんあるよ。,糸[いと]は、たくさんあるよ。,There are many threads.,True,,,,4
+1214,耳,耳[みみ],Ear,うちの犬の耳は、いつも立っています。,うちの 犬[いぬ]の 耳[みみ]は、いつも 立[た]っています。,Our dog's ears are always perked up.,True,,,,4
+1215,耳打ち,耳打[みみう]ち,Whisper In Ear,「ありがとう」と耳打ちした。,「ありがとう」と 耳打[みみう]ちした。,"""Thanks,"" I whispered in their ear.",True,,,,6
+1216,虫,虫[むし],Bug,あ、虫がいる！,あ、 虫[むし]がいる！,"Oh, there's a bug!",True,,,,4
+1217,村,村[むら],Village,その村は山の下にある。,その 村[むら]は 山[やま]の 下[した]にある。,The village is below the mountain.,True,,,,4
+1218,村人,村人[むらびと],Villager,一人の村人が川に入った。,一人[ひとり]の 村人[むらびと]が 川[かわ]に 入[はい]った。,A villager went into the river.,True,,,,4
+1219,男,男[おとこ],Man,あの男は、だれ？,あの 男[おとこ]は、だれ？,Who's that guy?,True,,,,4
+1220,町,町[まち],Town,この町のガソリンスタンドは小さい。,この 町[まち]のガソリンスタンドは 小[ちい]さい。,Gas stations in this town are small.,True,,,,4
+1221,花,花[はな],Flower,ヒマワリの花はとてもきれいです。,ヒマワリの 花[はな]はとてもきれいです。,Sunflowers are very beautiful.,True,,,,4
+1222,花火,花火[はなび],Fireworks,このビーチでは八月に花火があります。,このビーチでは 八[はち] 月[がつ]に 花火[はなび]があります。,"At this beach, there are fireworks in August.",True,,,,4
+1223,花見,花見[はなみ],Viewing Cherry Blossoms,四月一日、花見しましょう。,四[よん] 月[がつ] 一日[ついたち]、 花見[はなみ]しましょう。,Let's do cherry blossom viewing on April 1st.,True,,,,4
+1224,見る,見[み]る,To See,外を見ると、白い犬がいた。,外[そと]を 見[み]ると、 白[しろ]い 犬[いぬ]がいた。,I looked outside and saw a white dog.,True,,,,4
+1225,見える,見[み]える,To Be Visible,ここから火山が見える。,ここから 火山[かざん]が 見[み]える。,The volcano is visible from here.,True,,,,5
+1226,見せる,見[み]せる,To Show,人に見せるほどのキッチンじゃないですよ。,人[ひと]に 見[み]せるほどのキッチンじゃないですよ。,It's not a kitchen that I would show to others.,True,,,,4
+1227,見分ける,見分[みわ]ける,To Distinguish,兄弟を目の色で見分ける。,兄弟[きょうだい]を 目[め]の 色[いろ]で 見分[みわ]ける。,I tell the brothers apart by their eye colors.,True,,,,8
+1228,見方,見[み] 方[かた],Way Of Seeing,このチャートの見方、分かる？,このチャートの 見方[みかた]、 分[わ]かる？,Do you know how to look at this chart?,True,,,,4
+1229,月見,月見[つきみ],Moon Viewing,十月は、月見のシーズンですね。,十[じゅう] 月[がつ]は、 月見[つきみ]のシーズンですね。,October is moon-viewing season.,True,,,,4
+1230,貝,貝[かい],Shell,川には、たくさん貝がいる。,川[かわ]には、たくさん 貝[かい]がいる。,There are many shellfish in the river.,True,,,,4
+1231,赤,赤[あか],Red,ケチャップの赤はトマトの赤です。,ケチャップの 赤[あか]はトマトの 赤[あか]です。,Ketchup's red color comes from red tomatoes.,True,,,,4
+1232,赤ちゃん,赤[あか]ちゃん,Baby,五月に赤ちゃんが生まれる。,五[ご] 月[がつ]に 赤[あか]ちゃんが 生[う]まれる。,A baby will be born in May.,True,,,,4
+1233,足りる,足[た]りる,To Be Enough,十キログラムで足りるかな。,十[じゅう]キログラムで 足[た]りるかな。,I wonder if ten kilograms is enough.,True,,,,4
+1234,足,足[あし],Foot,足にタトゥーがある。,足[あし]にタトゥーがある。,I have a tattoo on my leg.,True,,,,4
+1235,不足,不足[ふそく],Shortage,このエリアでは去年、水が不足しました。,このエリアでは 去年[きょねん]、 水[みず]が 不足[ふそく]しました。,"Last year, there was a water shortage in this area.",True,,,,4
+1236,車,車[くるま],Car,父の車はベンツです。,父[ちち]の 車[くるま]はベンツです。,My father's car is a Benz.,True,,,,4
+1237,車内,車内[しゃない],Inside The Car,車内に人々がたくさんいます。,車内[しゃない]に 人々[ひとびと]がたくさんいます。,There are many people in the car.,True,,,,4
+1238,二世,二[に] 世[せい],Second Generation,母は日本で生まれたアメリカ人の二世です。,母[はは]は 日本[にっぽん]で 生[う]まれたアメリカ 人[にん]の 二[に] 世[せい]です。,My mother is a second generation American who was born in Japan.,True,,,,4
+1239,三世,三[さん] 世[せい],Third Generation,チャールズ三世がイギリスの王になりました。,チャールズ 三[さん] 世[せい]がイギリスの 王[おう]になりました。,Charles III has become the King of England.,True,,,,4
+1240,主に,主[おも]に,Mainly,不正アクセスは主にヨーロッパからでした。,不正[ふせい]アクセスは 主[おも]にヨーロッパからでした。,Unauthorized access was mainly from Europe.,True,,,,4
+1241,主人,主人[しゅじん],Head Of Household,この人は、わたしの主人です。,この 人[ひと]は、わたしの 主人[しゅじん]です。,This person is my husband.,True,,,,4
+1242,仕方,仕方[しかた],Method,コントロールの仕方が下手です。,コントロールの 仕方[しかた]が 下手[へた]です。,I'm not very good at controlling it.,True,,,,4
+1243,仕方がない,仕方[しかた]がない,Can't Be Helped,そこにずっと立っていても仕方がないよ。,そこにずっと 立[た]っていても 仕方[しかた]がないよ。,It's no use even if you kept standing over there.,True,,,,6
+1244,他,他[ほか],Other,他のスタッフは今いません。,他[ほか]のスタッフは 今[いま]いません。,No other staff are here right now.,True,,,,4
+1245,他人,他人[たにん],Another Person,他人のあなたに分かりますか？,他人[たにん]のあなたに 分[わ]かりますか？,"As a stranger, can you understand?",True,,,,4
+1246,代わる,代[か]わる,To Replace,ジェニーとシフトを代わる。,ジェニーとシフトを 代[か]わる。,I'll swap shifts with Jenny.,True,,,,7
+1247,代用,代用[だいよう],Substitution,サワークリームをヨーグルトで代用しました。,サワークリームをヨーグルトで 代用[だいよう]しました。,I substituted sour cream with yogurt.,True,,,,6
+1248,写す,写[うつ]す,To Copy,今日のクラスのノート、写してもいい？,今日[きょう]のクラスのノート、 写[うつ]してもいい？,Can I copy your notes from today's class?,True,,,,4
+1249,写る,写[うつ]る,To Be Photographed,父はビデオに写るのがきらいです。,父[ちち]はビデオに 写[うつ]るのがきらいです。,My father doesn't like to be in videos.,True,,,,6
+1250,号,号[ごう],Number,のぞみ三号のチケットは三万円でした。,のぞみ 三[さん] 号[ごう]のチケットは 三万[さんまん] 円[えん]でした。,"The ticket for the Nozomi No.3 was 30,000 yen.",True,,,,4
+1251,中央,中央[ちゅうおう],Center,左がマミ、中央がジェニー、右がマイケルです。,左[ひだり]がマミ、 中央[ちゅうおう]がジェニー、 右[みぎ]がマイケルです。,"Mami is on the left, Jenny is in the center, and on the right is Michael.",True,,,,4
+1252,平ら,平[たい]ら,Flat,あの山、平らですね。,あの 山[やま]、 平[たい]らですね。,That mountain is flat.,True,,,,4
+1253,平日,平日[へいじつ],Weekdays,平日のディナーは主にカレーです。,平日[へいじつ]のディナーは 主[おも]にカレーです。,I mainly have curry for dinner on weekdays.,True,,,,4
+1254,打つ,打[う]つ,To Hit Something,ホームランを打つ名人になりたい。,ホームランを 打[う]つ 名人[めいじん]になりたい。,I want to be an expert at hitting home runs.,True,,,,4
+1255,一打,一[いち] 打[だ],One Strike,力いっぱいの一打でしたね。,力[ちから]いっぱいの 一[いち] 打[だ]でしたね。,It was a powerful hit.,True,,,,4
+1256,氷,氷[こおり],Ice,このアイスコーヒー、氷が入ってません。,このアイスコーヒー、 氷[こおり]が 入[はい]ってません。,This iced coffee does not have ice in it.,True,,,,4
+1257,かき氷,かき 氷[ごおり],Shaved Ice,大きいかき氷がたべたい。,大[おお]きい かき 氷[ごおり]がたべたい。,I want to eat a big bowl of shaved ice.,True,,,,4
+1258,申す,申[もう]す,To Say Humbly,トーフグのコウイチと申します。,トーフグのコウイチと 申[もう]します。,I am Koichi of Tofugu.,True,,,,4
+1259,皮,皮[かわ],Skin,このカーペットは、牛の皮です。,このカーペットは、 牛[うし]の 皮[かわ]です。,This carpet is made of cow hide.,True,,,,5
+1260,皿,皿[さら],Plate,皿はキッチンキャビネットの中にあります。,皿[さら]はキッチンキャビネットの 中[なか]にあります。,Plates are in the kitchen cabinet.,True,,,,4
+1261,小皿,小皿[こざら],Small Plate,バーのテーブルの上には小皿がたくさんあった。,バーのテーブルの 上[うえ]には 小皿[こざら]がたくさんあった。,There were many small plates on the bar table.,True,,,,4
+1262,お礼,お 礼[れい],Thanks,お礼にビールをもらいました。,お 礼[れい]にビールをもらいました。,I got a beer as a thank you.,True,,,,4
+1263,不正,不正[ふせい],Injustice,これは不正サイトです。,これは 不正[ふせい]サイトです。,This is an unauthorized site.,True,,,,4
+1264,交ぜる,交[ま]ぜる,To Mix Something,カードをよく交ぜて下さい。,カードをよく 交[ま]ぜて 下[くだ]さい。,Please shuffle the cards well.,True,,,,5
+1265,会う,会[あ]う,To Meet,アメリカで母に会う。,アメリカで 母[はは]に 会[あ]う。,I'm meeting my mother in the United States.,True,,,,5
+1266,光,光[ひかり],Light,カーテンから光が入る。,カーテンから 光[ひかり]が 入[はい]る。,Light comes in through the curtain.,True,,,,5
+1267,月光,月光[げっこう],Moonlight,夕べは、月光がとてもきれいでした。,夕[ゆう]べは、 月光[げっこう]がとてもきれいでした。,The moonlight was very beautiful last night.,True,,,,5
+1268,日光,日光[にっこう],Sunlight,このアパートは日光がよく入る。,このアパートは 日光[にっこう]がよく 入[はい]る。,This apartment gets good sunlight.,True,,,,5
+1269,同じ,同[おな]じ,Same,この二つは同じです。,この 二[ふた]つは 同[おな]じです。,These two are the same.,True,,,,5
+1270,同日,同日[どうじつ],Same Day,DVDとCDが同日にリリースされた。,DVDとCDが 同日[どうじつ]にリリースされた。,The DVD and CD were released on the same day.,True,,,,5
+1271,〜回,〜 回[かい],Times,今日はテレビを一回だけ見た。,今日[きょう]はテレビを 一[いち] 回[かい]だけ 見[み]た。,I only watched TV once today.,True,,,,5
+1272,回る,回[まわ]る,To Revolve,テーブルの上で、コインが回る。,テーブルの 上[うえ]で、コインが 回[まわ]る。,The coin spins on the table.,True,,,,5
+1273,一回,一[いち] 回[かい],One Time,もう一回、言ってください。,もう 一[いち] 回[かい]、 言[い]ってください。,Please say it once more.,True,,,,5
+1274,今回,今回[こんかい],This Time,今回は、やめておきます。,今回[こんかい]は、やめておきます。,I decided to pass this time.,True,,,,5
+1275,毎回,毎回[まいかい],Every Time,あのミーティングに行くのは毎回この三人です。,あのミーティングに 行[い]くのは 毎回[まいかい]この 三[さん] 人[にん]です。,The ones who go to that meeting every time are those three.,True,,,,5
+1276,多い,多[おお]い,Many,ニューヨークは人が多い。,ニューヨークは 人[ひと]が 多[おお]い。,There are many people in New York.,True,,,,5
+1277,多分,多分[たぶん],Maybe,あの木は多分、竹です。,あの 木[き]は 多分[たぶん]、 竹[たけ]です。,That tree is probably bamboo.,True,,,,5
+1278,当たる,当[あ]たる,To Be Right,自分の予想が当たって、嬉しいです。,自分[じぶん]の 予想[よそう]が 当[あ]たって、 嬉[うれ]しいです。,I’m glad my guess was right.,True,,,,5
+1279,当たり,当[あ]たり,A Success,「当たり！」という文字が目に入った。,「 当[あ]たり！」という 文字[もじ]が 目[め]に 入[はい]った。,The words “You win!” met my eye.,True,,,,5
+1280,毎月,毎月[まいつき],Every Month,このワークショップは毎月ありますか？,このワークショップは 毎月[まいつき]ありますか？,Do you hold this workshop every month?,True,,,,5
+1281,毎日,毎日[まいにち],Every Day,毎日ランニングをします。,毎日[まいにち]ランニングをします。,I run every day.,True,,,,5
+1282,毎年,毎年[まいとし],Every Year,毎年四月に花見をします。,毎年[まいとし] 四[よん] 月[がつ]に 花見[はなみ]をします。,I do cherry blossom viewing every year in April.,True,,,,5
+1283,池,池[いけ],Pond,この池の中には、大きなワニがいます。,この 池[いけ]の 中[なか]には、 大[おお]きなワニがいます。,There's a big alligator in this pond.,True,,,,8
+1284,米,米[べい],Rice,これはカリフォルニアの米です。,これはカリフォルニアの 米[こめ]です。,This is rice from California.,True,,,,5
+1285,羽,羽[はね],Feathers,この虫には赤い羽がある。,この 虫[むし]には 赤[あか]い 羽[はね]がある。,This insect has red wings.,True,,,,5
+1286,考え,考[かんが]え,Thought,大学に入学する考えはありません。,大学[だいがく]に 入学[にゅうがく]する 考[かんが]えはありません。,I have no thought of going to college.,True,,,,7
+1287,考える,考[かんが]える,To Think About,アイディアを考える。,アイディアを 考[かんが]える。,I think of ideas.,True,,,,5
+1288,考え方,考[かんが]え 方[かた],Way Of Thinking,考え方は、人それぞれです。,考[かんが]え 方[かた]は、 人[ひと]それぞれです。,People have their own way of thinking.,True,,,,7
+1289,肉,肉[にく],Meat,このカレー、肉は入ってますか？,このカレー、 肉[にく]は 入[はい]ってますか？,Does this curry have meat in it?,True,,,,5
+1290,牛肉,牛肉[ぎゅうにく],Beef,牛肉は平気ですか？,牛肉[ぎゅうにく]は 平気[へいき]ですか？,Is beef okay?,True,,,,5
+1291,皮肉,皮肉[ひにく],Irony,父は、皮肉な男だ。,父[ちち]は、 皮肉[ひにく]な 男[おとこ]だ。,My father is an ironic man.,True,,,,5
+1292,自分,自分[じぶん],Oneself,男は自分だけだった。,男[おとこ]は 自分[じぶん]だけだった。,I was the only man there.,True,,,,5
+1293,自立,自立[じりつ],Independence,年内のゴールは自立することです。,年内[ねんない]のゴールは 自立[じりつ]することです。,My goal by the end of the year is to be independent.,True,,,,5
+1294,色,色[いろ],Color,この色はコバルトブルーです。,この 色[いろ]はコバルトブルーです。,This color is cobalt blue.,True,,,,5
+1295,色々,色々[いろいろ],Various,色々なタイプの人がいます。,色々[いろいろ]なタイプの 人[ひと]がいます。,There are various types of people.,True,,,,5
+1296,水色,水色[みずいろ],Sky Blue,あの水色のバッグがほしいんですが。,あの 水色[みずいろ]のバッグがほしいんですが。,I want that light blue bag.,True,,,,5
+1297,行く,行[い]く,To Go,十一月に、日本に行く。,十一[じゅういち] 月[がつ]に、 日本[にっぽん]に 行[い]く。,I'm going to Japan in November.,True,,,,5
+1298,行う,行[おこな]う,To Carry Something Out,ホテルでミーティングを行うつもりです。,ホテルでミーティングを 行[おこな]うつもりです。,I will have a meeting at the hotel.,True,,,,6
+1299,行き,行[い]き,Train Direction,このバスはシアトル行きです。,このバスはシアトル 行[い]きです。,This bus is bound for Seattle.,True,,,,5
+1300,西,西[にし],West,西はどっちの方ですか？,西[にし]はどっちの 方[ほう]ですか？,Which way is West?,True,,,,5
+1301,北西,北西[ほくせい],Northwest,北西に見える山が、ふじ山です。,北西[ほくせい]に 見[み]える 山[やま]が、ふじ 山[やま]です。,The mountain you can see in the northwest is Mt. Fuji.,True,,,,5
+1302,何千,何千[なんぜん],Thousands,何千回もエラーが出た。,何千[なんぜん] 回[かい]もエラーが 出[で]た。,We've got thousands of errors.,True,,,,5
+1303,何,何[なに],What,何？,何[なに]？,What?,True,,,,5
+1304,何人,何人[なにじん],How Many People,スタッフは何人ですか？,スタッフは 何人[なんぴと]ですか？,How many people are on your staff?,True,,,,5
+1305,何月,何[なに] 月[がつ],What Month,何月生まれですか？,何[なに] 月[がつ] 生[う]まれですか？,What month are you born in?,True,,,,5
+1306,何日,何[なに] 日[にち],How Many Days,アルバイト、何日休むんですか。,アルバイト、 何[なに] 日[にち] 休[やす]むんですか。,How many days will you take off from your part-time job?,True,,,,5
+1307,何年,何[なに] 年[ねん],What Year,ご主人は、何年生まれですか？,ご 主人[しゅじん]は、 何[なに] 年[ねん] 生[う]まれですか？,What year was your husband born?,True,,,,5
+1308,何回,何[なに] 回[かい],How Many Times,先月ご主人とは何回出かけましたか？,先月[せんげつ]ご 主人[しゅじん]とは 何[なに] 回[かい] 出[で]かけましたか？,How many times did you go out with your husband last month?,True,,,,5
+1309,学ぶ,学[まな]ぶ,To Learn,人生は学ぶことが多いです。,人生[じんせい]は 学[まな]ぶことが 多[おお]いです。,There are so many things to learn in life.,True,,,,5
+1310,学生,学生[がくせい],Student,母はメディカルスクールの学生です。,母[はは]はメディカルスクールの 学生[がくせい]です。,My mother is a medical school student.,True,,,,5
+1311,学年,学年[がくねん],School Grade,兄は一つ上の学年です。,兄[あに]は 一[ひと]つ 上[うえ]の 学年[がくねん]です。,My brother is a school year ahead of me.,True,,,,5
+1312,入学,入学[にゅうがく],School Admission,入学おめでとう。,入学[にゅうがく]おめでとう。,Congratulations on your enrollment.,True,,,,5
+1313,工学,工学[こうがく],Engineering,ロボット工学のクラスに入りたい。,ロボット 工学[こうがく]のクラスに 入[はい]りたい。,I want to take a robot engineering class.,True,,,,5
+1314,大学,大学[だいがく],University,父は、１９９１年に大学に入った。,父[ちち]は、 １９９１[いちきゅうきゅういち] 年[ねん]に 大学[だいがく]に 入[はい]った。,My father entered college in 1991.,True,,,,5
+1315,休学,休学[きゅうがく],Absence From School,休学したいなぁ。,休学[きゅうがく]したいなぁ。,I want to take a leave of absence.,True,,,,5
+1316,林,林[はやし],Forest,あの林にはログハウスがたくさんあります。,あの 林[はやし]にはログハウスがたくさんあります。,There are many log houses in that forest.,True,,,,5
+1317,空気,空気[くうき],Air,山は空気がきれいですね。,山[やま]は 空気[くうき]がきれいですね。,The mountain air is so clean.,True,,,,5
+1318,空,空[そら],Sky,空は広い。,空[そら]は 広[ひろ]い。,The sky is big.,True,,,,5
+1319,金,金[きん],Gold,金のネックレスをプレゼントしました。,金[かね]のネックレスをプレゼントしました。,I gave her a gold necklace.,True,,,,5
+1320,金玉,金玉[きんたま],Testicles,それは金玉ではありません。,それは 金玉[きんぎょく]ではありません。,That is not a testicle.,True,,,,5
+1321,お金,お 金[かね],Money,ウェディングリングは、お金よりも大切です。,ウェディングリングは、お 金[かね]よりも 大切[たいせつ]です。,Wedding rings are more important than money.,True,,,,5
+1322,雨,雨[あめ],Rain,今日は雨だ。,今日[きょう]は 雨[あめ]だ。,It's rainy today.,True,,,,5
+1323,青い,青[あお]い,Blue,この青い花はスイートピーです。,この 青[あお]い 花[はな]はスイートピーです。,This blue flower is sweet pea.,True,,,,5
+1324,青年,青年[せいねん],Youth,その青年は十八才でした。,その 青年[せいねん]は 十八[じゅうはち] 才[さい]でした。,The young man was eighteen years old.,True,,,,5
+1325,草,草[くさ],Grass,ここは草ばかりだ。,ここは 草[くさ]ばかりだ。,There's nothing but grass around here.,True,,,,5
+1326,音,音[おと],Sound,これはフェラーリのエンジンの音だ。,これはフェラーリのエンジンの 音[おと]だ。,This is the sound of a Ferrari engine.,True,,,,5
+1327,作る,作[つく]る,To Make,母は、いつもサンドイッチを作る。,母[はは]は、いつもサンドイッチを 作[つく]る。,My mother always makes sandwiches.,True,,,,5
+1328,体,体[からだ],Body,その男は体が大きい。,その 男[おとこ]は 体[からだ]が 大[おお]きい。,The man has a big body.,True,,,,5
+1329,体力,体力[たいりょく],Physical Strength,お父さんは体力がない。,お 父[ちち]さんは 体力[たいりょく]がない。,Dad doesn't have much endurance.,True,,,,5
+1330,体内,体内[たいない],Internal,どうしても水は体内から出る。,どうしても 水[みず]は 体内[たいない]から 出[で]る。,Water comes out of the body no matter what.,True,,,,5
+1331,作文,作文[さくぶん],Composition,七才の男の子の作文が本になった。,七[なな] 才[さい]の 男[おとこ]の 子[こ]の 作文[さくぶん]が 本[ほん]になった。,A seven-year-old boy's essay became a book.,True,,,,5
+1332,工作,工作[こうさく],Handicraft,わたし、工作が下手なんです。,わたし、 工作[こうさく]が 下手[へた]なんです。,I'm not good at crafts.,True,,,,5
+1333,大作,大作[たいさく],An Epic,「サイコ」はヒッチコックの大作だ。,「サイコ」はヒッチコックの 大作[たいさく]だ。,"""Psycho"" is Hitchcock's magnum opus.",True,,,,5
+1334,図,図[ず],Diagram,下の図を見てください。,下[した]の 図[ず]を 見[み]てください。,Please look at the diagram below.,True,,,,5
+1335,声,声[こえ],Voice,あっ、お父さんの声だ。,あっ、お 父[ちち]さんの 声[こえ]だ。,"Oh, that Dad's voice.",True,,,,5
+1336,大声,大声[おおごえ],Large Voice,つい大声が出てしまった。,つい 大声[おおごえ]が 出[で]てしまった。,I raised my voice despite myself.,True,,,,5
+1337,売る,売[う]る,To Sell Something,道に絵を売る人がいました。,道[みち]に 絵[え]を 売[う]る 人[ひと]がいました。,There was a person selling pictures on the street.,True,,,,9
+1338,弟,弟[おとうと],Younger Brother,左の男の子がわたしの弟です。,左[ひだり]の 男[おとこ]の 子[こ]がわたしの 弟[おとうと]です。,The boy on the left is my brother.,True,,,,5
+1339,兄弟,兄弟[きょうだい],Brothers,あの二人は兄弟です。,あの 二人[ふたり]は 兄弟[きょうだい]です。,Those two are brothers.,True,,,,5
+1340,形,形[かたち],Shape,今日のおにぎりの形は丸です。,今日[きょう]のおにぎりの 形[かたち]は 丸[まる]です。,The shape of today's rice ball is round.,True,,,,7
+1341,ハート形,ハート 形[けい],Heart Shaped,ハート形の風船を買いました。,ハート 形[けい]の 風船[ふうせん]を 買[か]いました。,I bought a heart-shaped balloon.,True,,,,9
+1342,来る,来[く]る,To Come,もうすぐ先生が来る。,もうすぐ 先生[せんせい]が 来[く]る。,The teacher's coming soon.,True,,,,5
+1343,来月,来月[らいげつ],Next Month,花火大会は来月ですか？,花火[はなび] 大会[たいかい]は 来月[らいげつ]ですか？,Is the firework festival next month?,True,,,,5
+1344,来年,来年[らいねん],Next Year,来年は２０００年です。,来年[らいねん]は ２０００[にれいれいれい] 年[ねん]です。,Next year is the year 2000.,True,,,,5
+1345,古来,古来[こらい],From Ancient Times,古来から、あの山は「ふじ山」という名だ。,古来[こらい]から、あの 山[やま]は「ふじ 山[やま]」という 名[な]だ。,"Since ancient times, that mountain has been called ""Mt. Fuji.""",True,,,,5
+1346,〜年来,〜 年来[ねんらい],For Some Years,マイケルは、父の三十年来の友人です。,マイケルは、 父[ちち]の 三十[さんじゅう] 年[ねん] 来[らい]の 友人[ゆうじん]です。,Michael is my father's friend of thirty years.,True,,,,5
+1347,社内,社内[しゃない],Within The Company,社内にデザイナーがいます。,社内[しゃない]にデザイナーがいます。,The company has in-house designers.,True,,,,5
+1348,入社,入社[にゅうしゃ],Joining A Company,入社したばかりです。,入社[にゅうしゃ]したばかりです。,I just joined a company.,True,,,,5
+1349,本社,本社[ほんしゃ],Headquarters,本社はポートランドにあります。,本社[ほんしゃ]はポートランドにあります。,The head office is in Portland.,True,,,,5
+1350,会社,会社[かいしゃ],Company,この会社のスタッフは五百人です。,この 会社[かいしゃ]のスタッフは 五百[ごひゃく] 人[にん]です。,This company has a staff of five hundred.,True,,,,5
+1351,角,角[かく],Angle,角にコンビニがありますよ。,角[かど]にコンビニがありますよ。,There is a convenience store on the corner.,True,,,,5
+1352,三角,三角[さんかく],Triangle,そのチーズは三角でした。,そのチーズは 三角[さんかく]でした。,The cheese was triangular.,True,,,,5
+1353,四角,四角[しかく],Square,わたしのキーボードのキーは四角です。,わたしのキーボードのキーは 四角[しかく]です。,The keys on my keyboard are square.,True,,,,5
+1354,言う,言[ゆ]う,To Say,スタッフは「ありがとうございました」と、言う。,スタッフは「ありがとうございました」と、 言[ゆ]う。,"The staff says, ""Thank you.""",True,,,,5
+1355,谷,谷[たに],Valley,谷の水はきれいです。,谷[たに]の 水[みず]はきれいです。,The water in the valley is clean.,True,,,,5
+1356,走る,走[はし]る,To Run,レストランまで走る？,レストランまで 走[はし]る？,Wanna run to the restaurant?,True,,,,5
+1357,走行,走行[そうこう],Traveling,走行スピードを下げてください。,走行[そうこう]スピードを 下[さ]げてください。,Reduce the driving speed.,True,,,,5
+1358,近い,近[ちか]い,Close,ここから近いコンビニはセブンイレブンです。,ここから 近[ちか]いコンビニはセブンイレブンです。,The convenience store near here is 7-Eleven.,True,,,,5
+1359,近日,近日[きんじつ],Soon,このレストランは近日オープンする。,このレストランは 近日[きんじつ]オープンする。,This restaurant will open soon.,True,,,,5
+1360,近年,近年[きんねん],Recent Years,近年、日本のウィスキーがトレンドです。,近年[きんねん]、 日本[にっぽん]のウィスキーがトレンドです。,"In recent years, Japanese whiskey has been trending.",True,,,,5
+1361,麦,麦[むぎ],Wheat,麦アレルギーです。,麦[むぎ]アレルギーです。,I'm allergic to wheat.,True,,,,5
+1362,文化,文化[ぶんか],Culture,これは日本の文化についての本です。,これは 日本[にっぽん]の 文化[ぶんか]についての 本[ほん]です。,This is a book about Japanese culture.,True,,,,6
+1363,地下,地下[ちか],Underground,その車両は地下に入った。,その 車両[しゃりょう]は 地下[ちか]に 入[はい]った。,The vehicle went underground.,True,,,,6
+1364,土地,土地[とち],Land,ここは、あなたの土地ではありません。,ここは、あなたの 土地[とち]ではありません。,This isn’t your land.,True,,,,6
+1365,地図,地図[ちず],Map,スマートフォンで地図を出しました。,スマートフォンで 地図[ちず]を 出[だ]しました。,I got out the map on my smartphone.,True,,,,6
+1366,両手,両手[りょうて],Both Hands,両手を上げて、バンザイをしました。,両手[りょうて]を 上[あ]げて、バンザイをしました。,They raised both hands and shouted banzai.,True,,,,6
+1367,両日,両日[りょうじつ],Both Days,両日のスケジュールをメールして下さい。,両日[りょうじつ]のスケジュールをメールして 下[くだ]さい。,Please email the schedule for both days.,True,,,,6
+1368,両方,両方[りょうほう],Both,父も母も、両方ともフランス人です。,父[ちち]も 母[はは]も、 両方[りょうほう]ともフランス 人[にん]です。,Both my father and mother are French.,True,,,,6
+1369,全て,全[すべ]て,All,玉ねぎは全て切りますか？,玉[たま]ねぎは 全[すべ]て 切[き]りますか？,Should I cut this entire onion?,True,,,,6
+1370,全力,全力[ぜんりょく],Full Effort,会社まで全力で走りました。,会社[かいしゃ]まで 全力[ぜんりょく]で 走[はし]りました。,I ran to the company with my utmost effort.,True,,,,6
+1371,全日本,全[ぜん] 日本[にっぽん],All Japan,全日本の人口は主にアジア人です。,全[ぜん] 日本[にっぽん]の 人口[じんこう]は 主[おも]にアジア 人[にん]です。,The population of all of Japan is mainly Asian.,True,,,,6
+1372,安全,安全[あんぜん],Safety,このツリーハウスは、安全ですか？,このツリーハウスは、 安全[あんぜん]ですか？,Is this tree house safe?,True,,,,6
+1373,方向,方向[ほうこう],Direction,入り口の方向はどちらですか。,入[い]り 口[ぐち]の 方向[ほうこう]はどちらですか。,Which direction is the entrance?,True,,,,6
+1374,安い,安[やす]い,Cheap,カメルーンのフルーツはとても安い。,カメルーンのフルーツはとても 安[やす]い。,Fruits in Cameroon is very cheap.,True,,,,6
+1375,安心,安心[あんしん],Relief,これで安心です。,これで 安心[あんしん]です。,That’s a relief.,True,,,,6
+1376,不安,不安[ふあん],Uneasiness,一人で外国に行くのは少し不安です。,一人[ひとり]で 外国[がいこく]に 行[い]くのは 少[すこ]し 不安[ふあん]です。,I'm a little anxious to go abroad alone.,True,,,,6
+1377,平安,平安[へいあん],Peace,今日は一日、平安な日でした。,今日[きょう]は 一日[ついたち]、 平安[へいあん]な 日[ひ]でした。,Today was a peaceful day.,True,,,,6
+1378,州,州[しゅう],State,私は、アイダホ州の生まれです。,私[わたし]は、アイダホ 州[しゅう]の 生[う]まれです。,I was born in the state of Idaho.,True,,,,6
+1379,九州,九州[きゅうしゅう],Kyuushuu,九州に行ったことはありますか？,九州[きゅうしゅう]に 行[い]ったことはありますか？,Have you ever been to Kyushu?,True,,,,6
+1380,本州,本州[ほんしゅう],Honshuu,本州の人口は何人ですか？,本州[ほんしゅう]の 人口[じんこう]は 何人[なんぴと]ですか？,What is the population of Honshu?,True,,,,6
+1381,曲,曲[きょく],Tune,この曲はアメリカで人気です。,この 曲[きょく]はアメリカで 人気[にんき]です。,This song is popular in the United States.,True,,,,6
+1382,名曲,名曲[めいきょく],Famous Music,これはジャズの名曲です。,これはジャズの 名曲[めいきょく]です。,This is a jazz masterpiece.,True,,,,6
+1383,有る,有[あ]る,To Have,マヨネーズなら、まだ少し有る。,マヨネーズなら、まだ 少[すこ]し 有[あ]る。,We still have a little mayonnaise.,True,,,,6
+1384,有名,有名[ゆうめい],Famous,ニコラス・ケイジは日本でも有名です。,ニコラス・ケイジは 日本[にっぽん]でも 有名[ゆうめい]です。,Nicholas Cage is famous in Japan too.,True,,,,6
+1385,次,次[つぎ],Next,次のバスで行きましょう。,次[つぎ]のバスで 行[い]きましょう。,Let's go with the next bus.,True,,,,6
+1386,次回,次回[じかい],Next Time,次回は、いつですか？,次回[じかい]は、いつですか？,When is the next time?,True,,,,6
+1387,目次,目次[もくじ],Table Of Contents,先ず、本の目次を見て下さい。,先[ま]ず、 本[ほん]の 目次[もくじ]を 見[み]て 下[くだ]さい。,"First, please look at the table of contents of the book.",True,,,,6
+1388,死ぬ,死[し]ぬ,To Die,このスプレーで大体の虫は死ぬ。,このスプレーで 大体[だいたい]の 虫[むし]は 死[し]ぬ。,Most insects die with this spray.,True,,,,6
+1389,死体,死体[したい],Dead Body,二人の死体は、山で見つかった。,二人[ふたり]の 死体[したい]は、 山[やま]で 見[み]つかった。,Dead bodies of the two were found in a mountain.,True,,,,6
+1390,死亡,死亡[しぼう],Mortality,今回のフライトで、死亡した人はいませんでした。,今回[こんかい]のフライトで、 死亡[しぼう]した 人[ひと]はいませんでした。,No one died in this flight.,True,,,,6
+1391,羊,羊[ひつじ],Sheep,この羊の毛は白いです。,この 羊[ひつじ]の 毛[け]は 白[しろ]いです。,This sheep's fur is white.,True,,,,6
+1392,羊毛,羊毛[ようもう],Wool,クリスマスプレゼントに、羊毛のブランケットをもらいました。,クリスマスプレゼントに、 羊毛[ようもう]のブランケットをもらいました。,I got a wool blanket as a Christmas present.,True,,,,6
+1393,血,血[ち],Blood,シャツに血がついていますよ。,シャツに 血[ち]がついていますよ。,There is blood on your shirt.,True,,,,6
+1394,出血,出血[しゅっけつ],Bleeding,出血が止まりません。,出血[しゅっけつ]が 止[と]まりません。,Bleeding doesn't stop.,True,,,,6
+1395,国,国[くに],Country,お国はどちらですか。,お 国[くに]はどちらですか。,Which country are you from?,True,,,,6
+1396,中国,中国[ちゅうごく],China,中国の人口は日本よりも大きい。,中国[ちゅうごく]の 人口[じんこう]は 日本[にっぽん]よりも 大[おお]きい。,China's population is larger than Japan.,True,,,,6
+1397,天国,天国[てんごく],Kingdom Of Heaven,これは、天国にいる母へのメッセージです。,これは、 天国[てんごく]にいる 母[はは]へのメッセージです。,This is a message to my mother in heaven.,True,,,,6
+1398,全国,全国[ぜんこく],Nationwide,今、全国でインフルエンザの人が多いです。,今[いま]、 全国[ぜんこく]でインフルエンザの 人[ひと]が 多[おお]いです。,"Right now, there are many people with flu nationwide.",True,,,,6
+1399,四国,四国[しこく],Shikoku,四国にはまだ行ったことがありません。,四国[しこく]にはまだ 行[い]ったことがありません。,I still haven’t been to Shikoku.,True,,,,6
+1400,外国,外国[がいこく],Foreign Country,まだ外国に行ったことがありません。,まだ 外国[がいこく]に 行[い]ったことがありません。,I have never been to a foreign country yet.,True,,,,6
+1401,外国人,外国[がいこく] 人[にん],Foreign Person,六月に外国人の友人が日本に来ます。,六[ろく] 月[がつ]に 外国[がいこく] 人[にん]の 友人[ゆうじん]が 日本[にっぽん]に 来[き]ます。,My foreign friends are coming to Japan in June.,True,,,,6
+1402,米国,米国[べいこく],United States Of America,主人は米国にいます。,主人[しゅじん]は 米国[べいこく]にいます。,My husband is in the United States.,True,,,,6
+1403,夜,夜[よる],Night,夜のパリはロマンチックだ。,夜[よる]のパリはロマンチックだ。,Paris at night is romantic.,True,,,,6
+1404,今夜,今夜[こんや],Tonight,ウェディングパーティーは今夜です。,ウェディングパーティーは 今夜[こんや]です。,The wedding party is tonight.,True,,,,6
+1405,姉妹,姉妹[しまい],Sisters,あの二人って姉妹みたいだよね。,あの 二人[ふたり]って 姉妹[しまい]みたいだよね。,Those two are like sisters.,True,,,,6
+1406,妹,妹[いもうと],Younger Sister,この子は、私の妹です。,この 子[こ]は、 私[わたし]の 妹[いもうと]です。,This kid is my little sister.,True,,,,6
+1407,お姉さん,お 姉[あね]さん,Older Sister,あの人が、レイチェルのお姉さん？,あの 人[ひと]が、レイチェルのお 姉[あね]さん？,Is that person Rachel's older sister?,True,,,,6
+1408,店,店[みせ],Shop,一人で店に入りました。,一人[ひとり]で 店[みせ]に 入[はい]りました。,I entered the store alone.,True,,,,6
+1409,明るい,明[あか]るい,Bright,カーテンから入る日の光が明るい。,カーテンから 入[はい]る 日[ひ]の 光[ひかり]が 明[あか]るい。,The light of the sun coming from the curtain is bright.,True,,,,6
+1410,不明,不明[ふめい],Unknown,このホテルは、オーナーが不明です。,このホテルは、オーナーが 不明[ふめい]です。,The owner of this hotel is unknown.,True,,,,6
+1411,東方,東方[とうほう],Eastward,この男は、東方の国から来たらしい。,この 男[おとこ]は、 東方[とうほう]の 国[くに]から 来[き]たらしい。,Apparently this man is from a country in the East.,True,,,,6
+1412,東北,東北[とうほく],Tohoku ,東北で、ボランティアをしていました。,東北[とうほく]で、ボランティアをしていました。,I was volunteering in Tohoku.,True,,,,6
+1413,中東,中東[ちゅうとう],Middle East,さっきテレビで中東のニュースを見ました。,さっきテレビで 中東[ちゅうとう]のニュースを 見[み]ました。,I just saw the news about the Middle East on TV.,True,,,,6
+1414,南東,南東[なんとう],Southeast,車は、南東の方に行った。,車[くるま]は、 南東[なんとう]の 方[ほう]に 行[い]った。,The car went in a southeast direction.,True,,,,6
+1415,歩く,歩[ある]く,To Walk,一人で山を歩く。,一人[ひとり]で 山[やま]を 歩[ある]く。,I walk in the mountains alone.,True,,,,6
+1416,直す,直[なお]す,To Fix,このパソコン、直せますか？,このパソコン、 直[なお]せますか？,Can you fix this computer?,True,,,,6
+1417,直る,直[なお]る,To Be Fixed,もうすぐ、インターネットのルーターが直ると思う。,もうすぐ、インターネットのルーターが 直[なお]ると 思[おも]う。,I think the internet router will be fixed soon.,True,,,,7
+1418,正直,正直[しょうじき],Honest,川田さんは、とても正直な人です。,川田[かわた]さんは、とても 正直[しょうじき]な 人[ひと]です。,Kawata is a very honest person.,True,,,,6
+1419,直行,直行[ちょっこう],Nonstop,入り口に直行して下さい。,入[い]り 口[ぐち]に 直行[ちょっこう]して 下[くだ]さい。,Please go straight to the entrance.,True,,,,6
+1420,長い,長[なが]い,Long,この川は長いです。,この 川[かわ]は 長[なが]いです。,This river is long.,True,,,,6
+1421,社長,社長[しゃちょう],Company President,社長はミーティング中です。,社長[しゃちょう]はミーティング 中[ちゅう]です。,The company president is in a meeting.,True,,,,6
+1422,前,前[まえ],Front,入り口の前に、たくさんの人がいます。,入[い]り 口[ぐち]の 前[まえ]に、たくさんの 人[ひと]がいます。,There are many people in front of the entrance.,True,,,,6
+1423,午前,午前[ごぜん],AM,平日の午前はランニングをします。,平日[へいじつ]の 午前[ごぜん]はランニングをします。,I run in the morning on weekdays.,True,,,,6
+1424,南,南[みなみ],South,南に山がある。,南[みなみ]に 山[やま]がある。,There is a mountain in the south.,True,,,,6
+1425,後ろ,後[うし]ろ,Behind,後ろに見える大きな山が、ふじ山です。,後[うし]ろに 見[み]える 大[おお]きな 山[やま]が、ふじ 山[やま]です。,The big mountain you can see behind is Mt. Fuji.,True,,,,6
+1426,後で,後[あと]で,After,後でホテルに来て下さい。,後[あと]でホテルに 来[き]て 下[くだ]さい。,Please come to the hotel later.,True,,,,6
+1427,午後,午後[ごご],PM,午後は、会社にいますか？,午後[ごご]は、 会社[かいしゃ]にいますか？,Are you at the company in the afternoon?,True,,,,6
+1428,思う,思[おも]う,To Think,コウイチも来ると思う。,コウイチも 来[く]ると 思[おも]う。,I think Koichi will also come.,True,,,,6
+1429,星,星[ほし],Star,夜には、星がとてもきれいでした。,夜[よる]には、 星[ほし]がとてもきれいでした。,That night the stars were really pretty.,True,,,,9
+1430,生活,生活[せいかつ],Life,生活にかかるお金が大きいです。,生活[せいかつ]にかかるお 金[かね]が 大[おお]きいです。,The cost of living is big.,True,,,,6
+1431,海,海[うみ],Ocean,その海の色はエメラルドグリーンでした。,その 海[うみ]の 色[いろ]はエメラルドグリーンでした。,The color of the sea was emerald green.,True,,,,9
+1432,海外,海外[かいがい],Overseas,海外に行きたいなぁ。,海外[かいがい]に 行[い]きたいなぁ。,I want to go abroad.,True,,,,6
+1433,点,点[てん],Point,日本に点が入った。,日本[にっぽん]に 点[てん]が 入[はい]った。,Japan got a score.,True,,,,6
+1434,科学,科学[かがく],Science,それは科学の本ですよ。,それは 科学[かがく]の 本[ほん]ですよ。,It's a science book.,True,,,,6
+1435,お茶,お 茶[ちゃ],Tea,お茶下さい。,お 茶[ちゃ] 下[くだ]さい。,"Tea, please.",True,,,,6
+1436,茶色,茶色[ちゃいろ],Brown,私のカバンは茶色です。,私[わたし]のカバンは 茶色[ちゃいろ]です。,My bag is brown.,True,,,,6
+1437,食べる,食[た]べる,To Eat,毎日ドーナッツを食べる。,毎日[まいにち]ドーナッツを 食[た]べる。,I eat donuts every day.,True,,,,6
+1438,首,首[くび],Neck,首のストレッチをしましょう。,首[くび]のストレッチをしましょう。,Let's stretch your neck.,True,,,,6
+1439,足首,足首[あしくび],Ankle,足首のストレッチをしましょう。,足首[あしくび]のストレッチをしましょう。,Let's stretch your ankle.,True,,,,6
+1440,首になる,首[くび]になる,To Get Fired,先月、会社を首になりました。,先月[せんげつ]、 会社[かいしゃ]を 首[くび]になりました。,"Last month, I was fired from the company.",True,,,,6
+1441,欠点,欠点[けってん],Shortcoming,このテレビにも、欠点は一つだけあります。,このテレビにも、 欠点[けってん]は 一[ひと]つだけあります。,This TV also has only one flaw.,True,,,,7
+1442,〜氏,〜 氏[し],Mister,ビル・ゲイツ氏はシアトルの生まれです。,ビル・ゲイツ 氏[し]はシアトルの 生[う]まれです。,Mister Bill Gates was born in Seattle.,True,,,,7
+1443,氏名,氏名[しめい],Full Name,氏名を入力して下さい。,氏名[しめい]を 入力[にゅうりょく]して 下[くだ]さい。,Please enter your full name.,True,,,,7
+1444,自由,自由[じゆう],Freedom,私には今日休む自由がある。,私[わたし]には 今日[きょう] 休[やす]む 自由[じゆう]がある。,I have the freedom to take a day off today.,True,,,,7
+1445,理由,理由[りゆう],Reason,理由は有りません。,理由[りゆう]は 有[あ]りません。,There is no reason.,True,,,,7
+1446,〜札,〜 札[さつ],Bill,おつりは、全て千円札でもらえますか？,おつりは、 全[すべ]て 千[せん] 円[えん] 札[さつ]でもらえますか？,"Can I get the change all in 1,000 yen bills?",True,,,,7
+1447,千円札,千[せん] 円[えん] 札[さつ],Thousand Yen Bill,千円札のおつりが不足しています。,千[せん] 円[えん] 札[さつ]のおつりが 不足[ふそく]しています。,We don't have enough thousand yen bills for change.,True,,,,7
+1448,国民,国民[こくみん],The People,私は、日本の国民です。,私[わたし]は、 日本[にっぽん]の 国民[こくみん]です。,I am a Japanese citizen.,True,,,,7
+1449,辺り,辺[あた]り,Area,日が出て、辺りが明るくなってきました。,日[ひ]が 出[で]て、 辺[あた]りが 明[あか]るくなってきました。,The sun is rising and it is getting brighter around here.,True,,,,7
+1450,この辺,この 辺[へん],Around Here,この辺は、人が少ないです。,この 辺[へん]は、 人[ひと]が 少[すく]ないです。,There are not many people in this area.,True,,,,7
+1451,付ける,付[つ]ける,To Attach Something,ホットドッグにケチャップ付ける？,ホットドッグにケチャップ 付[つ]ける？,Do you want to put ketchup on your hotdog?,True,,,,7
+1452,以外,以外[いがい],Other Than,ビール以外のアルコール下さい。,ビール 以外[いがい]のアルコール 下[くだ]さい。,Please give me some alcohol other than beer.,True,,,,7
+1453,以上,以上[いじょう],More Than,一万円以上のホテルでもいいですよ。,一万[いちまん] 円[えん] 以上[いじょう]のホテルでもいいですよ。,I'm fine with a hotel that costs more than ten thousand yen.,True,,,,7
+1454,以前,以前[いぜん],Previously,あの男の人は、以前会ったことがある人です。,あの 男[おとこ]の 人[ひと]は、 以前[いぜん] 会[あ]ったことがある 人[ひと]です。,That man is someone I've met before.,True,,,,7
+1455,失う,失[]う,To Lose,そんなにジャンプすると体力を失うよ。,そんなにジャンプすると 体力[たいりょく]を 失[]うよ。,"If you jump that much, you would lose your physical strength.",True,,,,7
+1456,失礼,失礼[しつれい],Rude,なんて失礼な男だ。,なんて 失礼[しつれい]な 男[おとこ]だ。,Such a rude man.,True,,,,7
+1457,必ず,必[かなら]ず,Surely,必ず毎日歩くことが大切です。,必[かなら]ず 毎日[まいにち] 歩[ある]くことが 大切[たいせつ]です。,It is important to make sure to walk every day.,True,,,,7
+1458,必死,必死[ひっし],Frantic,お母さんは、ダイエットに必死だ。,お 母[はは]さんは、ダイエットに 必死[ひっし]だ。,Mom is frantic about losing weight.,True,,,,7
+1459,未来,未来[みらい],Future,未来のことは分かりません。,未来[みらい]のことは 分[わ]かりません。,I don't know the future.,True,,,,7
+1460,末,末[すえ],The End,休学の末、私は九州で社長になりました。,休学[きゅうがく]の 末[すえ]、 私[わたし]は 九州[きゅうしゅう]で 社長[しゃちょう]になりました。,"After a leave of absence, I became a company president in Kyushu.",True,,,,7
+1461,年末,年末[ねんまつ],Year End,日本では年末にソバを食べます。,日本[にっぽん]では 年末[ねんまつ]にソバを 食[た]べます。,"In Japan, we eat buckwheat noodles at the end of the year.",True,,,,7
+1462,月末,月末[げつまつ],End Of The Month,月末までに、このアパートを出ます。,月末[げつまつ]までに、このアパートを 出[で]ます。,"By the end of the month, I will leave this apartment.",True,,,,7
+1463,高校,高校[こうこう],High School,高校まで、車で行けば十分ですよ。,高校[こうこう]まで、 車[くるま]で 行[い]けば 十分[じゅうぶん]ですよ。,It only takes 10 minutes to get to the high school if you drive.,True,,,,7
+1464,学校,学校[がっこう],School,平日は学校に行きます。,平日[へいじつ]は 学校[がっこう]に 行[い]きます。,I go to school on weekdays.,True,,,,7
+1465,夏,夏[なつ],Summer,夏と言えば、生ビールと花火です。,夏[なつ]と 言[い]えば、 生[なま]ビールと 花火[はなび]です。,What reminds me of summer is draft beer and fireworks.,True,,,,7
+1466,夏休み,夏休[なつやす]み,Summer Vacation,七月と八月は夏休みです。,七[なな] 月[がつ]と 八[はち] 月[がつ]は 夏休[なつやす]みです。,July and August are summer vacation.,True,,,,7
+1467,家,家[いえ],Home,私の家は東京にあります。,私[わたし]の 家[いえ]は 東京[とうきょう]にあります。,My house is in Tokyo.,True,,,,7
+1468,作家,作家[さっか],Writer,あの男の人は、有名なベストセラー作家です。,あの 男[おとこ]の 人[ひと]は、 有名[ゆうめい]なベストセラー 作家[さっか]です。,That man is a famous bestselling author.,True,,,,7
+1469,弱い,弱[よわ]い,Weak,父は体が弱いんです。,父[ちち]は 体[からだ]が 弱[よわ]いんです。,My father is physically weak.,True,,,,7
+1470,弱点,弱点[じゃくてん],Weak Point,虫がキライなことが、私の弱点です。,虫[むし]がキライなことが、 私[わたし]の 弱点[じゃくてん]です。,My weaknesses are that I don't do well with insects.,True,,,,7
+1471,時,時[とき],Time,あの時、父は五十才だったと思います。,あの 時[とき]、 父[ちち]は 五十[ごじゅう] 才[さい]だったと 思[おも]います。,"At that time, I think my father was 50 years old.",True,,,,7
+1472,一時,一[いち] 時[じ],One O'clock,ランチは午後一時に食べます。,ランチは 午後[ごご] 一[いち] 時[じ]に 食[た]べます。,I eat lunch at one in the afternoon.,True,,,,7
+1473,二時半,二[に] 時[じ] 半[はん],Two Thirty,今、もう二時半ですよ。,今[いま]、もう 二[に] 時[じ] 半[はん]ですよ。,It's already 2:30 now.,True,,,,7
+1474,何時,何時[いつ],What Time,ニューヨーク直行のフライトは何時ですか？,ニューヨーク 直行[ちょっこう]のフライトは 何時[いつ]ですか？,What time is the direct flight to New York?,True,,,,7
+1475,同時,同時[どうじ],Same Time,二つのライトが同時に明るくなった。,二[ふた]つのライトが 同時[どうじ]に 明[あか]るくなった。,The two lights became bright at the same time.,True,,,,7
+1476,紙,紙[かみ],Paper,紙とペンをテーブルの上に出してください。,紙[かみ]とペンをテーブルの 上[うえ]に 出[だ]してください。,Put the paper and pen on the table.,True,,,,7
+1477,手紙,手紙[てがみ],Letter,それは、父からの手紙です。,それは、 父[ちち]からの 手紙[てがみ]です。,It is a letter from my father.,True,,,,7
+1478,日記,日記[にっき],Diary,テーブルの上の日記は見ないで下さい。,テーブルの 上[うえ]の 日記[にっき]は 見[み]ないで 下[くだ]さい。,Please do not look at the diary on the table.,True,,,,7
+1479,通る,通[とお]る,To Pass,たくさんの車が通る。,たくさんの 車[くるま]が 通[とお]る。,Many cars pass by.,True,,,,8
+1480,交通,交通[こうつう],Traffic,車の交通に十分と気をつけて下さい。,車[くるま]の 交通[こうつう]に 十分[じゅうぶん]と 気[き]をつけて 下[くだ]さい。,Please be careful with car traffic.,True,,,,7
+1481,高い,高[たか]い,Tall,あの高いビルの中に本社があります。,あの 高[たか]いビルの 中[なか]に 本社[ほんしゃ]があります。,There's the HQ in that tall building over there.,True,,,,7
+1482,強い,強[つよ]い,Strong,全日本の女子バレーチームは、中々強い。,全[ぜん] 日本[にっぽん]の 女子[じょし]バレーチームは、 中々[なかなか] 強[つよ]い。,All Japanese women's valley teams are strong.,True,,,,7
+1483,強力,強力[きょうりょく],Strength,このヘアドライヤーは、かなり強力だ。,このヘアドライヤーは、かなり 強力[きょうりょく]だ。,This hair dryer is quite powerful.,True,,,,7
+1484,教える,教[おし]える,To Teach,私はいつも子どもに「ありがとう」と言う大切さを教える。,私[わたし]はいつも 子[こ]どもに「ありがとう」と 言[い]う 大切[たいせつ]さを 教[おし]える。,"I always teach my child the importance of saying ""thank you.""",True,,,,7
+1485,教室,教室[きょうしつ],Classroom,ここは、一年生の教室ですよ。,ここは、 一[いち] 年[ねん] 生[せい]の 教室[きょうしつ]ですよ。,This is a classroom for first-graders.,True,,,,7
+1486,心理学,心理[しんり] 学[がく],Psychology,次は、心理学のクラスです。,次[つぎ]は、 心理[しんり] 学[がく]のクラスです。,Next is the psychology class.,True,,,,7
+1487,地理,地理[ちり],Geography,地理を学ぶために大学へ行きました。,地理[ちり]を 学[まな]ぶために 大学[だいがく]へ 行[い]きました。,I went to college to learn geography.,True,,,,7
+1488,組,組[くみ],Group,九人を三組のグループに分けた。,九[きゅう] 人[にん]を 三[さん] 組[くみ]のグループに 分[わ]けた。,I divided nine people into three groups.,True,,,,7
+1489,船,船[ふね],Boat,こちらは、四国に直行する船です。,こちらは、 四国[しこく]に 直行[ちょっこう]する 船[ふね]です。,This is a boat going straight to Shikoku.,True,,,,7
+1490,風船,風船[ふうせん],Balloon,空に、たくさんの風船が見えます。,空[そら]に、たくさんの 風船[ふうせん]が 見[み]えます。,You can see many balloons in the sky.,True,,,,7
+1491,先週,先週[せんしゅう],Last Week,先週は、私の会社はお休みでした。,先週[せんしゅう]は、 私[わたし]の 会社[かいしゃ]はお 休[やす]みでした。,"Last week, my company was closed.",True,,,,7
+1492,今週,今週[こんしゅう],This Week,今週は大きなテストがあります。,今週[こんしゅう]は 大[おお]きなテストがあります。,There is a big test this week.,True,,,,7
+1493,週末,週末[しゅうまつ],Weekend,週末は、ベッドかソファの上にいます。,週末[しゅうまつ]は、ベッドかソファの 上[うえ]にいます。,"On weekends, I'm on a bed or sofa.",True,,,,7
+1494,雪,雪[ゆき],Snow,雪を見たことがありますか？,雪[ゆき]を 見[み]たことがありますか？,Have you ever seen snow?,True,,,,7
+1495,魚,魚[さかな],Fish,これは、「コイ」と言う名の魚です。,これは、「コイ」と 言[い]う 名[な]の 魚[さかな]です。,"This is a fish called ""koi.""",True,,,,7
+1496,金魚,金魚[きんぎょ],Goldfish,これは、金魚ですか？コイですか？,これは、 金魚[きんぎょ]ですか？コイですか？,Is this a goldfish? Is it carp?,True,,,,7
+1497,海魚,海魚[かいぎょ],Ocean Fish,サケは海魚ですか？それとも川魚ですか？,サケは 海魚[かいぎょ]ですか？それとも 川魚[かわうお]ですか？,Is salmon a saltwater fish? Or is it a freshwater fish?,True,,,,7
+1498,鳥,鳥[とり],Bird,あの鳥は、アメリカンイーグルです。,あの 鳥[とり]は、アメリカンイーグルです。,That bird is an American eagle.,True,,,,7
+1499,白鳥,白鳥[はくちょう],Swan,白鳥の羽は、白くてきれいです。,白鳥[はくちょう]の 羽[はね]は、 白[しろ]くてきれいです。,Swan wings are white and beautiful.,True,,,,7
+1500,黄色,黄色[きいろ],Yellow,私のレインコートは黄色です。,私[わたし]のレインコートは 黄色[きいろ]です。,My raincoat is yellow.,True,,,,7
+1501,黒い,黒[くろ]い,Black,黒いペン、下さい。,黒[くろ]いペン、 下[くだ]さい。,"A black pen, please.",True,,,,7
+1502,黒人,黒人[こくじん],Black Person,東京には、大きな黒人のコミュニティがあります。,東京[とうきょう]には、 大[おお]きな 黒人[こくじん]のコミュニティがあります。,Tokyo has a big community of black people.,True,,,,7
+1503,馬,馬[うま],Horse,あの馬に、ニンジンやリンゴをあげてもいいですか？,あの 馬[うま]に、ニンジンやリンゴをあげてもいいですか？,Can I give that horse carrots and apples?,True,,,,8
+1504,馬力,馬力[ばりき],Horsepower,スポーツカーは、高い馬力を持っています。,スポーツカーは、 高[たか]い 馬力[ばりき]を 持[も]っています。,Sports cars have high horsepower.,True,,,,8
+1505,支える,支[ささ]える,To Support,スタッフは、これからも社長を支える考えだ。,スタッフは、これからも 社長[しゃちょう]を 支[ささ]える 考[かんが]えだ。,The staff's thought is to continue supporting the president.,True,,,,8
+1506,支店,支店[してん],Branch Office,私は毎日、その町の支店に通っています。,私[わたし]は 毎日[まいにち]、その 町[まち]の 支店[してん]に 通[かよ]っています。,I go to the branch in that town every day.,True,,,,8
+1507,住む,住[す]む,To Live,来年から、東京に住むつもりです。,来年[らいねん]から、 東京[とうきょう]に 住[す]むつもりです。,I'm planning to live in Tokyo next year.,True,,,,8
+1508,住人,住人[じゅうにん],Resident,このアパートには、たくさんの住人がいます。,このアパートには、たくさんの 住人[じゅうにん]がいます。,There are a lot of residents in this apartment.,True,,,,8
+1509,住民,住民[じゅうみん],Residents,この町の住民は、おばあちゃんとおじいちゃんが多いです。,この 町[まち]の 住民[じゅうみん]は、おばあちゃんとおじいちゃんが 多[おお]いです。,Many residents in this town are grandmas and grandpas.,True,,,,9
+1510,助ける,助[たす]ける,To Help,私は、その馬を助けるために川に入りました。,私[わたし]は、その 馬[うま]を 助[たす]けるために 川[かわ]に 入[はい]りました。,I went into the river to help the horse.,True,,,,8
+1511,助手,助手[じょしゅ],Assistant,弟は心理学者の助手です。,弟[おとうと]は 心理[しんり] 学[がく] 者[しゃ]の 助手[じょしゅ]です。,My brother is an assistant of a psychologist.,True,,,,10
+1512,助言,助言[じょげん],Advice,これは、お父さんからの助言です。,これは、お 父[ちち]さんからの 助言[じょげん]です。,This is advice from my dad.,True,,,,8
+1513,医大,医大[いだい],Medical University,医大に入るにはお金がかかります。,医大[いだい]に 入[はい]るにはお 金[かね]がかかります。,It costs money to enter a medical university.,True,,,,8
+1514,医学,医学[いがく],Medical Science,大学では医学を学びます。,大学[だいがく]では 医学[いがく]を 学[まな]びます。,I study medicine at university.,True,,,,8
+1515,医者,医者[いしゃ],Doctor,今日は医者に行かなくちゃいけない。,今日[きょう]は 医者[いしゃ]に 行[い]かなくちゃいけない。,I have to go see a doctor today.,True,,,,8
+1516,君主国,君主[くんしゅ] 国[こく],Monarchy,この町はかつて君主国だったそうです。,この 町[まち]はかつて 君主[くんしゅ] 国[こく]だったそうです。,This town was once a monarchy.,True,,,,8
+1517,君,君[きみ],You,君、もしかしてコウイチの妹？,君[きみ]、もしかしてコウイチの 妹[いもうと]？,Are you perhaps Koichi's younger sister?,True,,,,8
+1518,〜君,〜 君[きみ],Boy Name Ender,マイケル君には兄弟がいません。,マイケル 君[くん]には 兄弟[きょうだい]がいません。,Michael has no brothers.,True,,,,8
+1519,対する,対[たい]する,To Face,ドルに対する円のレートは、今いくらですか？,ドルに 対[たい]する 円[えん]のレートは、 今[いま]いくらですか？,How much is the rate of the yen compared to the dollar now?,True,,,,8
+1520,対立,対立[たいりつ],Confrontation,あの姉妹は未だ対立している。,あの 姉妹[しまい]は 未[いま]だ 対立[たいりつ]している。,Those sisters are still confronting each other.,True,,,,8
+1521,反対,反対[はんたい],Opposition,その考えには反対です。,その 考[かんが]えには 反対[はんたい]です。,I’m opposed to the idea.,True,,,,8
+1522,局,局[きょく],Bureau,この局のニュースをよく見ます。,この 局[つぼね]のニュースをよく 見[み]ます。,I often see the news on this station.,True,,,,8
+1523,支局,支局[しきょく],Branch Office,東京支局からポートランドの本社に直行して下さい。,東京[とうきょう] 支局[しきょく]からポートランドの 本社[ほんしゃ]に 直行[ちょっこう]して 下[くだ]さい。,Please go straight to the headquarters in Portland from the Tokyo branch.,True,,,,8
+1524,役,役[やく],Role,役のためにダイエットします。,役[やく]のためにダイエットします。,I'll be on a diet for a role.,True,,,,8
+1525,役人,役人[やくにん],Public Official,今日、役人が来ましたよ。,今日[きょう]、 役人[やくにん]が 来[き]ましたよ。,A public official came today.,True,,,,8
+1526,役に立つ,役[やく]に 立[た]つ,To Be Useful,マスキングテープは、色々なことの役に立つ。,マスキングテープは、 色々[いろいろ]なことの 役[やく]に 立[た]つ。,Masking tape is useful for various things.,True,,,,8
+1527,大役,大役[たいやく],Important Task,この学校の先生になることは、大役ですよ。,この 学校[がっこう]の 先生[せんせい]になることは、 大役[たいやく]ですよ。,Being a teacher at this school is a great duty.,True,,,,8
+1528,決,決[けつ],Decision,それでは、決をとりたいと思います。,それでは、 決[けつ]をとりたいと 思[おも]います。,Well then I think that’s the decision I want to make.,True,,,,8
+1529,決める,決[き]める,To Decide,毎日、ネクタイを決めるのに時間がかかります。,毎日[まいにち]、ネクタイを 決[き]めるのに 時間[じかん]がかかります。,It takes time to decide which tie to wear every day.,True,,,,8
+1530,決心,決心[けっしん],Determination,ふじ山の上でプロポーズすると決心した。,ふじ 山[やま]の 上[うえ]でプロポーズすると 決心[けっしん]した。,I determined to propose on Mt. Fuji.,True,,,,8
+1531,未決,未決[みけつ],Pending,スケジュールは、未決です。,スケジュールは、 未決[みけつ]です。,The schedule is undecided.,True,,,,8
+1532,自決,自決[じけつ],Suicide,そのサムライは自決した。,そのサムライは 自決[じけつ]した。,The samurai committed suicide.,True,,,,8
+1533,究明,究明[きゅうめい],Investigation,自分の欠点を究明しました。,自分[じぶん]の 欠点[けってん]を 究明[きゅうめい]しました。,I investigated my shortcomings.,True,,,,8
+1534,研究,研究[けんきゅう],Investigation,これは、心理学の研究です。,これは、 心理[しんり] 学[がく]の 研究[けんきゅう]です。,This is psychology research.,True,,,,8
+1535,研究室,研究[けんきゅう] 室[しつ],Laboratory,この研究室には毎回たくさんの学生がいます。,この 研究[けんきゅう] 室[しつ]には 毎回[まいかい]たくさんの 学生[がくせい]がいます。,There are many students in this lab every time.,True,,,,10
+1536,投げる,投[な]げる,To Throw,これは、ボールを投げるエクササイズです。,これは、ボールを 投[な]げるエクササイズです。,This is a ball throwing exercise.,True,,,,8
+1537,心身,心身[しんしん],Body And Mind,心身ために毎日ヨガをしましょう。,心身[しんしん]ために 毎日[まいにち]ヨガをしましょう。,Let's do yoga every day for your mind and body.,True,,,,8
+1538,身体,身体[しんたい],The Body,身体は元気ですが、心はボロボロですよ。,身体[しんたい]は 元気[げんき]ですが、 心[こころ]はボロボロですよ。,"My body is fine, but my heart is tattered.",True,,,,8
+1539,全身,全身[ぜんしん],Whole Body,一日に一回、全身にスプレーして下さい。,一[いち] 日[にち]に 一[いち] 回[かい]、 全身[ぜんしん]にスプレーして 下[くだ]さい。,Please spray over your whole body once a day.,True,,,,8
+1540,森,森[もり],Woods,この森には大きい木がたくさん有ります。,この 森[もり]には 大[おお]きい 木[き]がたくさん 有[あ]ります。,There are many large trees in this forest.,True,,,,8
+1541,両者,両者[りょうしゃ],Both People,両者の考えが同じじゃない。,両者[りょうしゃ]の 考[かんが]えが 同[おな]じじゃない。,Both people's thoughts are not the same.,True,,,,8
+1542,作者,作者[さくしゃ],Author,この本の作者に会いたいです。,この 本[ほん]の 作者[さくしゃ]に 会[あ]いたいです。,I want to meet the author of this book.,True,,,,8
+1543,学者,学者[がくしゃ],Scholar,父は心理学の学者です。,父[ちち]は 心理[しんり] 学[がく]の 学者[がくしゃ]です。,My father is a scholar of psychology.,True,,,,8
+1544,工学者,工学[こうがく] 者[しゃ],Engineer,あの男の人は有名な工学者です。,あの 男[おとこ]の 人[ひと]は 有名[ゆうめい]な 工学[こうがく] 者[しゃ]です。,That man is a famous engineer.,True,,,,8
+1545,場所,場所[ばしょ],Place,土の中から死体が見えたのが、この場所です。,土[つち]の 中[なか]から 死体[したい]が 見[み]えたのが、この 場所[ばしょ]です。,This is the spot where the corpse was visible from the soil.,True,,,,8
+1546,入場,入場[にゅうじょう],Entrance,入場する前にチケットを買って下さい。,入場[にゅうじょう]する 前[まえ]にチケットを 買[か]って 下[くだ]さい。,Please buy a ticket before you enter.,True,,,,8
+1547,工場,工場[こうじょう],Factory,この町には大きな工場があります。,この 町[まち]には 大[おお]きな 工場[こうじょう]があります。,This town has a large factory.,True,,,,8
+1548,所,所[ところ],Place,分からない所があれば、手を上げてください。,分[わ]からない 所[ところ]があれば、 手[て]を 上[あ]げてください。,"If there’s a spot you don’t understand, please raise your hand.",True,,,,8
+1549,他所,他所[よそ],Another Place,ここじゃなくて、どこか他所の店に行こうよ。,ここじゃなくて、どこか 他所[よそ]の 店[みせ]に 行[い]こうよ。,"Not here, let’s go to another store somewhere else.",True,,,,8
+1550,名所,名所[めいしょ],Famous Place,東京タワーは、日本の名所の一つです。,東京[とうきょう]タワーは、 日本[にっぽん]の 名所[めいしょ]の 一[ひと]つです。,Tokyo Tower is one of Japan's famous places.,True,,,,8
+1551,住所,住所[じゅうしょ],Address,次に、住所を入力して下さい。,次[つぎ]に、 住所[じゅうしょ]を 入力[にゅうりょく]して 下[くだ]さい。,"Next, please enter your address.",True,,,,8
+1552,朝,朝[あさ],Morning,もう朝ですよ。,もう 朝[あさ]ですよ。,It's already morning.,True,,,,8
+1553,朝ごはん,朝[あさ]ごはん,Breakfast,毎日の朝ごはんはベーコンとパンです。,毎日[まいにち]の 朝[あさ]ごはんはベーコンとパンです。,My breakfast everyday is bacon and bread.,True,,,,8
+1554,朝日,朝日[あさひ],Morning Sun,明るい朝日の中、ヨガをします。,明[あか]るい 朝日[あさひ]の 中[なか]、ヨガをします。,I do yoga in the bright morning sunshine.,True,,,,8
+1555,番号,番号[ばんごう],Number,チケット番号を教えて下さい。,チケット 番号[ばんごう]を 教[おし]えて 下[くだ]さい。,Please tell me the ticket number.,True,,,,8
+1556,一番,一番[いちばん],Number One,一番大切な人は、自分の子です。,一番[いちばん] 大切[たいせつ]な 人[ひと]は、 自分[じぶん]の 子[こ]です。,The most important person is my own child.,True,,,,8
+1557,二番,二[に] 番[ばん],Number Two,私はエントリーナンバー二番です。,私[わたし]はエントリーナンバー 二[に] 番[ばん]です。,I am entry number two.,True,,,,8
+1558,交番,交番[こうばん],Police Box,交番の前に、たくさんのジャーマンシェパードがいました。,交番[こうばん]の 前[まえ]に、たくさんのジャーマンシェパードがいました。,There were a lot of German shepherds in front of the police box.,True,,,,8
+1559,答え,答[こた]え,Answer,「三足す四」の正しい答えは「七」です。,「 三[さん] 足[た]す 四[よん]」の 正[ただ]しい 答[こた]えは「 七[なな]」です。,"The correct answer of ""three plus four"" is ""seven.""",True,,,,8
+1560,答える,答[こた]える,To Answer,「はい」と答えるのに少し時間がかかった。,「はい」と 答[こた]えるのに 少[すこ]し 時間[じかん]がかかった。,"It took a little time to answer ""yes.""",True,,,,8
+1561,絵,絵[え],Painting,これは有名なピカソの絵です。,これは 有名[ゆうめい]なピカソの 絵[え]です。,This is a famous Picasso painting.,True,,,,8
+1562,買う,買[か]う,To Buy,今日も朝、コンビニでコーヒーを買う。,今日[きょう]も 朝[あさ]、コンビニでコーヒーを 買[か]う。,I'm buying coffee at the convenience store in the morning today as well.,True,,,,8
+1563,道,道[みち],Road,父は毎朝、この道でジョギングをします。,父[ちち]は 毎朝[まいあさ]、この 道[みち]でジョギングをします。,My father jogs on this street every morning.,True,,,,8
+1564,歩道,歩道[ほどう],Sidewalk,この歩道は広くて歩きやすいです。,この 歩道[ほどう]は 広[ひろ]くて 歩[ある]きやすいです。,This sidewalk is wide and easy to walk on.,True,,,,8
+1565,〜道,〜 道[みち],Method Of,休みの日は、茶道の教室に行きます。,休[やす]みの 日[ひ]は、 茶道[さどう]の 教室[きょうしつ]に 行[い]きます。,"On my days off, I go to tea ceremony lessons.",True,,,,8
+1566,間,間[ま],Interval,学校にいる間は、スマホを切っています。,学校[がっこう]にいる 間[あいだ]は、スマホを 切[き]っています。,"While I'm at school, I turn my smartphone off.",True,,,,8
+1567,時間,時間[じかん],Time,JLPTまで、あと一日。時間が足りません。,JLPTまで、あと 一日[ついたち]。 時間[じかん]が 足[た]りません。,One more day until the JLPT. I don't have enough time.,True,,,,8
+1568,〜間,〜 間[ま],Amount Of Time,コンビニは２４時間いつでも行くことが出来ます。,コンビニは ２４[によん] 時間[じかん]いつでも 行[い]くことが 出来[でき]ます。,"You can go to convenience stores anytime, twenty-four hours a day.",True,,,,8
+1569,人間,人間[にんげん],Human,人間は主に水で出来ています。,人間[にんげん]は 主[おも]に 水[みず]で 出来[でき]ています。,Humans are mainly made of water.,True,,,,8
+1570,間もなく,間[ま]もなく,Soon,間もなくオープンです！,間[ま]もなくオープンです！,It will be open soon!,True,,,,8
+1571,空間,空間[くうかん],Space,自分の家は安心できる空間の一つです。,自分[じぶん]の 家[いえ]は 安心[あんしん]できる 空間[くうかん]の 一[ひと]つです。,Your own house is a safe space where you can relax.,True,,,,8
+1572,雲,雲[くも],Cloud,雲は、白くてコットンみたいですよね。,雲[くも]は、 白[しろ]くてコットンみたいですよね。,Clouds are white and they're like cotton.,True,,,,8
+1573,数える,数[かぞ]える,To Count,父は毎日夜になるとベッドの中で羊を数える。,父[ちち]は 毎日[まいにち] 夜[よる]になるとベッドの 中[なか]で 羊[ひつじ]を 数[かぞ]える。,My father counts sheep in bed every night.,True,,,,8
+1574,数,数[すう],Number,このスープに入ってるトマトの数は？,このスープに 入[はい]ってるトマトの 数[かず]は？,What is the number of tomatoes in this soup?,True,,,,8
+1575,数字,数字[すうじ],Numeral,数字を入力するのが下手です。,数字[すうじ]を 入力[にゅうりょく]するのが 下手[へた]です。,I'm not good at entering numbers.,True,,,,8
+1576,数学,数学[すうがく],Mathematics,母は高校の数学の先生でした。,母[はは]は 高校[こうこう]の 数学[すうがく]の 先生[せんせい]でした。,My mother was a high school math teacher.,True,,,,8
+1577,人数,人数[にんずう],The Number Of People,この会社のスタッフの人数は二十人です。,この 会社[かいしゃ]のスタッフの 人数[にんずう]は 二十[にじゅう] 人[にん]です。,The number of staff at this company is twenty people.,True,,,,8
+1578,点数,点数[てんすう],Points,今回の点数は百点でした。,今回[こんかい]の 点数[てんすう]は 百[ひゃく] 点[てん]でした。,The score this time was 100 points.,True,,,,8
+1579,楽しい,楽[たの]しい,Fun,犬と歩くのは楽しい。,犬[いぬ]と 歩[ある]くのは 楽[たの]しい。,Walking with a dog is fun.,True,,,,8
+1580,音楽,音楽[おんがく],Music,明日、大きな音楽のイベントがあります。,明日[あす]、 大[おお]きな 音楽[おんがく]のイベントがあります。,There will be a big music event tomorrow.,True,,,,8
+1581,楽,楽[らく],Comfort,このソファは本当に楽ですね。,このソファは 本当[ほんとう]に 楽[らく]ですね。,This sofa is really comfortable.,True,,,,8
+1582,話す,話[はな]す,To Speak,道で他人と話すことは、ほぼありません。,道[みち]で 他人[たにん]と 話[はな]すことは、ほぼありません。,I rarely talk to others on the street.,True,,,,8
+1583,電話,電話[でんわ],Telephone,山下先生から電話です。,山下[やました] 先生[せんせい]から 電話[でんわ]です。,It's a phone call from Yamashita-sensei.,True,,,,8
+1584,会話,会話[かいわ],Conversation,これはニコラス・ケイジ氏との会話のレコーディングです。,これはニコラス・ケイジ 氏[し]との 会話[かいわ]のレコーディングです。,This is a recording of a conversation with Nicolas Cage.,True,,,,8
+1585,電車,電車[でんしゃ],Train,あの赤い電車は、東京まで行きますか？,あの 赤[あか]い 電車[でんしゃ]は、 東京[とうきょう]まで 行[い]きますか？,Does that red train go to Tokyo?,True,,,,8
+1586,電気,電気[でんき],Electricity,電気を点けて下さい。,電気[でんき]を 点[つ]けて 下[くだ]さい。,Please turn the light on.,True,,,,8
+1587,電池,電池[でんち],Battery,スマホの電池が切れた。,スマホの 電池[でんち]が 切[き]れた。,The battery of the smartphone has run out.,True,,,,8
+1588,電子,電子[でんし],Electron,カレーを電子レンジに入れました。,カレーを 電子[でんし]レンジに 入[い]れました。,I put the curry in the microwave.,True,,,,8
+1589,電力,電力[でんりょく],Electric Power,全国で今、電力が不足しています。,全国[ぜんこく]で 今[いま]、 電力[でんりょく]が 不足[ふそく]しています。,There is a shortage of electricity nationwide now.,True,,,,8
+1590,事,事[こと],Thing,その事については、後でまたゆっくり話しませんか。,その 事[こと]については、 後[あと]でまたゆっくり 話[はな]しませんか。,Shall we talk about the matter later?,True,,,,9
+1591,用事,用事[ようじ],Errand,その日、大切な用事があります。,その 日[ひ]、 大切[たいせつ]な 用事[ようじ]があります。,"On that day, I have important errands.",True,,,,9
+1592,工事,工事[こうじ],Construction,工事は今日から明日までです。,工事[こうじ]は 今日[きょう]から 明日[あす]までです。,The construction is from today to tomorrow.,True,,,,9
+1593,大事,大事[だいじ],Important,きちんと「ありがとう」と言うことは大事です。,きちんと「ありがとう」と 言[い]うことは 大事[だいじ]です。,"It is important to say ""thank you"" properly.",True,,,,9
+1594,返事,返事[へんじ],Reply,今日は、メールの返事が来なかった。,今日[きょう]は、メールの 返事[へんじ]が 来[こ]なかった。,"Today, I didn't get a reply to my email.",True,,,,9
+1595,食事,食事[しょくじ],Meal,一日に三回の食事では足りないんですよ。,一[いち] 日[にち]に 三[さん] 回[かい]の 食事[しょくじ]では 足[た]りないんですよ。,Three meals a day is not enough.,True,,,,9
+1596,使う,使[つか]う,To Use,私たちは、毎日電気を使います。,私[わたし]たちは、 毎日[まいにち] 電気[でんき]を 使[つか]います。,We use electricity every day.,True,,,,9
+1597,道具,道具[どうぐ],Tool,手紙を送るには、ペンや紙などの道具を使います。,手紙[てがみ]を 送[おく]るには、ペンや 紙[かみ]などの 道具[どうぐ]を 使[つか]います。,"To send a letter, you use tools like a pen or paper.",True,,,,9
+1598,家具,家具[かぐ],Furniture,日本で安い家具を手に入れるには、「イケア」か「ニトリ」がおすすめです。,日本[にっぽん]で 安[やす]い 家具[かぐ]を 手[て]に 入[い]れるには、「イケア」か「ニトリ」がおすすめです。,"To get cheap furniture in Japan, I recommend IKEA or Nitori.",True,,,,9
+1599,受ける,受[う]ける,To Receive Something,明日、先生から電話を受ける。,明日[あす]、 先生[せんせい]から 電話[でんわ]を 受[う]ける。,I will receive a phone call from my teacher tomorrow.,True,,,,9
+1600,和風,和風[わふう],Japanese Style,私、和風スイーツがすきなんです。,私[わたし]、 和風[わふう]スイーツがすきなんです。,I like Japanese sweets.,True,,,,9
+1601,平和,平和[へいわ],Peace,住人にとって平和な町にしたいです。,住人[じゅうにん]にとって 平和[へいわ]な 町[まち]にしたいです。,I want to make it a peaceful town for the residents.,True,,,,9
+1602,和食,和食[わしょく],Japanese Style Food,朝ごはんは、和食がいいです。,朝[あさ]ごはんは、 和食[わしょく]がいいです。,I like having Japanese-style food for breakfast.,True,,,,9
+1603,和室,和室[わしつ],Japanese Style Room,この和室にアンティークのソファを買いたいと思っています。,この 和室[わしつ]にアンティークのソファを 買[か]いたいと 思[おも]っています。,I want to buy an antique sofa for this Japanese-style room.,True,,,,9
+1604,和服,和服[わふく],Japanese Style Clothes,キモノなどの和服は、日本の文化の一部です。,キモノなどの 和服[わふく]は、 日本[にっぽん]の 文化[ぶんか]の 一部[いちぶ]です。,Japanese style clothes like kimono are a part of Japanese culture.,True,,,,9
+1605,始める,始[はじ]める,To Begin Something,去年、東北での新しい生活を始めました。,去年[きょねん]、 東北[とうほく]での 新[あたら]しい 生活[せいかつ]を 始[はじ]めました。,"Last year, I started a new life in Tohoku.",True,,,,10
+1606,予定,予定[よてい],Plan,明日の予定は何ですか？,明日[あす]の 予定[よてい]は 何[なに]ですか？,What are your plans for tomorrow?,True,,,,9
+1607,決定,決定[けってい],Decision,今すぐは決定出来ません。,今[いま]すぐは 決定[けってい] 出来[でき]ません。,I can't decide right away.,True,,,,9
+1608,実,実[じつ],Truth,この女の人は、私の実の母ではありません。,この 女[おんな]の 人[ひと]は、 私[わたし]の 実[じつ]の 母[はは]ではありません。,This woman is not my true mother.,True,,,,9
+1609,事実,事実[じじつ],Truth,以上は、全て事実です。,以上[いじょう]は、 全[すべ]て 事実[じじつ]です。,All of the above is true.,True,,,,9
+1610,実力,実力[じつりょく],True Strength,全ての実力を出しても、同点の引き分けでした。,全[すべ]ての 実力[じつりょく]を 出[だ]しても、 同点[どうてん]の 引[ひ]き 分[わ]けでした。,"Even if I used all of my true strength, it was still a draw.",True,,,,9
+1611,服,服[ふく],Clothes,その服、かわいいね。,その 服[ふく]、かわいいね。,Those clothes are cute.,True,,,,9
+1612,泳ぐ,泳[およ]ぐ,To Swim,台風が近づいてるので、海で泳ぐのは安全ではありません。,台風[たいふう]が 近[ちか]づいてるので、 海[うみ]で 泳[およ]ぐのは 安全[あんぜん]ではありません。,Swimming in the sea is not safe because the typhoon is approaching.,True,,,,9
+1613,物,物[もの],Thing,この家には物がありすぎます。,この 家[いえ]には 物[もの]がありすぎます。,There are too many things in this house.,True,,,,9
+1614,名物,名物[めいぶつ],Local Specialty,九州の名物は何ですか？,九州[きゅうしゅう]の 名物[めいぶつ]は 何[なに]ですか？,What are Kyushu's local specialties?,True,,,,9
+1615,苦い,苦[にが]い,Bitter Tasting,父は苦いコーヒーを気に入ってます。,父[ちち]は 苦[にが]いコーヒーを 気[き]に 入[はい]ってます。,My father likes bitter coffee.,True,,,,10
+1616,苦しい,苦[くる]しい,Painful,食べすぎて苦しい。,食[た]べすぎて 苦[くる]しい。,I ate so much that I'm in pain.,True,,,,9
+1617,乗る,乗[の]る,To Ride,会社へ行くのに、バスに乗る日もあります。,会社[かいしゃ]へ 行[い]くのに、バスに 乗[の]る 日[ひ]もあります。,There are days when I get on the bus to go to the office.,True,,,,9
+1618,乗せる,乗[の]せる,To Give Someone A Ride,日本では、犬をタクシーに乗せることは出来ますか？,日本[にっぽん]では、 犬[いぬ]をタクシーに 乗[の]せることは 出来[でき]ますか？,"In Japan, is it possible to take a dog with you in a taxi?",True,,,,10
+1619,お客さん,お 客[きゃく]さん,Guest,お客さんが入ってくると、このベルの音がします。,お 客[きゃく]さんが 入[はい]ってくると、このベルの 音[おと]がします。,"When a customer comes in, you'll hear the sound of this bell.",True,,,,9
+1620,客室,客室[きゃくしつ],Guest Room,客室は広く、ベッドが二つありました。,客室[きゃくしつ]は 広[ひろ]く、ベッドが 二[ふた]つありました。,The guest room was large and had two beds.,True,,,,9
+1621,〜屋,〜 屋[や],Store,小さい時は、大人になったらケーキ屋さんになりたいと思ってました。,小[ちい]さい 時[とき]は、 大人[おとな]になったらケーキ 屋[や]さんになりたいと 思[おも]ってました。,"When I was little, I wanted to work in a cake shop when I became an adult.",True,,,,9
+1622,部屋,部屋[へや],Room,私の部屋にはベッドがあります。,私[わたし]の 部屋[へや]にはベッドがあります。,There's a bed in my room.,True,,,,9
+1623,肉屋,肉屋[にくや],Butcher Shop,肉屋さんで牛肉を四百グラム買いました。,肉屋[にくや]さんで 牛肉[ぎゅうにく]を 四百[よんひゃく]グラム 買[か]いました。,I bought 400 grams of beef at the butcher shop.,True,,,,9
+1624,茶屋,茶屋[ちゃや],Tea Shop,この町には古い茶屋があります。,この 町[まち]には 古[ふる]い 茶屋[ちゃや]があります。,This town has an old tea house.,True,,,,9
+1625,魚屋,魚屋[さかなや],Fish Shop,魚屋さんで生のサーモンを買いました。,魚屋[さかなや]さんで 生[なま]のサーモンを 買[か]いました。,We bought some raw salmon at a fish shop.,True,,,,9
+1626,名古屋,名古屋[なごや],Nagoya,私の友人は名古屋でデザイナーをしています。,私[わたし]の 友人[ゆうじん]は 名古屋[なごや]でデザイナーをしています。,My friend is a designer in Nagoya.,True,,,,9
+1627,今度,今度[こんど],This Time,じゃあ、やっぱり今度にしよう。,じゃあ、やっぱり 今度[こんど]にしよう。,"Okay, then let’s do it next time.",True,,,,9
+1628,丁度,丁度[ちょうど],Exactly,丁度、おふろから出たところです。,丁度[ちょうど]、おふろから 出[で]たところです。,I just got out of the bath.,True,,,,9
+1629,毎度,毎度[まいど],Each Time,毎度、ありがとうございます。,毎度[まいど]、ありがとうございます。,Thank you for your continued patronage.,True,,,,9
+1630,角度,角度[かくど],Angle,正しい角度に直すのに時間がかかりました。,正[ただ]しい 角度[かくど]に 直[なお]すのに 時間[じかん]がかかりました。,It took time to get it to the correct angle.,True,,,,9
+1631,〜度,〜 度[ど],Degrees,東京の夏は、三十度以上になる日が多いです。,東京[とうきょう]の 夏[なつ]は、 三十[さんじゅう] 度[ど] 以上[いじょう]になる 日[ひ]が 多[おお]いです。,"In Tokyo in summer, there are many days where it gets above thirty degrees.",True,,,,9
+1632,持つ,持[も]つ,To Hold Something,三十才になるまでに自分の車を持つと決めたんです。,三十[さんじゅう] 才[さい]になるまでに 自分[じぶん]の 車[くるま]を 持[も]つと 決[き]めたんです。,I decided to have my own car before I turned thirty.,True,,,,9
+1633,世界,世界[せかい],The World,世界は広いから、色々な国に行きたいです。,世界[せかい]は 広[ひろ]いから、 色々[いろいろ]な 国[くに]に 行[い]きたいです。,"The world is big, so I want to go to various countries.",True,,,,9
+1634,発売,発売[はつばい],Sale,今日から「手作りチーズケーキ」の発売です！,今日[きょう]から「 手作[てづく]りチーズケーキ」の 発売[はつばい]です！,"""Handmade Cheesecake"" is on sale starting today!",True,,,,9
+1635,発音,発音[はつおん],Pronunciation,「Otolaryngology」の発音を教えてくれませんか？,「Otolaryngology」の 発音[はつおん]を 教[おし]えてくれませんか？,"Can you tell me the pronunciation of ""Otolaryngology""?",True,,,,9
+1636,発見,発見[はっけん],Discovery,木の上に毛虫を発見しました。,木[き]の 上[うえ]に 毛虫[けむし]を 発見[はっけん]しました。,I found a caterpillar on a tree.,True,,,,9
+1637,相談,相談[そうだん],Consultation,ねえ、相談があるんだけど。,ねえ、 相談[そうだん]があるんだけど。,"Hey, I have something I want to discuss with you.",True,,,,9
+1638,〜県,〜 県[けん],Prefecture,何県の出身ですか。,何県[なにけん]の 出身[しゅっしん]ですか。,What prefecture are you from?,True,,,,9
+1639,美しい,美[うつく]しい,Beautiful,この青い花、とても美しいですね。,この 青[あお]い 花[はな]、とても 美[うつく]しいですね。,This blue flower is very beautiful.,True,,,,9
+1640,美人,美人[びじん],Beautiful Woman,あの女の人は、とてもエレガントな美人ですね。,あの 女[おんな]の 人[ひと]は、とてもエレガントな 美人[びじん]ですね。,That woman is a very elegant beauty.,True,,,,9
+1641,負ける,負[ま]ける,To Lose,兄は、いつも負けることを不安に思っています。,兄[あに]は、いつも 負[ま]けることを 不安[ふあん]に 思[おも]っています。,My brother is always worried about losing.,True,,,,9
+1642,勝負,勝負[しょうぶ],Match,勝負は引き分けだった。,勝負[しょうぶ]は 引[ひ]き 分[わ]けだった。,The match was a draw.,True,,,,9
+1643,勝つ,勝[か]つ,To Win,彼は、いつも大会で勝つ。,彼[かれ]は、いつも 大会[たいかい]で 勝[か]つ。,He always wins the tournament.,True,,,,9
+1644,勝者,勝者[しょうしゃ],Winner,この大会の勝者はお金がもらえますよ。,この 大会[たいかい]の 勝者[しょうしゃ]はお 金[かね]がもらえますよ。,The winners of this tournament will get some money.,True,,,,9
+1645,必勝,必勝[ひっしょう],Sure Victory,プロポーズ必勝の本が今年のベストセラーになりそうです。,プロポーズ 必勝[ひっしょう]の 本[ほん]が 今年[ことし]のベストセラーになりそうです。,The book about successful marriage proposals is likely to be a bestseller this year.,True,,,,9
+1646,楽勝,楽勝[らくしょう],Easy Victory,今回のテストは、楽勝だったね。,今回[こんかい]のテストは、 楽勝[らくしょう]だったね。,This test was a piece of cake.,True,,,,9
+1647,送る,送[おく]る,To Send Something,毎年、年末には友人に手作りのポストカードを送る。,毎年[まいとし]、 年末[ねんまつ]には 友人[ゆうじん]に 手作[てづく]りのポストカードを 送[おく]る。,"At the end of every year, I send a handmade postcard to my friends.",True,,,,9
+1648,重い,重[おも]い,Heavy,このスーツケースは重いですよ。,このスーツケースは 重[おも]いですよ。,This suitcase is heavy.,True,,,,10
+1649,重要,重要[じゅうよう],Essential,重要なのは、元気でいることです。,重要[じゅうよう]なのは、 元気[げんき]でいることです。,The important thing is to be healthy.,True,,,,9
+1650,体重,体重[たいじゅう],Body Weight,アンナさんの体重は、何キロですか？,アンナさんの 体重[たいじゅう]は、 何[なに]キロですか？,What is Anna’s body weight in kilograms?,True,,,,9
+1651,二重,二[に] 重[じゅう],Double,分からない文字の下に、二重のラインを引いて下さい。,分[わ]からない 文字[もじ]の 下[した]に、 二[に] 重[じゅう]のラインを 引[ひ]いて 下[くだ]さい。,Please draw a double line under characters you're not sure about.,True,,,,9
+1652,必要,必要[ひつよう],Necessary,スーパーに行くけど、何か必要なものはありますか？,スーパーに 行[い]くけど、 何[なに]か 必要[ひつよう]なものはありますか？,I'm going to a supermarket. Do you need anything?,True,,,,9
+1653,要点,要点[ようてん],Main Point,要点だけ先に言ってください。,要点[ようてん]だけ 先[さき]に 言[い]ってください。,Please say the main points first.,True,,,,9
+1654,仮に,仮[かり]に,Supposing,仮に明日雨だったら、ピクニックは中止になる。,仮[かり]に 明日[あす] 雨[あめ]だったら、ピクニックは 中止[ちゅうし]になる。,"Supposing it rains tomorrow, the picnic will be canceled.",True,,,,9
+1655,仮名,仮名[かな],Kana,もう全ての仮名を学びましたか？,もう 全[すべ]ての 仮名[かな]を 学[まな]びましたか？,Have you learned all the kana?,True,,,,9
+1656,仮定,仮定[かてい],Assumption,それは、仮定ではなく、本当のことです。,それは、 仮定[かてい]ではなく、 本当[ほんとう]のことです。,"It is not a assumption, but the truth.",True,,,,9
+1657,起きる,起[お]きる,To Wake Up,父は、毎朝六時に起きる。,父[ちち]は、 毎朝[まいあさ] 六[ろく] 時[じ]に 起[お]きる。,My father gets up at 6:00 every morning.,True,,,,10
+1658,早速,早速[さっそく],At Once,早速、新しいアプリをダウンロードしました。,早速[さっそく]、 新[あたら]しいアプリをダウンロードしました。,I immediately downloaded a new app.,True,,,,10
+1659,速度,速度[そくど],Speed,インターネットの速度がおそすぎてイライラしています。,インターネットの 速度[そくど]がおそすぎてイライラしています。,These internet speeds are too slow and it’s pissing me off.,True,,,,10
+1660,配る,配[くば]る,To Distribute,先生が試験の紙を配る。,先生[せんせい]が 試験[しけん]の 紙[かみ]を 配[くば]る。,The teacher distributes the paper for the exam.,True,,,,10
+1661,お酒,お 酒[さけ],Sake,このドリンクはお酒が入ってますか？,このドリンクはお 酒[さけ]が 入[はい]ってますか？,Does this drink contain alcohol?,True,,,,10
+1662,日本酒,日本[にっぽん] 酒[しゅ],Japanese Style Alcohol,父は平日は日本酒をあまり口にしない。,父[ちち]は 平日[へいじつ]は 日本[にっぽん] 酒[しゅ]をあまり 口[くち]にしない。,My father doesn't drink much sake on weekdays.,True,,,,10
+1663,病院,病院[びょういん],Hospital,病院までタクシーで、千円ぐらいです。,病院[びょういん]までタクシーで、 千[せん] 円[えん]ぐらいです。,It takes about a thousand yen to get to the hospital by taxi.,True,,,,10
+1664,学院,学院[がくいん],Academy,私はトーフグ学院で心理学を学んでいます。,私[わたし]はトーフグ 学院[がくいん]で 心理[しんり] 学[がく]を 学[まな]んでいます。,I am studying psychology at Tofugu Institute.,True,,,,10
+1665,終わる,終[お]わる,To End,夏休みが終わる前に、海に行きたいです。,夏休[なつやす]みが 終[お]わる 前[まえ]に、 海[うみ]に 行[い]きたいです。,I want to go to the ocean before the summer vacation is over.,True,,,,10
+1666,終点,終点[しゅうてん],Last Stop,この電車は終点まで走行します。,この 電車[でんしゃ]は 終点[しゅうてん]まで 走行[そうこう]します。,This train runs until the last stop.,True,,,,10
+1667,終了,終了[しゅうりょう],End,ミーティングは終了しました。,ミーティングは 終了[しゅうりょう]しました。,The meeting has ended.,True,,,,10
+1668,最終,最終[さいしゅう],Last,最終のバスはいつ出発ですか？,最終[さいしゅう]のバスはいつ 出発[しゅっぱつ]ですか？,When does the last bus leave?,True,,,,10
+1669,習う,習[なら]う,To Learn,ここは、日本のマナーを習う教室です。,ここは、 日本[にっぽん]のマナーを 習[なら]う 教室[きょうしつ]です。,This is a classroom to learn Japanese manners.,True,,,,10
+1670,転がる,転[ころ]がる,To Roll,ボールが転がる音がした。,ボールが 転[ころ]がる 音[おと]がした。,There was a sound of a ball rolling.,True,,,,10
+1671,自転車,自転[じてん] 車[しゃ],Bicycle,すみません。この辺に自転車のパーキングはありますか？,すみません。この 辺[へん]に 自転[じてん] 車[しゃ]のパーキングはありますか？,Excuse me. Is there bicycle parking around here?,True,,,,10
+1672,運転する,運転[うんてん]する,To Drive,父は毎日、会社と家の間を車かバイクで運転する。,父[ちち]は 毎日[まいにち]、 会社[かいしゃ]と 家[いえ]の 間[あいだ]を 車[くるま]かバイクで 運転[うんてん]する。,My father drives his car or motorcycle every day between his company and home.,True,,,,10
+1673,転送,転送[てんそう],Transfer,そのメール、私にも転送してくれない？,そのメール、 私[わたし]にも 転送[てんそう]してくれない？,Could you forward that email to me?,True,,,,10
+1674,回転,回転[かいてん],Revolve,車は、走る時にタイヤが回転します。,車[くるま]は、 走[はし]る 時[とき]にタイヤが 回転[かいてん]します。,The tires revolve when the car runs.,True,,,,10
+1675,進む,進[すす]む,To Advance,もう少し前に進んで下さい。,もう 少[すこ]し 前[まえ]に 進[すす]んで 下[くだ]さい。,Please move a little more forward.,True,,,,10
+1676,進化,進化[しんか],Evolution,コスプレ文化は日々進化し続けている。,コスプレ 文化[ぶんか]は 日々[ひび] 進化[しんか]し 続[つづ]けている。,Cosplay culture continues to evolve day by day.,True,,,,10
+1677,進行,進行[しんこう],Advance,道の工事が進行しています。,道[みち]の 工事[こうじ]が 進行[しんこう]しています。,The construction of the road is progressing.,True,,,,10
+1678,落ちる,落[お]ちる,To Fall Down,今、雪が落ちる音がしませんでした？,今[いま]、 雪[ゆき]が 落[お]ちる 音[おと]がしませんでした？,Did you hear the snow falling just now?,True,,,,10
+1679,青葉,青葉[あおば],Fresh Leaves,去年の夏、青葉が美しい山へ行きました。,去年[きょねん]の 夏[なつ]、 青葉[あおば]が 美[うつく]しい 山[やま]へ 行[い]きました。,"Last summer, we went to a mountain with beautiful fresh leaves.",True,,,,10
+1680,軽い,軽[かる]い,Lightweight,このクッション、すごく軽いですね。,このクッション、すごく 軽[かる]いですね。,This cushion is very light.,True,,,,10
+1681,運ぶ,運[はこ]ぶ,To Carry,鳥が木の一部を運ぶのを見ました。,鳥[とり]が 木[き]の 一部[いちぶ]を 運[はこ]ぶのを 見[み]ました。,I saw a bird carrying a part of the tree.,True,,,,10
+1682,運がいい,運[うん]がいい,Lucky,宝くじが当たるなんて、運がいいよ。,宝[たから]くじが 当[あ]たるなんて、 運[うん]がいいよ。,It's lucky to win a lottery.,True,,,,10
+1683,開ける,開[あ]ける,To Open Something,ドアを開けると、外から風が入ってきた。,ドアを 開[あ]けると、 外[そと]から 風[かぜ]が 入[はい]ってきた。,"When I opened the door, the wind came in from outside.",True,,,,10
+1684,公開,公開[こうかい],Open To The Public,新しいドラマの公開は今年の三月です。,新[あたら]しいドラマの 公開[こうかい]は 今年[ことし]の 三[さん] 月[がつ]です。,The new drama will be released in March of this year.,True,,,,10
+1685,開業,開業[かいぎょう],Opening A Business,私は社長ですが、開業したばかりで、お金がありません。,私[わたし]は 社長[しゃちょう]ですが、 開業[かいぎょう]したばかりで、お 金[かね]がありません。,"I am the company president, but I've just started the company and I have no money.",True,,,,10
+1686,開発,開発[かいはつ],Development,この町は今、開発中です。,この 町[まち]は 今[いま]、 開発[かいはつ] 中[ちゅう]です。,This town is currently under development.,True,,,,10
+1687,集める,集[あつ]める,To Collect Something,私は古いビー玉を集めるのが、すきです。,私[わたし]は 古[ふる]い ビー 玉[だま]を 集[あつ]めるのが、すきです。,I like collecting old marbles.,True,,,,10
+1688,集中,集中[しゅうちゅう],Concentration,試験の間は、集中しましょう。,試験[しけん]の 間[あいだ]は、 集中[しゅうちゅう]しましょう。,Let's concentrate during the exam.,True,,,,10
+1689,集金,集金[しゅうきん],Collecting Money,今日は集金の日です。,今日[きょう]は 集金[しゅうきん]の 日[ひ]です。,Today is the day of money collection.,True,,,,10
+1690,飲む,飲[の]む,To Drink,母は毎日お茶を飲む。,母[はは]は 毎日[まいにち]お 茶[ちゃ]を 飲[の]む。,My mother drinks tea every day.,True,,,,10
+1691,工業,工業[こうぎょう],Industry,こちらは、工業デザイナーの中山さんです。,こちらは、 工業[こうぎょう]デザイナーの 中山[なかやま]さんです。,"This is Mr. Nakayama, an industrial designer.",True,,,,10
+1692,漢字,漢字[かんじ],Kanji,「目」という漢字の形が気に入ってます。,「 目[め]」という 漢字[かんじ]の 形[かたち]が 気[き]に 入[はい]ってます。,"I like the shape of the ""eye"" kanji. ",True,,,,10
+1693,道路,道路[どうろ],Paved Road,アメリカの道路は広いですね。,アメリカの 道路[どうろ]は 広[ひろ]いですね。,American roads are wide.,True,,,,10
+1694,線路,線路[せんろ],Railroad Track,線路には、何があっても入らないで下さい。,線路[せんろ]には、 何[なに]があっても 入[はい]らないで 下[くだ]さい。,"Never go on the railroad tracks, no matter what.",True,,,,10
+1695,路地,路地[ろじ],Alley,下町の路地には、たくさんのネコが住んでいます。,下町[したまち]の 路地[ろじ]には、たくさんのネコが 住[す]んでいます。,Many cats live in the alley of the downtown area.,True,,,,10
+1696,農民,農民[のうみん],Peasants,この町の農民は毎日、米を食べます。,この 町[まち]の 農民[のうみん]は 毎日[まいにち]、 米[べい]を 食[た]べます。,The farmers in this town eat rice every day.,True,,,,10
+1697,農業,農業[のうぎょう],Agriculture,私たちの町では、米の農業をしてる人々が多いです。,私[わたし]たちの 町[まち]では、 米[べい]の 農業[のうぎょう]をしてる 人々[ひとびと]が 多[おお]いです。,"In our town, there are many people who are farming rice.",True,,,,10
+1698,地下鉄,地下[ちか] 鉄[てつ],Subway,私は「東京メトロ」という地下鉄を使って大学へ行っていました。,私[わたし]は「 東京[とうきょう]メトロ」という 地下[ちか] 鉄[てつ]を 使[つか]って 大学[だいがく]へ 行[い]っていました。,"I went to college using a subway called ""Tokyo Metro.""",True,,,,10
+1699,鉄人,鉄人[てつじん],Strong Man,うちの社長はトライアスロンの後に出社するような鉄人です。,うちの 社長[しゃちょう]はトライアスロンの 後[あと]に 出社[しゅっしゃ]するような 鉄人[てつじん]です。,Our president is a strong man who comes to work after a triathlon.,True,,,,10
+1700,電鉄,電鉄[でんてつ],Electric Railway,大人になったら、電鉄会社に入社したいです。,大人[おとな]になったら、 電鉄[でんてつ] 会社[かいしゃ]に 入社[にゅうしゃ]したいです。,"When I grow up, I want to join an electric railway company.",True,,,,10
+1701,歌,歌[うた],Song,これって、日本の歌ですよね？,これって、 日本[にっぽん]の 歌[うた]ですよね？,"This is a Japanese song, isn't it?",True,,,,10
+1702,歌手,歌手[かしゅ],Singer,会社をやめて、今すぐ歌手になりたい。,会社[かいしゃ]をやめて、 今[いま]すぐ 歌手[かしゅ]になりたい。,I want to quit the company and become a singer right now.,True,,,,10
+1703,算数,算数[さんすう],Arithmetic,算数の先生は、田中先生です。,算数[さんすう]の 先生[せんせい]は、 田中[たなか] 先生[せんせい]です。,The teacher of arithmetic is Tanaka-sensei.,True,,,,10
+1704,聞く,聞[き]く,To Hear,私は毎日ラジオを聞く。,私[わたし]は 毎日[まいにち]ラジオを 聞[き]く。,I listen to the radio every day.,True,,,,10
+1705,新聞,新聞[しんぶん],Newspaper,新聞ジャーナリストになりたい。,新聞[しんぶん]ジャーナリストになりたい。,I want to be a newspaper reporter.,True,,,,10
+1706,日本語,日本[にっぽん] 語[ご],Japanese Language,週に一回、日本語の教室に通っています。,週[しゅう]に 一[いち] 回[かい]、 日本[にっぽん] 語[ご]の 教室[きょうしつ]に 通[かよ]っています。,I go to a Japanese classroom once a week.,True,,,,10
+1707,フランス語,フランス 語[ご],French Language,フランス語を学ぶために大学に行きました。,フランス 語[ご]を 学[まな]ぶために 大学[だいがく]に 行[い]きました。,I went to college to learn French.,True,,,,10
+1708,スペイン語,スペイン 語[ご],Spanish Language,友人にスペイン語を教えてあげました。,友人[ゆうじん]にスペイン 語[ご]を 教[おし]えてあげました。,I taught my friend Spanish.,True,,,,10
+1709,主語,主語[しゅご],Subject,この文の主語は何ですか？,この 文[ぶん]の 主語[しゅご]は 何[なに]ですか？,What is the subject of this sentence?,True,,,,10
+1710,読む,読[よ]む,To Read,家にいる時は本を読む時間がありません。,家[いえ]にいる 時[とき]は 本[ほん]を 読[よ]む 時間[じかん]がありません。,I have no time to read a book when I'm at home.,True,,,,10
+1711,読み方,読[よ]み 方[かた],Reading,すみません。お名前の読み方を教えてもらってもいいですか？,すみません。お 名前[なまえ]の 読[よ]み 方[かた]を 教[おし]えてもらってもいいですか？,Excuse me. Could you tell me how to read your name?,True,,,,10
+1712,鳴く,鳴[な]く,To Make An Animal Sound,外から鳥が鳴く声がしますね。,外[そと]から 鳥[とり]が 鳴[な]く 声[こえ]がしますね。,We hear the birds chirping outside.,True,,,,10
+1713,線,線[せん],Line,全ての線が、曲がってます。,全[すべ]ての 線[せん]が、 曲[ま]がってます。,All of the lines are crooked.,True,,,,10
+1714,横,横[よこ],Side,毛虫が木の横を走っていました。,毛虫[けむし]が 木[き]の 横[よこ]を 走[はし]っていました。,The caterpillar was running next to the tree.,True,,,,10
+1715,調子,調子[ちょうし],Condition,今日の調子はどうですか？,今日[きょう]の 調子[ちょうし]はどうですか？,How are you today?,True,,,,10
+1716,強調,強調[きょうちょう],Emphasis,先生は、重要なポイントを強調しました。,先生[せんせい]は、 重要[じゅうよう]なポイントを 強調[きょうちょう]しました。,The teacher emphasized important points.,True,,,,10
+1717,調べる,調[しら]べる,To Investigate,毎朝、妹がいるドイツの天気を調べるのが私のルーティンです。,毎朝[まいあさ]、 妹[いもうと]がいるドイツの 天気[てんき]を 調[しら]べるのが 私[わたし]のルーティンです。,"It is my routine to check the weather in Germany, where my younger sister is, every morning.",True,,,,10
+1718,親,親[おや],Parent,この子犬の親は両方ジャーマンシェパードです。,この 子犬[こいぬ]の 親[おや]は 両方[りょうほう]ジャーマンシェパードです。,Both parents of this puppy are German Shepherds.,True,,,,10
+1719,親しい,親[]しい,Intimate,まだ親しい友人にしか話してないの。,まだ 親[]しい 友人[ゆうじん]にしか 話[はな]してないの。,I've only told this to close friends.,True,,,,10
+1720,親切,親切[しんせつ],Kind,いつも親切にしていただいて、ありがとうございます。,いつも 親切[しんせつ]にしていただいて、ありがとうございます。,Thank you for always being kind.,True,,,,10
+1721,親友,親友[しんゆう],Close Friend,親友の考えに反対した。,親友[しんゆう]の 考[かんが]えに 反対[はんたい]した。,I opposed my best friend's thoughts.,True,,,,10
+1722,頭,頭[あたま],Head,頭に何か糸のような物が付いてますよ。,頭[あたま]に 何[なに]か 糸[いと]のような 物[もの]が 付[つ]いてますよ。,You have something like a thread on your head.,True,,,,10
+1723,顔,顔[かお],Face,顔が赤いのは、アルコールのせいです。,顔[かお]が 赤[あか]いのは、アルコールのせいです。,The red face is due to drinking alcohol.,True,,,,10
+1724,顔付き,顔付[かおつ]き,Expression,この前より、顔付きがリラックスしてるね。,この 前[まえ]より、 顔付[かおつ]きがリラックスしてるね。,You look more relaxed than before.,True,,,,10
+1725,病気,病気[びょうき],Sick,ドライアイは目の病気です。,ドライアイは 目[め]の 病気[びょうき]です。,Dry eye is an eye disease.,True,,,,10
+1726,〜病,〜 病[やまい],Disease,アルツハイマー病のせいで、色々な事を思い出せない時があります。,アルツハイマー 病[びょう]のせいで、 色々[いろいろ]な 事[こと]を 思[おも]い 出[だ]せない 時[とき]があります。,There are times when I can't remember various things because of Alzheimer's disease.,True,,,,10
+1727,病人,病人[びょうにん],Sick Person,病人や、ケガ人はいますか？,病人[びょうにん]や、ケガ 人[にん]はいますか？,Is anyone sick or injured?,True,,,,10
+1728,最も,最[]も,The Most,ふじ山は日本で最も高い山です。,ふじ 山[やま]は 日本[にっぽん]で 最[]も 高[たか]い 山[やま]です。,Mt. Fuji is the highest mountain in Japan.,True,,,,10
+1729,最高,最高[さいこう],The Best,かき氷は夏に食べるのが最高です。,かき 氷[ごおり]は 夏[なつ]に 食[た]べるのが 最高[さいこう]です。,Shaved ice is best to eat in summer.,True,,,,10
+1730,最後,最後[さいご],Last,お前に金をやるのは、これが最後だ。分かったか？,お 前[まえ]に 金[かね]をやるのは、これが 最後[さいご]だ。 分[わ]かったか？,This is the last time I give you money. Got it?,True,,,,10
+1731,最近,最近[さいきん],Recent,最近は出社しないで家でリモートワークをしています。,最近[さいきん]は 出社[しゅっしゃ]しないで 家[いえ]でリモートワークをしています。,"Lately, I don't go to work and work remotely from home.",True,,,,10
+1732,四十二,四十二[よんじゅうに],Forty Two,父は、四十二才です。,父[ちち]は、 四十二[よんじゅうに] 才[さい]です。,My father is 42 years old.,True,,,,6
+1733,人口,人口[じんこう],Population,このエリアの人口は、たったの一人です。,このエリアの 人口[じんこう]は、たったの 一人[ひとり]です。,The population of this area is only one person.,True,,,,1
+1734,子牛,子牛[こうし],Calf,この子牛は、まだまだ小さい赤ちゃんです。,この 子牛[こうし]は、まだまだ 小[ちい]さい 赤[あか]ちゃんです。,This calf is still a little baby.,True,,,,4
+1735,切手,切手[きって],Postage Stamp,これはアメリカの切手です。,これはアメリカの 切手[きって]です。,This is an American stamp.,True,,,,4
+1736,引き分け,引[ひ]き 分[わ]け,Tie,今日のゲームは引き分けだった。,今日[きょう]のゲームは 引[ひ]き 分[わ]けだった。,Today's game was a tie.,True,,,,8
+1737,亡くなる,亡[な]くなる,To Pass Away,去年、母が亡くなった。,去年[きょねん]、 母[はは]が 亡[な]くなった。,"Last year, my mother died.",True,,,,6
+1738,人生,人生[じんせい],One's Life,人生ってすばらしい。,人生[じんせい]ってすばらしい。,Life is wonderful.,True,,,,3
+1739,男の子,男[おとこ]の 子[こ],Boy,２０１８年に男の子が生まれました。,２０１８[にれいいちはち] 年[ねん]に 男[おとこ]の 子[こ]が 生[う]まれました。,A boy was born in 2018.,True,,,,5
+1740,毛虫,毛虫[けむし],Caterpillar,キャベツの中に毛虫がいた。,キャベツの 中[なか]に 毛虫[けむし]がいた。,There was a caterpillar in the cabbage.,True,,,,5
+1741,下町,下町[したまち],Downtown,父は下町で生まれた。,父[ちち]は 下町[したまち]で 生[う]まれた。,My father was born in a downtown area.,True,,,,5
+1742,小文字,小[しょう] 文字[もじ],Lowercase Letters,Eメールアドレスは、全て小文字で入力して下さい。,Eメールアドレスは、 全[すべ]て 小[しょう] 文字[もじ]で 入力[にゅうりょく]して 下[くだ]さい。,Please enter your email address in all lowercase letters.,True,,,,6
+1743,男の人,男[おとこ]の 人[ひと],Man,田中先生は男の人です。,田中[たなか] 先生[せんせい]は 男[おとこ]の 人[ひと]です。,Tanaka sensei is a man.,True,,,,5
+1744,年,年[ねん],Year,いい年になりますように。,いい 年[とし]になりますように。,May it be a good year.,True,,,,4
+1745,今まで,今[いま]まで,Until Now,今まで、ありがとう。,今[いま]まで、ありがとう。,Thanks for everything so far.,True,,,,5
+1746,冬休み,冬休[ふゆやす]み,Winter Holiday,十一月と十二月は、冬休みです。,十一[じゅういち] 月[がつ]と 十二[じゅうに] 月[がつ]は、 冬休[ふゆやす]みです。,November and December are winter vacation.,True,,,,6
+1747,毛糸,毛糸[けいと],Wool Yarn,ピンク色の毛糸を下さい。,ピンク 色[いろ]の 毛糸[けいと]を 下[くだ]さい。,Please give me some pink wool.,True,,,,5
+1748,今すぐ,今[いま]すぐ,At Once,今すぐスーパーにいってきます。,今[いま]すぐスーパーにいってきます。,I'm going to the supermarket right now.,True,,,,5
+1749,出来る,出来[でき]る,To Be Able To Do,やっとJLPTN1にごうかくすることが出来ました。,やっとJLPTN1にごうかくすることが 出来[でき]ました。,I was finally able to pass JLPT N1.,True,,,,6
+1750,方言,方言[ほうげん],Dialect,このエリアの方言で「ありがとう」は何と言いますか？,このエリアの 方言[ほうげん]で「ありがとう」は 何[なに]と 言[い]いますか？,"How do you say ""thanks"" in the dialect of this area?",True,,,,6
+1751,人形,人形[にんぎょう],Doll,これは私の妹の人形です。,これは 私[わたし]の 妹[いもうと]の 人形[にんぎょう]です。,This is my younger sister's doll.,True,,,,7
+1752,手作り,手作[てづく]り,Handmade,このテーブルは、林さんの手作りです。,このテーブルは、 林[はやし]さんの 手作[てづく]りです。,This table was handmade by Hayashi.,True,,,,7
+1753,東京,東京[とうきょう],Tokyo,東京は大きい町です。,東京[とうきょう]は 大[おお]きい 町[まち]です。,Tokyo is a big town.,True,,,,6
+1754,風,風[かぜ],Wind,今日は、少し風がありますね。,今日[きょう]は、 少[すこ]し 風[かぜ]がありますね。,There is a little bit of wind today.,True,,,,7
+1755,当て字,当[あ]て 字[じ],Phonetic Kanji,「マジ」というスラングによく使われる当て字は「本気」です。,「マジ」というスラングによく 使[つか]われる 当[あ]て 字[じ]は「 本気[ほんき]」です。,"Phonetic kanji often used for the slang ""maji"" is the letter for ""serious.""",True,,,,10
+1756,次々,次々[つぎつぎ],One By One,パンダが次々に竹を食べました。,パンダが 次々[つぎつぎ]に 竹[たけ]を 食[た]べました。,The panda ate one bamboo plant after another.,True,,,,8
+1757,向こう,向[む]こう,Over There,山の向こうには何が見えますか？,山[やま]の 向[む]こうには 何[なに]が 見[み]えますか？,What can you see on the other side of the mountains?,True,,,,8
+1758,曲がる,曲[ま]がる,To Be Bent,この道を右に曲がると、コンビニがあります。,この 道[みち]を 右[みぎ]に 曲[ま]がると、コンビニがあります。,Turn right on this road and you'll find a convenience store.,True,,,,9
+1759,南米,南米[なんべい],South America,ペルーは南米の国の一つです。,ペルーは 南米[なんべい]の 国[くに]の 一[ひと]つです。,Peru is one of the countries in South America.,True,,,,8
+1760,全米,全米[ぜんべい],All America,これは、全米で人気の大作です。,これは、 全米[ぜんべい]で 人気[にんき]の 大作[たいさく]です。,This is a popular movie in all of America.,True,,,,8
+1761,南口,南口[みなみぐち],South Exit,南口から出るとすぐにお茶の店があります。,南口[みなみぐち]から 出[で]るとすぐにお 茶[ちゃ]の 店[みせ]があります。,"As soon as you get out of the south exit, there is a tea shop.",True,,,,8
+1762,思い出,思[おも]い 出[で],A Memory,夏の思い出を作文にしました。,夏[なつ]の 思[おも]い 出[で]を 作文[さくぶん]にしました。,I wrote an essay from my summer memories.,True,,,,8
+1763,近づく,近[ちか]づく,To Get Close,それ以上、川に近づくな！,それ 以上[いじょう]、 川[かわ]に 近[ちか]づくな！,Don't get any closer to the river!,True,,,,8
+1764,思い出す,思[おも]い 出[だ]す,To Remember,たまにプロポーズされた日のことを思い出す。,たまにプロポーズされた 日[ひ]のことを 思[おも]い 出[だ]す。,I sometimes remember the day when I was proposed to.,True,,,,8
+1765,大学生,大学[だいがく] 生[せい],University Student,ここのスタッフは大体、大学生です。,ここのスタッフは 大体[だいたい]、 大学[だいがく] 生[せい]です。,Most of the staff here are college students.,True,,,,7
+1766,言い方,言[い]い 方[かた],Way Of Saying,先生が「すみません」の言い方を正してくれました。,先生[せんせい]が「すみません」の 言[い]い 方[かた]を 正[ただ]してくれました。,"The teacher corrected my way of saying ""Excuse me.""",True,,,,7
+1767,先回り,先回[さきまわ]り,Arriving Ahead,パトカーは先回りして白い車に向かった。,パトカーは 先回[さきまわ]りして 白[しろ]い 車[くるま]に 向[む]かった。,The police went ahead and headed to the white car.,True,,,,7
+1768,早口,早口[はやくち],Fast Talker,兄は、とても早口です。,兄[あに]は、とても 早口[はやくち]です。,My brother is very fast talker.,True,,,,6
+1769,足りない,足[た]りない,Not Enough,お金が十円足りないんです。,お 金[かね]が 十[じゅう] 円[えん] 足[た]りないんです。,I’m ten yen short.,True,,,,6
+1770,年上,年上[としうえ],Older,元パートナーは、私より年上です。,元[もと]パートナーは、 私[わたし]より 年上[としうえ]です。,My former partner is older than me.,True,,,,6
+1771,代わり,代[か]わり,Substitute,田中先生はお休みなので、代わりの先生が来ます。,田中[たなか] 先生[せんせい]はお 休[やす]みなので、 代[か]わりの 先生[せんせい]が 来[き]ます。,"Mr. Tanaka is off, so a substitute teacher will come.",True,,,,8
+1772,今年,今年[ことし],This Year,今年はダイエットをしたいです。,今年[ことし]はダイエットをしたいです。,I want to be on a diet this year.,True,,,,6
+1773,代える,代[か]える,To Replace Something,このパーツ、金に代える？,このパーツ、 金[かね]に 代[か]える？,Should we replace this part with gold?,True,,,,10
+1774,年下,年下[としした],Younger,このクラスは年下の子が多いです。,このクラスは 年下[としした]の 子[こ]が 多[おお]いです。,This class has many younger children.,True,,,,6
+1775,近々,近々[ちかじか],In The Near Future,近々、会いましょう。,近々[ちかじか]、 会[あ]いましょう。,Let's meet up soon.,True,,,,7
+1776,青空,青空[あおぞら],Blue Sky,今日は青空が広がっている。,今日[きょう]は 青空[あおぞら]が 広[ひろ]がっている。,The blue sky is spreading out today.,True,,,,7
+1777,小学生,小学[しょうがく] 生[せい],Elementary School Student,その兄弟は、まだ二人とも小学生です。,その 兄弟[きょうだい]は、まだ 二人[ふたり]とも 小学[しょうがく] 生[せい]です。,Both brothers are still elementary school students.,True,,,,7
+1778,作り方,作[つく]り 方[かた],How To Make,このマカロニチーズの作り方は正しいですか？,このマカロニチーズの 作[つく]り 方[かた]は 正[ただ]しいですか？,Is this the right way to make macaroni cheese?,True,,,,7
+1779,中学生,中学[ちゅうがく] 生[せい],Middle School Student,私の子は、今中学生です。,私[わたし]の 子[こ]は、 今[こん] 中学[ちゅうがく] 生[せい]です。,My child is a junior high school student now.,True,,,,7
+1780,不人気,不[ふ] 人気[にんき],Unpopular,今年、不人気だったアニメは有りますか？,今年[ことし]、 不[ふ] 人気[にんき]だったアニメは 有[あ]りますか？,Are there any anime that were unpopular this year?,True,,,,7
+1781,見直す,見直[みなお]す,To Reevaluate,一年に一回、プランを見直すことが大切です。,一[いち] 年[ねん]に 一[いち] 回[かい]、プランを 見直[みなお]すことが 大切[たいせつ]です。,It is important to review the plan once a year.,True,,,,8
+1782,全く,全[まった]く,Completely,あなたと全く同じ考えです。,あなたと 全[まった]く 同[おな]じ 考[かんが]えです。,I have the exact idea as you.,True,,,,8
+1783,長さ,長[なが]さ,Length,この竹の長さは三メートルです。,この 竹[たけ]の 長[なが]さは 三[さん]メートルです。,The length of this bamboo is three meters.,True,,,,8
+1784,この前,この 前[まえ],The Other Day,この前、木の上に毛虫がいたんです。,この 前[ぜん]、 木[き]の 上[うえ]に 毛虫[けむし]がいたんです。,"The other day, there was a caterpillar on the tree.",True,,,,8
+1785,東口,東口[ひがしぐち],East Exit,東口にはコンビニがありますか？,東口[ひがしぐち]にはコンビニがありますか？,Is there a convenience store at the east exit?,True,,,,8
+1786,お知らせ,お 知[し]らせ,Notice,町民のみなさんへ、お知らせです。今日の花火大会は中止です。,町民[ちょうみん]のみなさんへ、お 知[し]らせです。 今日[きょう]の 花火[はなび] 大会[たいかい]は 中止[ちゅうし]です。,This is a notice to the townspeople. Today's fireworks display has been canceled.,True,,,,8
+1787,名前,名前[なまえ],Name,次に、名前を教えて下さい。,次[つぎ]に、 名前[なまえ]を 教[おし]えて 下[くだ]さい。,"Next, please tell me your name.",True,,,,8
+1788,出来上がる,出来上[できあ]がる,To Be Finished,工作が出来上がるのに、三日かかりました。,工作[こうさく]が 出来上[できあ]がるのに、 三[さん] 日[にち]かかりました。,It took three days for the crafts to be completed.,True,,,,8
+1789,曲げる,曲[ま]げる,To Bend,次は、足首を曲げるストレッチです。,次[つぎ]は、 足首[あしくび]を 曲[ま]げるストレッチです。,Next is a stretch where you bend your ankles.,True,,,,8
+1790,交じる,交[ま]じる,To Be Mixed,白い毛の中に黒い毛が交じる。,白[しろ]い 毛[け]の 中[なか]に 黒[くろ]い 毛[け]が 交[ま]じる。,Black hair is mixed in with the white hair.,True,,,,8
+1791,走り回る,走[はし]り 回[まわ]る,To Run Around,うちの犬は、雪を見ると走り回る。,うちの 犬[いぬ]は、 雪[ゆき]を 見[み]ると 走[はし]り 回[まわ]る。,My dog ​​runs around when they see the snow.,True,,,,8
+1792,当てる,当[あ]てる,To Guess,父は安いお茶と高いお茶を当てるのが上手です。,父[ちち]は 安[やす]いお 茶[ちゃ]と 高[たか]いお 茶[ちゃ]を 当[あ]てるのが 上手[じょうず]です。,My father is good at guessing if tea is cheap or expensive. ,True,,,,8
+1793,交わる,交[まじ]わる,To Intersect,パーティで色々な人と交わるのが下手なんです。,パーティで 色々[いろいろ]な 人[ひと]と 交[まじ]わるのが 下手[へた]なんです。,I'm not good at mingling with various people at parties.,True,,,,9
+1794,化ける,化[ば]ける,To Transform Oneself,女も男もメイクで化けることが出来る。,女[おんな]も 男[おとこ]もメイクで 化[ば]けることが 出来[でき]る。,Both women and men can be transformed with makeup.,True,,,,8
+1795,回す,回[まわ]す,To Turn Something,ノックの音の後、ドアノブを回す音がした。,ノックの 音[おと]の 後[あと]、ドアノブを 回[まわ]す 音[おと]がした。,"After the sound of the knock, there was a sound of the doorknob being turned.",True,,,,8
+1796,小学校,小[しょう] 学校[がっこう],Elementary School,私は小学校の先生です。,私[わたし]は 小[しょう] 学校[がっこう]の 先生[せんせい]です。,I am an elementary school teacher.,True,,,,9
+1797,通り,通[とお]り,Avenue,この通りを右に行って下さい。,この 通[とお]りを 右[みぎ]に 行[い]って 下[くだ]さい。,Go to the right on this street.,True,,,,9
+1798,気を付けて,気[き]を 付[つ]けて,Be Careful,ストーブの火に気を付けて下さい。,ストーブの 火[ひ]に 気[き]を 付[つ]けて 下[くだ]さい。,Please be careful of the fire on the stove.,True,,,,9
+1799,新しい,新[あたら]しい,New,この本は新しいです。,この 本[ほん]は 新[あたら]しいです。,This book is new.,True,,,,9
+1800,高校生,高校[こうこう] 生[せい],High School Student,私の弟は高校生です。,私[わたし]の 弟[おとうと]は 高校[こうこう] 生[せい]です。,My little brother is a high school student.,True,,,,9
+1801,中学校,中[ちゅう] 学校[がっこう],Middle School,このコンビニには中学校の生徒がよく来ます。,このコンビニには 中[ちゅう] 学校[がっこう]の 生徒[せいと]がよく 来[き]ます。,Junior high school students often come to this convenience store.,True,,,,9
+1802,付く,付[つ]く,To Be Attached,この手紙には、まだ切手が付いてないですよ。,この 手紙[てがみ]には、まだ 切手[きって]が 付[つ]いてないですよ。,There's no stamp attached to this letter yet.,True,,,,9
+1803,見付ける,見付[みつ]ける,To Find,私の母を見付けることが出来ますか？,私[わたし]の 母[はは]を 見付[みつ]けることが 出来[でき]ますか？,Can you find my mother?,True,,,,9
+1804,弱虫,弱虫[よわむし],Weakling,弟は弱虫だと言われている。,弟[おとうと]は 弱虫[よわむし]だと 言[い]われている。,People say my younger brother is a wimp.,True,,,,9
+1805,弱々しい,弱々[よわよわ]しい,Weak Looking,主人は弱々しい体ながら全力で走った。,主人[しゅじん]は 弱々[よわよわ]しい 体[からだ]ながら 全力[ぜんりょく]で 走[はし]った。,"My husband ran with all his might, despite his weak-looking body.",True,,,,9
+1806,欠ける,欠[か]ける,To Be Lacking,マグカップの口の所が欠けてしまった。,マグカップの 口[くち]の 所[ところ]が 欠[か]けてしまった。,The mouth of the mug is chipped.,True,,,,9
+1807,目医者,目[め] 医者[いしゃ],Eye Doctor,町民の中には、目医者に通っている人も多いです。,町民[ちょうみん]の 中[なか]には、 目[め] 医者[いしゃ]に 通[かよ]っている 人[ひと]も 多[おお]いです。,Many people in this town go see the eye doctor.,True,,,,10
+1808,一番目,一[いち] 番[ばん] 目[め],First Thing,今回のテストで、私はクラスで一番目だった。,今回[こんかい]のテストで、 私[わたし]はクラスで 一[いち] 番[ばん] 目[め]だった。,"In this test, I was first in my class.",True,,,,10
+1809,高さ,高[たか]さ,Height,あのアパートの高さは三十メートルです。,あのアパートの 高[たか]さは 三十[さんじゅう]メートルです。,The height of that apartment is thirty meters.,True,,,,9
+1810,楽しみ,楽[たの]しみ,Looking Forward To,今夜のテレビ番組が楽しみです。,今夜[こんや]のテレビ 番組[ばんぐみ]が 楽[たの]しみです。,I'm looking forward to the TV program tonight.,True,,,,10
+1811,〜向け,〜 向[む]け,Made For,このカレーは、日本人向けのスパイスを使ってます。,このカレーは、 日本[にっぽん] 人[にん] 向[む]けのスパイスを 使[つか]ってます。,This curry uses spices made for Japanese people.,True,,,,10
+1812,研究所,研究[けんきゅう] 所[しょ],Research Institute,ここは、全国でも有名な研究所です。,ここは、 全国[ぜんこく]でも 有名[ゆうめい]な 研究[けんきゅう] 所[しょ]です。,This research institute is famous throughout the country.,True,,,,10
+1813,近道,近道[ちかみち],Shortcut,この道を右に曲がった方が、近道ですよ。,この 道[みち]を 右[みぎ]に 曲[ま]がった 方[ほう]が、 近道[ちかみち]ですよ。,There's a shortcut if you turn down this road to the right.,True,,,,10
+1814,助かる,助[たす]かる,To Be Helped,きっと助かるよ。平気。,きっと 助[たす]かるよ。 平気[へいき]。,I'm sure they'll be fine. It's okay.,True,,,,10
+1815,楽しむ,楽[たの]しむ,To Enjoy,夏はかき氷を食べたり花火を楽しむシーズンです。,夏[なつ]は かき 氷[ごおり]を 食[た]べたり 花火[はなび]を 楽[たの]しむシーズンです。,Summer is the season to eat shaved ice and enjoy fireworks.,True,,,,10
+1816,決まる,決[き]まる,To Be Decided,ねえママ、今日は何を食べるか決まるのはいつ？,ねえママ、 今日[きょう]は 何[なに]を 食[た]べるか 決[き]まるのはいつ？,"Hey mom, when will it be decided what we will eat today?",True,,,,10
+1817,投げ付ける,投[な]げ 付[つ]ける,To Throw Against,人に対して小石を投げ付けるなんて、失礼だろ！,人[ひと]に 対[たい]して 小石[こいし]を 投[な]げ 付[つ]けるなんて、 失礼[しつれい]だろ！,It's rude to throw pebbles at people!,True,,,,10
+1818,化かす,化[ば]かす,To Bewitch,日本では、タヌキは人間を化かす生物だと言われている。,日本[にっぽん]では、タヌキは 人間[にんげん]を 化[ば]かす 生物[せいぶつ]だと 言[い]われている。,"In Japan, raccoons are said to be creatures that bewitch humans.",True,,,,10
+1819,話,話[はなし],Story,同じ話を何回されても、よく分かりません。,同[おな]じ 話[はなし]を 何[なに] 回[まわ]されても、よく 分[わ]かりません。,"No matter how many times you tell me the same story, I still don't understand.",True,,,,10
+1820,向く,向[む]く,To Turn Toward	,こっちを向いてください。,こっちを 向[む]いてください。,"Turn this way, please.",True,,,,6
+1821,名,名[な],Name,あの少女の名はエマだ。,あの 少女[しょうじょ]の 名[な]はエマだ。,That girl's name is Emma.,True,,,,4
+1822,出会う,出会[であ]う,To Meet By Chance,この国では、日本人に出会うチャンスがあまりない。,この 国[くに]では、 日本[にっぽん] 人[にん]に 出会[であ]うチャンスがあまりない。,"In this country, there are not many opportunities to meet Japanese people.",True,,,,10
+1823,白黒,白黒[しろくろ],Black And White,七十年前、テレビは白黒でした。,七十[ななじゅう] 年[ねん] 前[まえ]、テレビは 白黒[しろくろ]でした。,"Seventy years ago, TV was black and white.",True,,,,9
+1824,東,東[ひがし],East,ノースカロライナはアメリカの東にあります。,ノースカロライナはアメリカの 東[ひがし]にあります。,North Carolina is located in east of the United States.,True,,,,6
+1825,返す,返[かえ]す,To Return Something,今日は、父に車のお金を返す日です。,今日[きょう]は、 父[ちち]に 車[くるま]のお 金[かね]を 返[かえ]す 日[ひ]です。,Today is the day I return the car money to my father.,True,,,,9
+1826,心配,心配[しんぱい],A Worry,心配しないで、平気ですよ。全て上手くいくはず。,心配[しんぱい]しないで、 平気[へいき]ですよ。 全[すべ]て 上手[うま]くいくはず。,"Don't worry, it's okay. Everything should work out.",True,,,,10
+1827,里,里[さと],Hometown,あの山は、このクマの里なんです。,あの 山[やま]は、このクマの 里[さと]なんです。,That mountain is this bear's hometown.,True,,,,5
+1828,里心,里心[さとごころ],Homesick,ちょっと里心がついちゃったんです。,ちょっと 里心[さとごころ]がついちゃったんです。,I’m a bit homesick.,True,,,,5
+1829,求める,求[もと]める,To Want Something,社長交代を求めるメールを送りました。,社長[しゃちょう] 交代[こうたい]を 求[もと]めるメールを 送[おく]りました。,I sent an email asking for the replacement of the company president.,True,,,,10
+1830,心理,心理[しんり],Mental State,母の心理が、どうしても分からない。,母[はは]の 心理[しんり]が、どうしても 分[わ]からない。,I never understand my mother's mentality.,True,,,,7
+1831,私,私[わたし],I,私は、イギリス人です。,私[わたし]は、イギリス 人[にん]です。,I am English.,True,,,,6
+1832,私生活,私[わたし] 生活[せいかつ],Personal Life,私生活のストレスが大きい。,私[わたし] 生活[せいかつ]のストレスが 大[おお]きい。,Stress from my private life is big.,True,,,,6
+1833,私立,私立[しりつ],Private,私立の大学に入りたいです。,私立[しりつ]の 大学[だいがく]に 入[はい]りたいです。,I want to join a private university.,True,,,,6
+1834,私鉄,私鉄[してつ],Private Railway,四月に私鉄の会社に入社しました。,四[よん] 月[がつ]に 私鉄[してつ]の 会社[かいしゃ]に 入社[にゅうしゃ]しました。,I joined a private railway company in April.,True,,,,10
+1835,保持,保持[ほじ],Keep,高いクオリティを保持するのは工場にとって大切なことです。,高[たか]いクオリティを 保持[ほじ]するのは 工場[こうじょう]にとって 大切[たいせつ]なことです。,It is important for the factory to maintain high quality.,True,,,,9
+1836,生保,生保[せいほ],Life Insurance,さっき生保のセールスマネジャーが家に来ましたよ。,さっき 生保[せいほ]のセールスマネジャーが 家[いえ]に 来[き]ましたよ。,A life insurance sales manager came home earlier.,True,,,,9
+1837,保つ,保[たも]つ,To Preserve Something,体力を保つには毎日トレーニングしなくてはいけません。,体力[たいりょく]を 保[たも]つには 毎日[まいにち]トレーニングしなくてはいけません。,"To keep your physical strength, you have to train every day.",True,,,,9
+1838,取る,取[と]る,To Take,一つずつ取るんですよ。,一[ひと]つずつ 取[と]るんですよ。,"You take them one at a time, okay?",True,,,,6
+1839,私自身,私[わたし] 自身[じしん],Personally,私自身はコーヒーもお茶も両方のみます。,私[わたし] 自身[じしん]はコーヒーもお 茶[ちゃ]も 両方[りょうほう]のみます。,Personally I drink both coffee and tea.,True,,,,8
+1840,私立大学,私立[しりつ] 大学[だいがく],Private College,私立大学に入学したいです。,私立[しりつ] 大学[だいがく]に 入学[にゅうがく]したいです。,I want to enter a private university.,True,,,,8
+1841,要求,要求[ようきゅう],Demand,うちの犬は要求が多い。,うちの 犬[いぬ]は 要求[ようきゅう]が 多[おお]い。,Our dog has many demands.,True,,,,10
+1842,イギリス人,イギリス 人[にん],British Person,ジェニーさんはイギリス人です。,ジェニーさんはイギリス 人[にん]です。,Jenny is British.,True,,,,3
+1843,切り取る,切[き]り 取[と]る,To Cut Off,こうやってハートの形を切り取るんです。,こうやってハートの 形[かたち]を 切[き]り 取[と]るんです。,This is how we cut out the heart shape.,True,,,,7
+1844,取り出す,取[と]り 出[だ]す,To Pick Out,男が、マイケルのカバンからスマホを取り出すのを見たよ。,男[おとこ]が、マイケルのカバンからスマホを 取[と]り 出[だ]すのを 見[み]たよ。,I saw a man take the smartphone out of Michael’s bag.,True,,,,7
+1845,私大,私大[しだい],Private College,私大に入学したいと思っています。,私大[しだい]に 入学[にゅうがく]したいと 思[おも]っています。,I want to enroll in a private college.,True,,,,10
+1846,試みる,試[こころ]みる,To Try To Do Something,今日は、やり方を試みる。,今日[きょう]は、やり 方[かた]を 試[こころ]みる。,"Today, I will try this method.",True,,,,9
+1847,試食,試食[ししょく],Food Sample,先ずは何も言わないで試食してみて。,先[ま]ずは 何[なに]も 言[い]わないで 試食[ししょく]してみて。,"First, just taste it without saying anything.",True,,,,9
+1848,体験,体験[たいけん],Experience,海外へ一人でバックパッキングに行ったのは、すばらしい体験でした。,海外[かいがい]へ 一人[ひとり]でバックパッキングに 行[い]ったのは、すばらしい 体験[たいけん]でした。,It was a wonderful experience to go backpacking abroad by myself.,True,,,,9
+1849,受験,受験[じゅけん],Taking An Exam,大学受験のために、毎日勉強しています。,大学[だいがく] 受験[じゅけん]のために、 毎日[まいにち] 勉強[べんきょう]しています。,I study every day for university entrance exams.,True,,,,9
+1850,実験,実験[じっけん],Experiment,これは科学の実験です。,これは 科学[かがく]の 実験[じっけん]です。,This is a science experiment.,True,,,,9
+1851,試験,試験[しけん],Examination,あれ、JLPT試験、明日だっけ？今、思い出した。,あれ、JLPT 試験[しけん]、 明日[あす]だっけ？ 今[いま]、 思[おも]い 出[だ]した。,"Oh, is the JLPT exam tomorrow? I just remembered.",True,,,,9
+1852,開始,開始[かいし],Start,イベントの開始時間は何時ですか？,イベントの 開始[かいし] 時間[じかん]は 何時[いつ]ですか？,What time does the event start?,True,,,,10
+1853,発表,発表[はっぴょう],Announcement,それでは、発表します。全日本ダンス大会勝者は、田中さんです！,それでは、 発表[はっぴょう]します。 全[ぜん] 日本[にっぽん]ダンス 大会[たいかい] 勝者[しょうしゃ]は、 田中[たなか]さんです！,Now for the announcement. The winner of the All-Japan Dance Tournament is Mr. Tanaka!,True,,,,9
+1854,表す,表[あらわ]す,To Express Something,データは全てを表す。,データは 全[すべ]てを 表[あらわ]す。,The data shows everything.,True,,,,9
+1855,広がる,広[ひろ]がる,To Spread Out,両足、もっと広がる？,両足[りょうあし]、もっと 広[ひろ]がる？,Can you spread both of your legs more?,True,,,,6
+1856,曲線,曲線[きょくせん],Curve,このドレスは、体の曲線をキレイに見せてくれる。,このドレスは、 体[からだ]の 曲線[きょくせん]をキレイに 見[み]せてくれる。,This dress makes the curve of the body look beautiful.,True,,,,10
+1857,出発,出発[しゅっぱつ],Departure,出発まで五分です。,出発[しゅっぱつ]まで 五[ご] 分[ふん]です。,There are five minutes until departure.,True,,,,9
+1858,前回,前回[ぜんかい],Last Time,その活用形は、前回のクラスで学びました。,その 活用[かつよう] 形[けい]は、 前回[ぜんかい]のクラスで 学[まな]びました。,I learned the conjugated form in the previous class.,True,,,,8
+1859,時代,時代[じだい],Period,今の時代でも、日本にはファックスが有ります。,今[いま]の 時代[じだい]でも、 日本[にっぽん]にはファックスが 有[あ]ります。,"Even in this era, there are fax machines in Japan.",True,,,,7
+1860,本当,本当[ほんとう],Reality,それは本当ですか？,それは 本当[ほんとう]ですか？,Is that true?,True,,,,5
+1861,本当に,本当[ほんとう]に,Really,この石ころ、本当に大切？,この 石[いし]ころ、 本当[ほんとう]に 大切[たいせつ]？,Is this stone really important?,True,,,,7
+1862,内,内[うち],Inside,このジャケット、内ポケットがいっぱいついてるよ。,このジャケット、 内[ない]ポケットがいっぱいついてるよ。,This jacket has a lot of inside pockets.,True,,,,3
+1863,身,身[み],Body,会社を首にされ、身も心もズタズタです。,会社[かいしゃ]を 首[くび]にされ、 身[み]も 心[こころ]もズタズタです。,"Because of my layoff, physically and mentally I'm torn apart.",True,,,,8
+1864,宝,宝[たから],Treasure,これは、宝のマップです。,これは、 宝[たから]のマップです。,This is a treasure map.,True,,,,4
+1865,宝石,宝石[ほうせき],Jewel,これは母の大切な宝石です。,これは 母[はは]の 大切[たいせつ]な 宝石[ほうせき]です。,This is my mother's prized jewel.,True,,,,4
+1866,国宝,国宝[こくほう],National Treasure,ふじ山は日本の国宝の一つです。,ふじ 山[やま]は 日本[にっぽん]の 国宝[こくほう]の 一[ひと]つです。,Mt. Fuji is one of the national treasures in Japan.,True,,,,6
+1867,社会,社会[しゃかい],Society,社会のルールは大切だ。,社会[しゃかい]のルールは 大切[たいせつ]だ。,Social rules are important.,True,,,,7
+1868,宝くじ,宝[たから]くじ,Lottery,宝くじはインターネットで手に入ります。,宝[たから]くじはインターネットで 手[て]に 入[はい]ります。,The lottery is available on the Internet.,True,,,,6
+1869,明日,明日[あす],Tomorrow,明日はバレンタインデーです。,明日[あす]はバレンタインデーです。,Tomorrow is Valentine's Day.,True,,,,8
+1870,空車,空車[くうしゃ],Open Taxi,あのコインパーキング、空車あるかな？,あのコインパーキング、 空車[くうしゃ]あるかな？,I wonder if that paid parking has an available spot.,True,,,,5
+1871,〜丁目,〜 丁目[ちょうめ],District Of A Town,一丁目のコンビニはオープンしたばかりです。,一[いち] 丁目[ちょうめ]のコンビニはオープンしたばかりです。,The convenience store in 1-chome has just opened.,True,,,,7
+1872,本屋,本屋[ほんや],Bookstore,先日、友人と本屋に行きました。,先日[せんじつ]、 友人[ゆうじん]と 本屋[ほんや]に 行[い]きました。,"The other day, I went to the bookstore with a friend.",True,,,,9
+1873,一歩,一[いち] 歩[ほ],One Step,あと一歩でゴールです。,あと 一[いち] 歩[ほ]でゴールです。,The goal is one step away.,True,,,,6
+1874,〜台,〜 台[だい],Big Machine Counter,ここにはトラックを五台あります。,ここにはトラックを 五[ご] 台[だい]あります。,There are five trucks here.,True,,,,3
+1875,三百,三百[みつお],Three Hundred,三百円です。,三百[さんひゃく] 円[えん]です。,It's 300 yen.,True,,,,6
+1876,言語,言語[げんご],Language,色々な言語を学ぶために海外へ行きました。,色々[いろいろ]な 言語[げんご]を 学[まな]ぶために 海外[かいがい]へ 行[い]きました。,I went abroad to learn various languages.,True,,,,10
+1877,地上,地上[ちじょう],Above Ground,ここは、地上のフロアです。,ここは、 地上[ちじょう]のフロアです。,This is a floor above ground.,True,,,,8
+1878,全部,全部[ぜんぶ],All,リンゴを全部買うつもりです。,リンゴを 全部[ぜんぶ] 買[か]うつもりです。,I'm going to buy all the apples.,True,,,,9
+1879,〜時,〜 時[じ],O'Clock,三日の午後三時に、ここで会いましょう。,三[みっ] 日[か]の 午後[ごご] 三[さん] 時[じ]に、ここで 会[あ]いましょう。,See you here at 3:00 p.m. on the 3rd.,True,,,,7
+1880,天使,天使[てんし],Angel,子犬は天使みたいでした。,子犬[こいぬ]は 天使[てんし]みたいでした。,The puppy was like an angel.,True,,,,9
+1881,〜人,〜 人[ひと],Number Of People,スタッフは十人います。,スタッフは 十[じゅう] 人[にん]います。,There are ten staff members.,True,,,,3
+1882,速い,速[はや]い,Fast,うちの兄はクロールで泳ぐのが速い。,うちの 兄[あに]はクロールで 泳[およ]ぐのが 速[はや]い。,My older brother is a fast crawl swimmer.,True,,,,10
+1883,北海道,北海道[ほっかいどう],Hokkaido,北海道は日本の北にあります。,北海道[ほっかいどう]は 日本[にっぽん]の 北[きた]にあります。,Hokkaido is located in the north of Japan.,True,,,,8
+1884,新年,新年[しんねん],New Year,新年に大きいセールを行います。,新年[しんねん]に 大[おお]きいセールを 行[おこな]います。,We will have a big sale in the new year.,True,,,,9
+1885,足す,足[た]す,To Add Something,一に一を足すと、二になります。,一[いち]に 一[いち]を 足[た]すと、 二[に]になります。,"If you add 1 to 1, that'll be 2.",True,,,,6
+1886,要る,要[い]る,To Need,考えるのに、もっと時間が要る。,考[かんが]えるのに、もっと 時間[じかん]が 要[い]る。,I need more time to think.,True,,,,9
+1887,車両,車両[しゃりょう],Railroad Car,車両は大きいですね。,車両[しゃりょう]は 大[おお]きいですね。,This vehicle is big.,True,,,,6
+1888,対談,対談[たいだん],Talk,工学と心理学の学者の対談のイベントに行きました。,工学[こうがく]と 心理[しんり] 学[がく]の 学者[がくしゃ]の 対談[たいだん]のイベントに 行[い]きました。,I went to an event for discussions between engineering and psychology scholars.,True,,,,9
+1889,二日,二[ふた] 日[か],Second Day,二日のミーティングは、キャンセルしました。,二[ふた] 日[か]のミーティングは、キャンセルしました。,The meeting on the 2nd was canceled.,True,,,,2
+1890,人々,人々[ひとびと],People,出口にたくさんの人々がいた。,出口[でぐち]にたくさんの 人々[ひとびと]がいた。,There were many people at the exit.,True,,,,2
+1891,少女,少女[しょうじょ],Girl,三人の少女が川にいた。,三[さん] 人[にん]の 少女[しょうじょ]が 川[かわ]にいた。,Three girls were at the river.,True,,,,3
+1892,万,万[まん],Ten Thousand,日本へのチケットは、十万円でした。,日本[にっぽん]へのチケットは、 十万[じゅうまん] 円[えん]でした。,"The ticket to Japan was 100,000 yen.",True,,,,3
+1893,赤い,赤[あか]い,Red,赤いネクタイを下さい。,赤[あか]いネクタイを 下[くだ]さい。,Please give me a red tie.,True,,,,4
+1894,白い,白[しろ]い,White,その白い犬はうちのペットです。,その 白[しろ]い 犬[いぬ]はうちのペットです。,That white dog is our pet.,True,,,,4
+1895,百,百[ひゃく],Hundred,この本は、およそ百ページです。,この 本[ほん]は、およそ 百[ひゃく]ページです。,This book is about a hundred pages.,True,,,,4
+1896,早く,早[はや]く,Early,平日は早く会社に行きます。,平日[へいじつ]は 早[はや]く 会社[かいしゃ]に 行[い]きます。,I go to work early on weekdays.,True,,,,6
+1897,死,死[し],Death,その死は早すぎました。,その 死[し]は 早[はや]すぎました。,Their death was too soon.,True,,,,6
+1898,姉,姉[あね],Older Sister,姉はシンガポールにいます。,姉[あね]はシンガポールにいます。,My sister is in Singapore.,True,,,,6
+1899,〜室,〜 室[しつ],Room,社長室をノックした。,社長[しゃちょう] 室[しつ]をノックした。,I knocked on the president's office.,True,,,,6
+1900,大きく,大[おお]きく,In A Big Way,タクシーを見たら、右手を大きく上げて下さいね。,タクシーを 見[み]たら、 右手[みぎて]を 大[おお]きく 上[あ]げて 下[くだ]さいね。,"If you see a taxi, please fully raise your right hand.",True,,,,7
+1901,近く,近[ちか]く,Near,コンビニは近くにありますか？,コンビニは 近[ちか]くにありますか？,Is there a convenience store nearby?,True,,,,7
+1902,向ける,向[む]ける,To Turn Something Towards,もう少し後ろに向けることは出来ますか？,もう 少[すこ]し 後[うし]ろに 向[む]けることは 出来[でき]ますか？,Can you turn it towards the back a little more?,True,,,,8
+1903,お前,お 前[まえ],You,お前は一体ここで何してるんだ？,お 前[まえ]は 一体[いったい]ここで 何[なに]してるんだ？,What the hell are you doing here?,True,,,,8
+1904,部分,部分[ぶぶん],Portion,この部分を見て下さい。,この 部分[ぶぶん]を 見[み]て 下[くだ]さい。,Please take a look at this part.,True,,,,9
+1905,千葉,千葉[ちば],Chiba,東京ディズニーリゾートは、千葉県にあります。,東京[とうきょう]ディズニーリゾートは、 千葉[ちば] 県[けん]にあります。,Tokyo Disney Resort is located in Chiba Prefecture.,True,,,,10
+1906,思わず,思[おも]わず,Unintentionally,思わず本音を口にしてしまいました。,思[おも]わず 本音[ほんね]を 口[くち]にしてしまいました。,I spoke of my real intentions unintentionally.,True,,,,10
+1907,立ち飲み,立[た]ち 飲[の]み,Standing And Drinking,この立ち飲み屋は、生ビールが安くて、おつまみもおいしいですよ。,この 立[た]ち 飲[の]み 屋[や]は、 生[なま]ビールが 安[やす]くて、おつまみもおいしいですよ。,This standing bar has cheap draft beers and delicious drinking snacks.,True,,,,10
+1908,人工,人工[じんこう],Artificial,これ、ほんとうに人工コアラ？,これ、ほんとうに 人工[じんこう]コアラ？,Is this really an artificial koala?,True,,,,1
+1909,一日,一[いち] 日[にち],One Day,ニューヨークまで一日かかる。,ニューヨークまで 一日[ついたち]かかる。,It takes a day to get to New York.,True,,,,2
+1910,七日,七[なな] 日[にち],Seventh Day,七日はコスプレのイベントあります。,七[なな] 日[にち]はコスプレのイベントあります。,There is a cosplay event on the 7th.,True,,,,2
+1911,三日,三[みっ] 日[か],Third Day,日本では、三月三日は、ひなまつりという女の子のイベントです。,日本[にっぽん]では、 三[さん] 月[がつ] 三[みっ] 日[か]は、ひなまつりという 女[おんな]の 子[こ]のイベントです。,"In Japan, March 3rd is a holiday for girls called ""hina matsuri.""",True,,,,2
+1912,今日は,今日[きょう]は,Hello,今日は、おげんきですか？,今日[きょう]は、おげんきですか？,"Hello, how are you?",True,,,,3
+1913,二十日,二十[にとう] 日[か],Twentieth Day,二十日にテストがあります。,二十[にとう] 日[か]にテストがあります。,There is a test on the twentieth.,True,,,,4
+1914,草地,草地[くさち],Meadow,草地の上に大きな木があった。,草地[くさち]の 上[うえ]に 大[おお]きな 木[き]があった。,There was a large tree on the grassland.,True,,,,6
+1915,台風,台風[たいふう],Typhoon,もうすぐ九州に台風が来ます。,もうすぐ 九州[きゅうしゅう]に 台風[たいふう]が 来[き]ます。,"Soon, a typhoon will come to Kyushu.",True,,,,7
+1916,考古学,考古[こうこ] 学[がく],Archeology,これは考古学のリサーチです。,これは 考古[こうこ] 学[がく]のリサーチです。,This is archaeological research.,True,,,,5
+1917,地中海,地中[ちちゅう] 海[かい],Mediterranean Sea,地中海にはキレイなビーチが広がっています。,地中[ちちゅう] 海[かい]にはキレイなビーチが 広[ひろ]がっています。,A beautiful beach stretches out along the Mediterranean Sea.,True,,,,8
+1918,毎朝,毎朝[まいあさ],Every Morning,毎朝、私はコンビニでコーヒーを買います。,毎朝[まいあさ]、 私[わたし]はコンビニでコーヒーを 買[か]います。,"Every morning, I buy coffee at the convenience store.",True,,,,8
+1919,不自由,不[ふ] 自由[じゆう],Discomfort,母は足が不自由なので、車を使うことが多いです。,母[はは]は 足[あし]が 不[ふ] 自由[じゆう]なので、 車[くるま]を 使[つか]うことが 多[おお]いです。,"My mother has a leg disability, so she often uses a car.",True,,,,9
+1920,教え,教[おし]え,Teaching,「毎日全力で生きる」というのは、父からの教えです。,「 毎日[まいにち] 全力[ぜんりょく]で 生[い]きる」というのは、 父[ちち]からの 教[おし]えです。,"""Living every day to your fullest"" is a teaching from my father.",True,,,,9
+1921,表,表[ひょう],Front,この紙の表はピンク色にぬってください。,この 紙[かみ]の 表[ひょう]はピンク 色[いろ]にぬってください。,Please paint the front of this paper pink.,True,,,,9
+1922,作業,作業[さぎょう],Work,これからクリーニングの作業をします。,これからクリーニングの 作業[さぎょう]をします。,I will start working on cleaning now.,True,,,,10
+1923,病む,病[や]む,To Be Sick,この日が当たらないアパートに住んでたら、心が病むよ。,この 日[ひ]が 当[あ]たらないアパートに 住[す]んでたら、 心[こころ]が 病[や]むよ。,"If you live in an apartment without sunlight, you would be mentally sick.",True,,,,10
+1924,九日,九[ここの] 日[か],Nine Days,三月九日に、あの女の子は五才になる。,三[さん] 月[がつ] 九[ここの] 日[か]に、あの 女[おんな]の 子[こ]は 五[ご] 才[さい]になる。,"On March 9th, that girl turns five years old.",True,,,,2
+1925,八日,八[よう] 日[か],Eight Days,八日からハワイでバケーションなんです。,八[よう] 日[か]からハワイでバケーションなんです。,I'll be on a vacation in Hawaii from the 8th.,True,,,,2
+1926,十日,十[とう] 日[か],Ten Days,十日は刀のセールです。,十[とう] 日[か]は 刀[かたな]のセールです。,There's a sword sale on the 10th.,True,,,,2
+1927,一生,一生[いっしょう],Whole Life,主人は一生のパートナーです。,主人[しゅじん]は 一生[いっしょう]のパートナーです。,My husband is my partner for life.,True,,,,5
+1928,国王,国王[こくおう],King,今のイギリスの国王はチャールズ三世です。,今[いま]のイギリスの 国王[こくおう]はチャールズ 三[さん] 世[せい]です。,The current British king is Charles III.,True,,,,6
+1929,水星,水星[すいせい],Mercury,月は、水星より小さい。,月[つき]は、 水星[すいせい]より 小[ちい]さい。,The moon is smaller than Mercury.,True,,,,6
+1930,金星,金星[きんせい],Venus,あそこに見えるのが、金星です。,あそこに 見[み]えるのが、 金星[きんぼし]です。,What you can see there is Venus.,True,,,,6
+1931,売れる,売[う]れる,To Be Sold,この車、いくらで売れるかな？,この 車[くるま]、いくらで 売[う]れるかな？,I wonder how much this car can sell for?,True,,,,10
+1932,船体,船体[せんたい],Hull,船体は大きかった。,船体[せんたい]は 大[おお]きかった。,The hull was big.,True,,,,7
+1933,当たり前,当[あ]たり 前[まえ],Natural,こんな当たり前のこと、どうして分からないの？,こんな 当[あ]たり 前[まえ]のこと、どうして 分[わ]からないの？,"This is normal stuff, why can’t you get that?",True,,,,8
+1934,水道,水道[すいどう],Water Supply,一日も早く水道を直したいんです。,一[いち] 日[にち]も 早[はや]く 水道[すいどう]を 直[なお]したいんです。,I want to fix the water supply as soon as possible.,True,,,,8
+1935,付近,付近[ふきん],Neighborhood,この付近に、コンビニはありますか？,この 付近[ふきん]に、コンビニはありますか？,Does this neighborhood have a convenience store?,True,,,,9
+1936,入院,入院[にゅういん],Hospitalization,明日から母が三日間入院します。,明日[あす]から 母[はは]が 三[みっ] 日間[かかん] 入院[にゅういん]します。,"After tomorrow, my mother will be hospitalized for three days.",True,,,,10
+1937,葉,葉[は],Leaf,これは、竹の葉です。,これは、 竹[たけ]の 葉[は]です。,This is a bamboo leaf.,True,,,,10
+1938,大いに,大[おお]いに,Very,大いにまなびましょう。,大[おお]いにまなびましょう。,Let’s learn a lot!,True,,,,2
+1939,用,用[よう],Task,今日は、なにも用がない。,今日[きょう]は、なにも 用[よう]がない。,There is nothing to do today.,True,,,,3
+1940,仕草,仕草[しぐさ],Gesture,あの子の仕草は、まるで大人の仕草だ。,あの 子[こ]の 仕草[しぐさ]は、まるで 大人[おとな]の 仕草[しぐさ]だ。,That child's gesture is just like an adult's.,True,,,,5
+1941,生える,生[は]える,To Grow,この木にはキノコが生える。,この 木[き]にはキノコが 生[は]える。,Mushrooms grow on this tree.,True,,,,6
+1942,〜形,〜 形[かたち],Form,「出る」の「て形」は「出て」です。,「 出[で]る」の「 て 形[けい]」は「 出[で]て」です。,"The te-form of ""deru"" is ""dete.""",True,,,,5
+1943,土星,土星[どせい],Saturn,土星は大きいです。,土星[どせい]は 大[おお]きいです。,Saturn is big.,True,,,,6
+1944,活気,活気[かっき],Energy,この町は、とても活気があります。,この 町[まち]は、とても 活気[かっき]があります。,This city is very lively.,True,,,,6
+1945,〜号室,〜 号[ごう] 室[しつ],Room Number,こちらが302号室です。,こちらが302 号[ごう] 室[しつ]です。,This is Room 302.,True,,,,7
+1946,大空,大空[おおぞら],Heavens,こんな日は、大空を見上げよう。,こんな 日[ひ]は、 大空[おおぞら]を 見上[みあ]げよう。,"On a day like this, let's just look up at the sky.",True,,,,7
+1947,見当たる,見当[みあ]たる,To Be Found,雨の日はクラスを休む人が見当たる。,雨[あめ]の 日[ひ]はクラスを 休[やす]む 人[ひと]が 見当[みあ]たる。,"On a rainy day, you see some people not coming to class.",True,,,,7
+1948,三角形,三角[さんかく] 形[がた],Triangle,これが、三角形のおにぎりの作り方です。,これが、 三角[さんかく] 形[けい]のおにぎりの 作[つく]り 方[かた]です。,This is how to make a triangular rice ball.,True,,,,7
+1949,活用形,活用[かつよう] 形[けい],Conjugated Form,「立つ」の活用形が分かりません。,「 立[た]つ」の 活用[かつよう] 形[けい]が 分[わ]かりません。,"I don't know the conjugation forms of ""tatsu"".",True,,,,7
+1950,役場,役場[やくば],Town Hall,今日の朝、役場に行ってきました。,今日[きょう]の 朝[あさ]、 役場[やくば]に 行[い]ってきました。,I went to the town hall this morning.,True,,,,10
+1951,点ける,点[つ]ける,To Turn Something On,夜は車のヘッドライトを点ける。,夜[よる]は 車[くるま]のヘッドライトを 点[つ]ける。,I put the car headlights on at night.,True,,,,6
+1952,何度,何[なに] 度[ど],How Many Times,この曲は一年に何度も思い出す名曲です。,この 曲[きょく]は 一[いち] 年[ねん]に 何[なに] 度[ど]も 思[おも]い 出[だ]す 名曲[めいきょく]です。,This song is a masterpiece that I remember many times a year.,True,,,,9
+1953,泳ぎ,泳[およ]ぎ,Swimming,マイケルは魚よりも泳ぎが上手です。,マイケルは 魚[さかな]よりも 泳[およ]ぎが 上手[じょうず]です。,Michael's swimming is better than the fish's!,True,,,,9
+1954,記事,記事[きじ],Article,この記事の作者は、アメリカ人ジャーナリストです。,この 記事[きじ]の 作者[さくしゃ]は、アメリカ 人[にん]ジャーナリストです。,The author of this article is an American journalist.,True,,,,9
+1955,口調,口調[くちょう],Tone,姉に対する父の口調は強かった。,姉[あね]に 対[たい]する 父[ちち]の 口調[くちょう]は 強[つよ]かった。,My father's tone towards my sister was strong.,True,,,,10
+1956,語る,語[かた]る,To Talk,次のセミナーでは、何について語る予定ですか？,次[つぎ]のセミナーでは、 何[なに]について 語[かた]る 予定[よてい]ですか？,What do you plan to talk about at the next seminar?,True,,,,10
+1957,水中,水中[すいちゅう],Underwater,水中にコイがたくさんいる。,水中[すいちゅう]にコイがたくさんいる。,There are a lot of koi fish in the water.,True,,,,2
+1958,丸ごと,丸[まる]ごと,In Its Entirety,半分じゃなくて丸ごと一つ下さい。,半分[はんぶん]じゃなくて 丸[まる]ごと 一[ひと]つ 下[くだ]さい。,"Please give me the whole thing, not just half.",True,,,,4
+1959,外交,外交[がいこう],Diplomacy,日本の外交についての本はたくさんある。,日本[にっぽん]の 外交[がいこう]についての 本[ほん]はたくさんある。,There are many books about Japanese diplomacy.,True,,,,5
+1960,生まれ,生[う]まれ,Birthplace,わたしは日本人ですが、生まれはサンフランシスコです。,わたしは 日本[にっぽん] 人[にん]ですが、 生[う]まれはサンフランシスコです。,"I’m Japanese, but I was born in San Francisco.",True,,,,5
+1961,地中,地中[ちちゅう],Underground,地中には、たくさんの虫がいます。,地中[ちちゅう]には、たくさんの 虫[むし]がいます。,There are many insects underground.,True,,,,6
+1962,活用,活用[かつよう],Conjugation,「出る」の活用のエクササイズをしましょう。,「 出[で]る」の 活用[かつよう]のエクササイズをしましょう。,"Let's do some exercises to conjugate ""deru.""",True,,,,6
+1963,一体,一体[いったい],The Heck,一体どうなっているんだ。,一体[いったい]どうなっているんだ。,What the heck is going on?,True,,,,7
+1964,小声,小声[こごえ],Low Voice,「ありがとう」と小声で言いました。,「ありがとう」と 小声[こごえ]で 言[い]いました。,"""Thank you,"" I whispered.",True,,,,7
+1965,辺,辺[へん],Side,この正方形の辺の長さは、それぞれ四センチです。,この 正[せい] 方形[ほうけい]の 辺[へん]の 長[なが]さは、それぞれ 四[よん]センチです。,The length of each side of this square is four centimeters.,True,,,,7
+1966,役目,役目[やくめ],Duty,毎日、ディナーを作るのは、お父さんの役目です。,毎日[まいにち]、ディナーを 作[つく]るのは、お 父[ちち]さんの 役目[やくめ]です。,Making dinner every day is Dad's duty.,True,,,,8
+1967,生地,生地[きじ],Material,このシャツはコットン生地で出来ています。,このシャツはコットン 生地[きじ]で 出来[でき]ています。,This shirt is made of cotton fabric.,True,,,,8
+1968,火事,火事[かじ],Fire,火事だ！！,火事[かじ]だ！！,Fire!!,True,,,,9
+1969,通す,通[とお]す,To Let Something Pass,ガラスは光を通します。,ガラスは 光[ひかり]を 通[とお]します。,Glass lets light pass through it.,True,,,,9
+1970,台所,台所[だいどころ],Kitchen,この台所、広いですね。,この 台所[だいどころ]、 広[ひろ]いですね。,This kitchen is spacious.,True,,,,10
+1971,農場,農場[のうじょう],Farm,北海道の農場で生のトウモロコシを食べました。,北海道[ほっかいどう]の 農場[のうじょう]で 生[なま]のトウモロコシを 食[た]べました。,We ate raw corn at a farm in Hokkaido.,True,,,,10
+1972,大人しい,大人[おとな]しい,Obedient,大人しい犬ですね。,大人[おとな]しい 犬[いぬ]ですね。,That's a quiet dog.,True,,,,3
+1973,出かける,出[で]かける,To Go Out,五月三日はどこかに出かける？,五[ご] 月[がつ] 三[みっ] 日[か]はどこかに 出[で]かける？,Should we go out somewhere on May 3rd?,True,,,,4
+1974,大体,大体[だいたい],Generally,大体は正しいです。,大体[だいたい]は 正[ただ]しいです。,It's mostly correct.,True,,,,5
+1975,海王星,海王[かいおう] 星[せい],Neptune,海王星は色が青いです。,海王[かいおう] 星[せい]は 色[いろ]が 青[あお]いです。,The color of Neptune is blue.,True,,,,7
+1976,以下,以下[いか],Less Than,五千円以下の中古のテレビはありますか？,五千[ごせん] 円[えん] 以下[いか]の 中古[ちゅうこ]のテレビはありますか？,"Is there a used TV for less than 5,000 yen?",True,,,,7
+1977,番組,番組[ばんぐみ],Program,夜は、いつも同じ番組を見ます。,夜[よる]は、いつも 同[おな]じ 番組[ばんぐみ]を 見[み]ます。,I always watch the same program at night.,True,,,,8
+1978,大学院,大学[だいがく] 院[いん],Graduate School,大学院を出て、すぐに入社しました。,大学[だいがく] 院[いん]を 出[で]て、すぐに 入社[にゅうしゃ]しました。,I left graduate school and immediately got a job.,True,,,,10
+1979,左右,左右[さゆう],Left And Right,ジャケットの左右にはポケットがあります。,ジャケットの 左右[さゆう]にはポケットがあります。,The jacket has pockets on the left and the right.,True,,,,2
+1980,大気,大気[たいき],Atmosphere,きたない大気のせいでアレルギーになりました。,きたない 大気[たいき]のせいでアレルギーになりました。,I developed an allergy because of the polluted atmosphere.,True,,,,4
+1981,町民,町民[ちょうみん],Townspeople,町民は毎年みんなで花見に行く。,町民[ちょうみん]は 毎年[まいとし]みんなで 花見[はなみ]に 行[い]く。,The townspeople go see the cherry blossoms together every year.,True,,,,7
+1982,文学,文学[ぶんがく],Literature,四月から文学のコースに入ります。,四[よん] 月[がつ]から 文学[ぶんがく]のコースに 入[はい]ります。,I'm starting a literature course in April.,True,,,,5
+1983,知る,知[し]る,To Know,父は今日、そのニュースを知る。,父[ちち]は 今日[きょう]、そのニュースを 知[し]る。,My father will learn the news today.,True,,,,6
+1984,来週,来週[らいしゅう],Next Week,次のクラスは来週です。,次[つぎ]のクラスは 来週[らいしゅう]です。,The next class is next week.,True,,,,7
+1985,科目,科目[かもく],Subject,中学では九科目学びます。,中学[ちゅうがく]では 九[きゅう] 科目[かもく] 学[まな]びます。,"In junior high school, you will study nine subjects.",True,,,,8
+1986,生物,生物[せいぶつ],Living Thing,海の中には、色々な生物がいます。,海[うみ]の 中[なか]には、 色々[いろいろ]な 生物[せいぶつ]がいます。,There are various creatures in the sea.,True,,,,9
+1987,家事,家事[かじ],Housework,大体の家事はハウスキーパーの方がしてくれます。,大体[だいたい]の 家事[かじ]はハウスキーパーの 方[ほう]がしてくれます。,The housekeepers take care of most of the housework.,True,,,,9
+1988,今朝,今朝[けさ],This Morning,今朝になってから「あ！テスト今日じゃん！」って思い出したんです。,今朝[けさ]になってから「あ！テスト 今日[きょう]じゃん！」って 思[おも]い 出[だ]したんです。,"I remembered this morning, ""Oh! The exam is today!""",True,,,,10
+1989,入力,入力[にゅうりょく],Input,ここにソーシャルセキュリティナンバーを入力して下さい。,ここにソーシャルセキュリティナンバーを 入力[にゅうりょく]して 下[くだ]さい。,Please enter your social security number here.,True,,,,2
+1990,戸,戸[と],Japanese Style Door,戸をノックした。,戸[と]をノックした。,I knocked on the door.,True,,,,3
+1991,女の人,女[おんな]の 人[ひと],Woman,あの女の人？マミさんだよ。,あの 女[おんな]の 人[ひと]？マミさんだよ。,That woman over there? That's Mami.,True,,,,3
+1992,本来,本来[ほんらい],Originally,これが、本来の村の名です。,これが、 本来[ほんらい]の 村[むら]の 名[な]です。,This is the original name of the village.,True,,,,5
+1993,手首,手首[てくび],Wrist,手首にブレスレットをしています。,手首[てくび]にブレスレットをしています。,I have a bracelet on my wrist.,True,,,,6
+1994,光る,光[ひか]る,To Shine,日が当たると、ダイアモンドは光る。,日[ひ]が 当[あ]たると、ダイアモンドは 光[ひか]る。,The diamond shines when the sun hits it.,True,,,,7
+1995,数年,数[すう] 年[ねん],Several Years,日本に来てから、数年です。,日本[にっぽん]に 来[き]てから、 数[すう] 年[ねん]です。,It's been a few years since I came to Japan.,True,,,,8
+1996,絵文字,絵[え] 文字[もじ],Emoji,絵文字を交ぜて、メッセージを入力しましょう。,絵[え] 文字[もじ]を 交[ま]ぜて、メッセージを 入力[にゅうりょく]しましょう。,Type a message mixed up with some emoji.,True,,,,8
+1997,部首,部首[ぶしゅ],Radical,この字の部首は何ですか？,この 字[じ]の 部首[ぶしゅ]は 何[なに]ですか？,What is the radical of this character?,True,,,,10
+1998,近所,近所[きんじょ],Neighborhood,近所にコインランドリーがある。,近所[きんじょ]にコインランドリーがある。,There is a coin laundry in the neighborhood.,True,,,,10
+1999,足し算,足[た]し 算[ざん],Addition,私の兄は、足し算が上手で早いです。,私[わたし]の 兄[あに]は、 足[た]し 算[ざん]が 上手[じょうず]で 早[はや]いです。,My brother is good and fast at adding.,True,,,,10
+2000,引き算,引[ひ]き 算[ざん],Subtraction,もちろん、わたしは引き算ができます！,もちろん、わたしは 引[ひ]き 算[ざん]ができます！,Of course I can do subtraction!,True,,,,10
+2001,札,札[さつ],Tag,村の入り口にお札がたくさんありました。,村[むら]の 入[い]り 口[ぐち]にお 札[ふだ]がたくさんありました。,There were many amulets at the entrance of the village.,True,,,,9
+2002,以後,以後[いご],After This,以後は、このアドレスにメールして下さい。,以後[いご]は、このアドレスにメールして 下[くだ]さい。,"From now on, please email this address.",True,,,,7
+2003,使用,使用[しよう],Use,すみません。このクーポンの使用の仕方が分からないんです。,すみません。このクーポンの 使用[しよう]の 仕方[しかた]が 分[わ]からないんです。,Excuse me. I don't know how to use this coupon.,True,,,,9
+2004,番号札,番号[ばんごう] 札[さつ],Numbered Tag,番号札をとって、お待ちください。,番号[ばんごう] 札[さつ]をとって、お 待[ま]ちください。,Please take a numbered ticket and wait your turn.,True,,,,10
+2005,投手,投手[とうしゅ],Pitcher,父は、プロの投手です。,父[ちち]は、プロの 投手[とうしゅ]です。,My father is a professional pitcher.,True,,,,8
+2006,〜斤,〜 斤[きん],Bread Loaf Counter,このパンは一斤当たり二百円です。,このパンは 一[いち] 斤[きん] 当[あ]たり 二百[にひゃく] 円[えん]です。,This bread is 200 yen per loaf.,True,,,,5
+2007,一斤,一[いち] 斤[きん],One Loaf of Bread,一斤のパンは6枚切りか8枚切りで売られていることが多い。,一[いち] 斤[きん]のパンは6 枚[まい] 切[き]りか8 枚[まい] 切[き]りで 売[う]られていることが 多[おお]い。,Loaves of bread are often sold in slices of six or eight.,True,,,,7
+2008,二斤,二[に] 斤[きん],Two Loaves of Bread,このパンは、二斤で五百円です。,このパンは、 二[に] 斤[きん]で 五百[ごひゃく] 円[えん]です。,This bread is 500 yen for two loaves.,True,,,,7
+2009,点く,点[つ]く,To Be Lit,人が来ると、セキュリティのためライトが点きます。,人[ひと]が 来[く]ると、セキュリティのためライトが 点[つ]きます。,"When people come, the lights turn on for security.",True,,,,8
+2010,広げる,広[ひろ]げる,To Spread Something,日本にそのウィルスを広げたのは水だった。,日本[にっぽん]にそのウィルスを 広[ひろ]げたのは 水[みず]だった。,It was water that spread the virus in Japan.,True,,,,3
+2011,山びこ,山[やま]びこ,Echo,山びこだ！きこえる？,山[やま]びこだ！きこえる？,That's a mountain echo. Can you hear it?,True,,,,3
+2012,力いっぱい,力[ちから]いっぱい,With All One's Strength,力いっぱいがんばりました！,力[ちから]いっぱいがんばりました！,We did our best!,True,,,,1
+2013,テーブルの上,テーブルの 上[うえ],On The Table,本はテーブルの上にあります。,本[ほん]はテーブルの 上[うえ]にあります。,The book is on the table.,True,,,,3
+2014,ベッドの下,ベッドの 下[した],Under The Bed,ベッドの下にはマンガがたくさんあります。,ベッドの 下[した]にはマンガがたくさんあります。,There are many manga under the bed.,True,,,,3
+2015,口にする,口[くち]にする,To Mention,女王は、よく「そうね」と口にする。,女王[じょおう]は、よく「そうね」と 口[くち]にする。,"The queen often says, ""you're right.""",True,,,,4
+2016,山道,山道[さんどう],Mountain Road,山道を歩くのは体力が必要だ。,山道[さんどう]を 歩[ある]くのは 体力[たいりょく]が 必要[ひつよう]だ。,Walking on a mountain path requires physical strength.,True,,,,10
+2017,火星,火星[かせい],Mars,火星には水がありますか？,火星[かせい]には 水[みず]がありますか？,Does Mars have water?,True,,,,7
+2018,木星,木星[もくせい],Jupiter,木星を見たことありますか？,木星[もくせい]を 見[み]たことありますか？,Have you ever seen Jupiter?,True,,,,7
+2019,出身,出身[しゅっしん],One's Origin,私はマレーシア出身です。,私[わたし]はマレーシア 出身[しゅっしん]です。,I'm from Malaysia.,True,,,,9
+2020,高度,高度[こうど],Altitude,このUFOは、今、高度3万3000フィートのところにいる。,このUFOは、 今[いま]、 高度[こうど]3万3000フィートのところにいる。,"This UFO is now at an altitude of 33,000 feet.",True,,,,10
+2021,回答,回答[かいとう],Answer,こちらに回答を入力してください。,こちらに 回答[かいとう]を 入力[にゅうりょく]してください。,Please enter your answer here.,True,,,,10
+2022,人里,人里[ひとざと],Human Habitation,この町は、人里に近い。,この 町[まち]は、 人里[ひとざと]に 近[ちか]い。,This town is close to human habitation.,True,,,,7
+2023,頁,頁[ぺえじ],Page,この本は五百頁以上ある。,この 本[ほん]は 五百[ごひゃく] 頁[ぺえじ] 以上[いじょう]ある。,This book has more than 500 pages.,True,,,,10
+2024,〜分,〜 分[ぶん],Minute,大体、二分くらいかかります。,大体[だいたい]、 二[に] 分[ふん]くらいかかります。,It generally takes about two minutes.,True,,,,7
+2025,交代,交代[こうたい],Change,ラグビーなど、多くのスポーツで交代のルールがあります。,ラグビーなど、 多[おお]くのスポーツで 交代[こうたい]のルールがあります。,"In many sports, such as rugby, there are rules for substitution.",True,,,,9
+2026,空手,空手[からて],Karate,こちらは私の空手の先生、ジェフ先生です。,こちらは 私[わたし]の 空手[からて]の 先生[せんせい]、ジェフ 先生[せんせい]です。,"This is my karate teacher, Jeff-sensei.",True,,,,9
+2027,出社,出社[しゅっしゃ],Going To The Office,今日は一人で出社ですか？,今日[きょう]は 一人[ひとり]で 出社[しゅっしゃ]ですか？,Are you going to the office alone today?,True,,,,6
+2028,その他,その 他[た],The Others,その他のゴミはリサイクルして下さい。,その 他[た]のゴミはリサイクルして 下[くだ]さい。,Recycle the other kinds of trash.,True,,,,5
+2029,日の出,日[ひ]の 出[で],Sunrise,そして、ふじ山から日の出をみました。,そして、ふじ 山[やま]から 日[ひ]の 出[で]をみました。,Then I watched the sunrise from Mt. Fuji.,True,,,,3
+2030,生ビール,生[なま]ビール,Draft Beer,生ビール、一つ下さい。,生[なま]ビール、 一[ひと]つ 下[くだ]さい。,"One draft beer, please.",True,,,,3
+2031,元々,元々[もともと],Originally,このホテルは元々アパートだったんです。,このホテルは 元々[もともと]アパートだったんです。,This hotel was originally an apartment.,True,,,,9
+2032,元パートナー,元[もと]パートナー,Ex-Partner,元パートナーからテキストがきた。,元[もと]パートナーからテキストがきた。,I got a text from my ex-partner.,True,,,,3
+2033,心強い,心強[こころづよ]い,Reassuring,これは心強いデータですね！,これは 心強[こころづよ]いデータですね！,This is heartening data!,True,,,,9
+2034,内ポケット,内[うち]ポケット,Inside Pocket,このスーツのジャケットには内ポケットがありません。,このスーツのジャケットには 内[うち]ポケットがありません。,This suit jacket doesn't have an inside pocket.,True,,,,7
+2035,石ころ,石[いし]ころ,Small Stone,オレンジ色の石ころが川に入った。,オレンジ 色[いろ]の 石[いし]ころが 川[かわ]に 入[はい]った。,An orange stone entered the river.,True,,,,6
+2036,他の人,他[ほか]の 人[ひと],Someone Else,いいよ、他の人にしてもらうから！,いいよ、 他[た]の 人[ひと]にしてもらうから！,"Fine, I'll have someone else do it!",True,,,,6
+2037,ナポレオン三世,ナポレオン 三[さん] 世[せい],Napoleon The Third,今日は、ナポレオン三世について学びましょう。,今日[きょう]は、ナポレオン 三[さん] 世[せい]について 学[まな]びましょう。,"Today, we're going to learn about Napoleon The Third.",True,,,,7
+2038,田んぼ,田[た]んぼ,Rice Paddy,アジアには田んぼがたくさんある。,アジアには 田[た]んぼがたくさんある。,There are a lot of rice paddies in Asia.,True,,,,2
+2039,三日月,三[みっ] 日[か] 月[つき],Crescent Moon,今日は三日月です。,今日[きょう]は 三日月[みかつき]です。,There's a crescent moon today.,True,,,,5
+2040,立場,立場[たちば],Standpoint,この家では父が弱い立場にいます。,この 家[いえ]では 父[ちち]が 弱[よわ]い 立場[たちば]にいます。,"In this house, the father is in a weak position.",True,,,,9
+2041,上手い,上手[うま]い,Good At,パパはテニスが上手い。,パパはテニスが 上手[うま]い。,Dad is good at tennis.,True,,,,5
+2042,教わる,教[おそ]わる,To Learn Something From Someone,アップルパイのレシピは、おばあちゃんに教わるといいよ。,アップルパイのレシピは、おばあちゃんに 教[おそ]わるといいよ。,You should learn an apple pie recipe from Grandma.,True,,,,10
+2043,正月,正月[しょうがつ],New Year,もうすぐ、お正月ですね。,もうすぐ、お 正月[しょうがつ]ですね。,New Year's is coming soon.,True,,,,7
+2044,去る,去[さ]る,To Leave,どうせすぐブームは去るよ。,どうせすぐブームは 去[さ]るよ。,The boom will be over soon anyway.,True,,,,10
+2045,三十代,三十[さんじゅう] 代[だい],One's Thirties,あの男は三十代です。,あの 男[おとこ]は 三十[さんじゅう] 代[だい]です。,The man over there is in his thirties.,True,,,,5
+2046,代金,代金[だいきん],Cost,本の代金はカードではらいます。,本[ほん]の 代金[だいきん]はカードではらいます。,I would like to pay for the books by card.,True,,,,5
+2047,明かり,明[あ]かり,Light,ここからは町の明かりが見える。,ここからは 町[まち]の 明[あ]かりが 見[み]える。,You can see the city's lights from here.,True,,,,9
+2048,下る,下[くだ]る,To Descend,あとはそのまま来た道を下るだけだ。,あとはそのまま 来[き]た 道[みち]を 下[くだ]るだけだ。,"After that, we just go back down the way we came.",True,,,,9
+2049,仕組み,仕組[しく]み,System,次のビジネスの仕組みを考えています。,次[つぎ]のビジネスの 仕組[しく]みを 考[かんが]えています。,We're trying to figure out how to structure our next business.,True,,,,7
+2050,受け取る,受[う]け 取[と]る,To Receive Something,海外から年金を受け取る方法ってありますか？,海外[かいがい]から 年金[ねんきん]を 受[う]け 取[と]る 方法[ほうほう]ってありますか？,Is there a way to receive a pension from overseas?,True,,,,9
+2051,十分,十[じゅう] 分[ふん],Enough,あなたは十分がんばりました！,あなたは 十分[じゅうぶん]がんばりました！,You have worked hard enough!,True,,,,6
+2052,一ヶ月,一[いち] ヶ 月[げつ],One Month,クリスマスまであと一ヶ月ですね！,クリスマスまであと 一[いち] ヶ 月[げつ]ですね！,It's one more month until Christmas!,True,,,,9
+2053,〜ヶ月,〜 ヶ 月[げつ],Counter For Months,日本の学校の夏休みは一ヶ月しかありません。,日本[にっぽん]の 学校[がっこう]の 夏休[なつやす]みは 一[いち] ヶ 月[げつ]しかありません。,Japanese schools only have one month of summer vacation.,True,,,,9
+2054,十分間,十[じゅう] 分間[ふんかん],Ten Minutes,ここで十分間休みましょう。,ここで 十[じゅう] 分間[ふんかん] 休[やす]みましょう。,Let's rest here for ten minutes.,True,,,,9
+2055,一ヶ所,一[いち] ヶ 所[しょ],One Place,テストで一ヶ所だけミスをしてしまった。,テストで 一[いち] ヶ 所[しょ]だけミスをしてしまった。,I made just one mistake on the test.,True,,,,10
