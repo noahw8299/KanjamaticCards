@@ -1,11 +1,61 @@
-国会議事堂,国会議事堂,国会[こっかい] 議事[ぎじ] 堂[どう],Houses of Parliament,国会議事堂は見学したいんですが、どうしたらいいですか,国会[こっかい] 議事[ぎじ] 堂[どう]は 見学[けんがく]したいんですが、どうしたらいいですか,"I would like to tour the National Diet Building, what should I do?",True,,,
-見学,見学,見学[けんがく],visit,国会議事堂は見学したいんですが、どうしたらいいですか,国会[こっかい] 議事[ぎじ] 堂[どう]は 見学[けんがく]したいんですが、どうしたらいいですか,"I would like to tour the National Diet Building, what should I do?",True,,,
-直接,直接,直接[ちょくせつ],directly,直接いったらいいですよ,直接[ちょくせつ]いったらいいですよ,It's better if you go directly,True,,,
-引っ越す,引っ越す,引[ひ]っ 越[こ]す,move,ミラーさん引っ越しの荷物は片づきました,ミラーさん 引[ひ]っ 越[こ]しの 荷物[にもつ]は 片[かた]づきました,Mr. Miller has packed up his moving belongings.,True,,,
-荷物,荷物,荷物[にもつ],luggage,ミラーさん引っ越しの荷物は片づきました,ミラーさん 引[ひ]っ 越[こ]しの 荷物[にもつ]は 片[かた]づきました,Mr. Miller has packed up his moving belongings.,True,,,
-片づく,片づく,片[かた]づく,Tidy up,ミラーさん引っ越しの荷物は片づきました,ミラーさん 引[ひ]っ 越[こ]しの 荷物[にもつ]は 片[かた]づきました,Mr. Miller has packed up his moving belongings.,True,,,
-燃える,燃える,燃[も]える,burn,燃えるごみは月曜日朝出してください,燃[も]えるごみは 月曜[げつよう] 日[ひ] 朝[あさ] 出[だ]してください,Please put out your burnable garbage on Monday morning.,True,,,
-駐車場,駐車場,駐車[ちゅうしゃ] 場[じょう],parking,ごみ置き場は駐車場の横です,ごみ 置[お]き 場[ば]は 駐車[ちゅうしゃ] 場[じょう]の 横[よこ]です,Garbage storage is next to the parking lot,True,,,
-瓶,瓶,瓶[びん],bottle,瓶や缶はいつですか,瓶[びん]や 缶[かん]はいつですか,When are bottles and cans available?,True,,,
-缶,缶,缶[かん],can,瓶や缶はいつですか,瓶[びん]や 缶[かん]はいつですか,When are bottles and cans available?,True,,,
-修理,修理,修理[しゅうり],repair,自転車を修理します,自転[じてん] 車[しゃ]を 修理[しゅうり]します,repair the bicycle,True,,,
+落とす,落とす,落[お]とす,"Transitive verb - Godan verb with 'su' ending
+to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid); to leave behind",一つ精油お湯数滴,一つ[ひと]精油[せいゆ]お湯[おゆ]数滴[すうてき],One way to enjoy aromatherapy is to place a few drops of essential oil into hot water and inhale the vapor that rises from the water.,True,,,
+落ちる,落ちる,落[お]ちる,"Intransitive verb - Ichidan verb
+to fall; to drop; to come down; to crash; to collapse; to cave in; to give way",何度無くなった,何度[なんど]無くなった[な],I kept failing the exam time after time and eventually lost the confidence to pass it. ,True,,,
+出す,出す,出[だ]す,"Transitive verb - Godan verb with 'su' ending
+to take out; to get out",行き詰まり洗い出す,行き詰まり[いきづ]洗い出す[あらいだ],"If you are feeling stuck in your current state of being, you need to reconsider the status quo and identify the issues.",True,,,
+出る,出る,出[で]る,"Intransitive verb - Ichidan verb
+to leave; to exit; to go out; to come out; to get out",昨夜秒速50メートル樹木倒壊する,昨夜[さくや]秒速[びょうそく]50メートル[ごじゅう]樹木[じゅもく]倒壊する[とうかい],"Last night’s ferocious typhoon, with a maximum recorded instantaneous wind speed of 50 meters per second, caused extensive damage, including uprooted trees in many areas.",True,,,
+入れる,入れる,入[い]れる,"Transitive verb - Ichidan verb
+to put in; to let in; to take in; to bring in; to insert; to install (e.g. software); to set (a jewel, etc.); to ink in (e.g. tattoo)",老い外見,老い[お]外見[がいけん],"As you age, it is natural to develop wrinkles and sagging skin on your face. You have no choice but to accept the external changes in your appearance.",True,,,
+入る,入る,入[はい]る,"Intransitive verb - Godan verb with 'ru' ending
+to enter; to come in; to go in; to get in; to arrive",正門前怖い先輩先輩裏門入った,正門前[せいもんまえ]怖い[こわ]先輩[せんぱい]先輩[せんぱい]裏門[うらもん]入った[はい],"There was a scary senior student in front of the main gate of the school, so I sneaked in through the back gate to avoid being seen.",True,,,
+開ける,開ける,開[あ]ける,"Transitive verb - Ichidan verb
+to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",祈る合否開けた,祈る[いの]合否[ごうひ]開けた[あ],"I opened  the sealed envelope informing me of my acceptance or rejection, praying that I had been accepted.",True,,,
+開く,開く,開[ひら]く,"Intransitive verb - Godan verb with 'ku' ending
+to open; to undo; to unseal; to unpack",野党各党図る連日会合開いて,野党各党[やとうかくとう]図る[はか]連日[れんじつ]会合[かいごう]開いて[ひら],Opposition political parties are meeting daily in an effort to strengthen their solidarity ahead of the upcoming election.,True,,,
+閉める,閉める,閉[し]める,"Transitive verb - Ichidan verb
+to close; to shut",息子はドアをバタンと閉めて怒りを表わした,息子[むすこ]はドアをバタンと閉めて[し]怒り[いか]を表わした[あらわ],The son demonstrated his anger by shutting the door and noisily.,True,,,
+閉まる,閉まる,閉[し]まる,"Intransitive verb - Godan verb with 'ru' ending
+to be shut; to close; to be closed",窓が閉まっているか確かめとけ,窓[まど]が閉まっている[しま]か確かめ[たし]とけ,See that the window is closed.,True,,,
+つける,つける,つける,"Transitive verb - Ichidan verb
+to attach; to join; to connect; to add; to append; to affix; to stick; to glue; to fasten; to sew on; to apply (ointment); to put against",間もない馴染み居場所,間もない[ま]馴染み[なじ]居場所[いばしょ],"Even though I transferred to a new school only a short time ago, I quickly found my feet in the new class, and
+feel comfortable in the school.",True,,,
+つく,つく,つく,"Intransitive verb - Godan verb with 'ku' ending
+to arrive at; to reach",仕上げなければ山前ため息,仕上げなければ[しあ]山[やま]前[まえ]ため息[ためいき],The student breathed out a sigh of anguish at the sight of the pile of papers due the next week.  ,True,,,
+消す,消す,消[け]す,"Transitive verb - Godan verb with 'su' ending
+to erase; to rub out; to rub off; to cross out; to delete",騒音に消されて私の声は人に届かなかった,騒音[そうおん]に消されて[け]私の[わたし]声[こえ]は人[ひと]に届かなかった[とど],I couldn't make myself heard above the noise.,True,,,
+消える,消える,消[き]える,"Intransitive verb - Ichidan verb
+to disappear; to vanish; to go out of sight; to go away; to become lost",軈て幽霊は濃い霧の中に消えた,軈て[やが]幽霊[ゆうれい]は濃い[こ]霧[きり]の中[なか]に消えた[き],"Before long, the ghost disappeared into a thick fog.",True,,,
+抜く,抜く,抜[ぬ]く,"Transitive verb - Godan verb with 'ku' ending
+to pull out; to draw out; to extract; to unplug; to weed",それは定石通りというだけで手を抜いたわけではないのです,それは定石[じょうせき]通り[どお]というだけで手を抜いた[てをぬ]わけではないのです,"That's just standard practise, it's not like they're cutting corners.",True,,,
+抜ける,抜ける,抜[ぬ]ける,"Intransitive verb - Ichidan verb
+to come out; to fall out; to be omitted; to be missing; to escape; to come loose",人込みを体を横にして抜けた,人込みを体[からだ]を横[よこ]にして抜けた[ぬ],He edged sideways through the crowd.,True,,,
+割れる,割れる,割[わ]れる,"Intransitive verb - Ichidan verb
+to break; to be smashed",騒音で頭が割れそうだ,騒音[そうおん]で頭[あたま]が割れ[わ]そうだ,My head is splitting from the noise.,True,,,
+破れる,破れる,破[やぶ]れる,"Intransitive verb - Ichidan verb
+to break; to be smashed",斜め切れ目入れて皮,斜め[なな]切れ目[きれめ]入れて[い]皮[かわ],Make diagonal slits in the sausage before grilling to prevent the skin from tearing.,True,,,
+痩せる,痩せる,痩[や]せる,"Intransitive verb - Ichidan verb
+to become thin; to lose weight; to reduce (one's) weight; to slim",痩せるためには何かスポーツをしたほうがよい,痩せる[や]ためには何か[なに]スポーツをしたほうがよい,In order to lose weight you had better take up some sport.,True,,,
+ずいぶん,ずいぶん,ずいぶん,"Adverb taking the 'to' particle - Adverb (fukushi)
+very; extremely; surprisingly; fairly; quite; considerably; awfully; terribly",1年経ち田舎暮らし,1年[いちねん]経ち[た]田舎暮らし[いなかぐ],"It has been a year since I moved here, and I have become quite accustomed to rural life.",True,,,
+布,布,布[ぬの],"Noun
+cloth; fabric; material; textile",財布日無くなって,財布[さいふ]日[ひ]無くなって[な],I left my wallet in the classroom. It was no longer there when I went to collect it the next day.,True,,,
+袋,袋,袋[ふくろ],"Noun
+bag; sack; pouch",素敵な手袋をしていますね,素敵な[すてき]手袋[てぶくろ]をしていますね,Those are nice gloves you have on.,True,,,
+折れる,折れる,折[お]れる,"Intransitive verb - Ichidan verb
+to break; to be broken; to snap; to fracture",彼は彼女に車を運転させるつもりはなかったのだが彼女があまりにせがむものだから彼の方がとうとう折れた,彼[かれ]は彼女[かのじょ]に車[くるま]を運転させる[うんてん]つもりはなかったのだが彼女[かのじょ]があまりにせがむものだから彼の[かれ]方[ほう]がとうとう折れた[お],He didn't intend to let her drive but she pestered him so much that he finally gave in.,True,,,
+折る,折る,折[お]る,"Transitive verb - Godan verb with 'ru' ending
+to break; to fracture; to break off; to snap off; to pick (e.g. flowers)",あそうだに変なことしたら背骨を折る,あそうだに変な[へん]ことしたら背骨[せぼね]を折る[お],One more thing. If you try anything on Mayu I'll break your spine.,True,,,
+歯,歯,歯[は],"Noun
+tooth; teeth",息子の乳歯が永久歯に変わりました,息子[むすこ]の乳歯[にゅうし]が永久歯[えいきゅうし]に変わりました[か],All my son's adult teeth are in.,True,,,
+欠ける,欠ける,欠[か]ける,"Intransitive verb - Ichidan verb
+to chip; to be chipped; to break (off); to be damaged",西洋人の中には私たちの家屋には彼らが不可欠と考えるもの全てが欠けていると思う人もいるだろう,西洋人[せいようじん]の中[なか]には私たち[わたし]の家屋[かおく]には彼ら[かれ]が不可欠[ふかけつ]と考える[かんが]もの全て[すべ]が欠けている[かけ]と思う[おも]人[ひと]もいるだろう,Some Westerners may think our houses are lacking in everything they consider essential.,True,,,
+張る,張る,張[は]る,"Transitive verb - Godan verb with 'ru' ending
+to stick; to paste; to affix",川の近くにテントを張った,川[かわ]の近く[ちか]にテントを張った[は],We set up the tent next to the river.,True,,,
+仕舞う,仕舞う,仕舞[しま]う,"Transitive verb - Godan verb with 'u' ending
+to finish; to stop; to end; to put an end to; to bring to a close",息子はあの棚の上の本を全て読んでしまった,息子[むすこ]はあの棚[たな]の上の[うえ]本[ほん]を全て[すべ]読んで[よ]しまった,My son has read every book on that shelf.,True,,,
+掛ける,掛ける,掛[か]ける,"Transitive verb - Ichidan verb
+to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from); to hoist (e.g. sail); to raise (e.g. flag)",身命をかけて職務を実践しすべての警察官の心に火をともしてくれました,身命[しんめい]をかけて職務[しょくむ]を実践[じっせん]しすべての警察官[けいさつかん]の心[こころ]に火[ひ]をともしてくれました,He risked his life to carry out his duty and inspired police officers everywhere.,True,,,
+ホッチキス,ホッチキス,ホッチキス,"Noun
+stapler; paper fastener",ホッチキスを貸してくれませんか,ホッチキスを貸して[か]くれませんか,Will you please lend me a stapler?,True,,,
