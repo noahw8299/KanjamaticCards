@@ -48,19 +48,17 @@ Generates a CSV file suitable for import into Anki, a popular flashcard applicat
 
 5. Import the generated CSV file into Anki to create flashcards with furigana, definitions, and translations.
 
-## Example
 
-...python
-# Example Vocabulary CSV ('new_vocab.csv')
+## Example Vocabulary CSV ('new_vocab.csv')
 Vocab
 私
 貴女
 ...
 
-# Run the script
+## Run the script
 python generate_anki_csv.py
 
-# Generated CSV ('vocab.csv') suitable for Anki
+## Generated CSV ('vocab.csv') suitable for Anki
 index,word,word_with_reading,definition,example_sentence,sentence_with_reading,sentence_translation,Kanji,v1,word_audio,sentence_audio
 私,私,私[わたし],I; me,私は学生です。,私は学生です。,I am a student.,True,,,,,
 貴女,貴女,貴女[あなた],You (polite),貴女は先生ですか？,貴女は先生ですか？,Are you a teacher?,True,,,,,
